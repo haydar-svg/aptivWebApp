@@ -1,0 +1,2006 @@
+[
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";;;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";No. Of Records:;;;;;;PSA Norm only;;;;A;Aptiv / Delphi;Double stamping;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";543;;;;;;VW Norm only;;;;U;Uscar21;Need confirmation;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";;;;;;;;;;;S;Supplier;comment;Tested. Can be processed with the standard monitoring parameters.;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";;;;;;;;;;;O;Other (restricted usage);;Press the ü to see the special parameters for each application.;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";;;;;;;;;;;X;set made for special purposes/projects;;Blank - monitoring not tested with this terminal - follow POS parameters;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "ITEM;DPN;\"Record\nDuplication\nControl\";\"TERMINAL\nINFORMATIONS\n or additional descriptions\";Information from the tests;;;;;;;Applicable for;;;MONITORING SYSTEMS;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";;;;;;;;;;;;;;OES;;;CFA;;CFA+;DOUBLE-X;;SLE;KISTLER;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": ";;;;Plant;Responsable;Date;Test reason;tested SECTION;\"tested \nWIRE\";SEAL;records acc. Norm; Cross sect.;Comment;\"CPM\n4000\";\"CPM\n4100\";\"CFM\n5XXX\";711;\"721/2\nC3170\";\"721/2\nC3170\";711;\"721/2\nC3170\";SLE;CC2;CC3;OTHER;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "01;10811252;1;ASM TERM  F 0.64 MQS SN;Tangier;Ahmed Aoulad dfouf;19/11/2008;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "02;12198039;1;ASM TERM  F 0.63 MQS SN  TANG;\"Tangier\nRomenia\";\"Ahmed Aoulad dfouf\nAlexandru Mora\";\"19-Nov-2008\n16-Oct-2008\";Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "03;;0;;Marrocos;Youssef K.;07/05/2012;;;;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "04;15316618;1;TERM F  UNSLD .20 ~ .60 AU  ;Tangier;Omar Amri;11/12/2008;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "05;;0;double stamping issue;C.Branco;Rui Nunes;03/07/2009;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "06;13663330;1;TERM  F MTS 0.64 F.SN3;Izmir;Christian Staab;;0.13mm² Projecto - Ford -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "07;13742841;1;TERM  F 0.64 GET-2 SN;Izmir;Christian Staab;16/04/2010;0.13mm² Projecto - Ford -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "08;10780330;1;ASM TERM  F 0.64 MQS SN  TANG;Izmir;Christian Staab;16/04/2010;0.13mm² Projecto - Ford -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "09;13580943;1;TERM  F 040 III SN;;;;0.13mm² Projecto - NA -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "10;13594324;1;TERM  F 090 II SN;;;;0.13mm² Projecto - NA -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "11;15448359;1;;Izmir;Baris Kutahya;16/04/2010;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "12;;0;;DPT;Ennair El Gahazi;10/09/2015;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "13;15417115;1;;Izmir;Baris Kutahya;16/04/2010;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "14;10846792;1;;Izmir;Baris Kutahya;16/04/2010;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "15;10846789;1;;Izmir;Baris Kutahya;16/04/2010;Double-X & 0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "16;;0;;DPT;Mohamed el Fadily;24/09/2015;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "17;12185232;1;;Izmir;Baris Kutahya;16/04/2010;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "18;15324953;1;;Izmir;Baris Kutahya;16/04/2010;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "19;;0;;Izmir;Remzi Sakin;01/12/2015;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "20;10725699;1;;Izmir;Baris Kutahya;16/04/2010;Double-X & 0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "21;;0;;Tangier;Abdelaziz Rharha;17/05/2013;\"Norma crimp:\nHight level of scrap.\";0.35 & 0.50;FLRY-A;NA;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "22;15338318;1;;Izmir;Baris Kutahya;16/04/2010;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "23;15344765;1;;Izmir;Baris Kutahya;16/04/2010;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "24;15324434;1;;Izmir;Baris Kutahya;16/04/2010;Double-X & 0.35;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "25;;0;Volvo;Bursa;Alkan Emrah;22/11/2012;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "26;12129373;1;;Izmir;Baris Kutahya;16/04/2010;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "27;15425677;1;;Izmir;Baris Kutahya;16/04/2010;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "28;10780329;1;;Izmir;Baris Kutahya;16/04/2010;0.13mm² Projecto - Ford -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "29;13787415;1;\"Delphi Terminal\n(To replace the 10780330)Tyco Term.\";Izmir;Baris Kutahya;16/04/2010;0.13mm² Projecto - Ford -;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "30;10769453;1;;Kraków;Michal Miarka;12/10/2010;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "31;12158468;1;;Kraków;Michal Miarka;12/10/2010;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "32;15462696;1;;C.Branco;Paulo Venâncio;09/12/2010;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "33;15337741;1;;Sinicolau;Alex. Mora;22/12/2010;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "34;10725694;1;;C.Branco;Paulo Venâncio;28/12/2010;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "35;;0;;Bursa;C. Alface;13/04/2012;Double-X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "36;;0;;DASM;Abderrahim  E.;26/06/2015;Picture NOK;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "37;15423845;1;;C.Branco;Paulo Venâncio;20/01/2011;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "38;10775063;1;;Sinicolau;Alex. Mora;28/01/2011;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "39;13540188;1;;Sinicolau;Alex. Mora;28/01/2011;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "40;13760268;1;;Sinicolau;Alex. Mora;31/01/2011;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "41;15452074;1;;C.Branco;Paulo Venâncio;31/01/2011;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "42;15327237;1;;Ineu;Petro Rotar;08/02/2011;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "43;13751405;1;;Sinicolau;Alex. Mora;08/02/2011;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "44;13819407;1;Sealing terminal for 0.13smm;Wuppertal;;21/03/2011;New term. For 0.13 ;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "45;13836462;1;;Wuppertal;;21/03/2011;New term. For 0.13 ;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "46;13804118;1;;Wuppertal;;21/03/2011;New term. For 0.13 ;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "47;13653385;1;C7 & Skoda Project;Sinicolau;Alex. Mora;01/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "48;10783103;1;;Tangier;;01/07/2011;New Prod.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "49;10725739;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "50;;0;CVTS Rec.1174;;;;Delphi POS;;;;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "51;10774281;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "52;10864927;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "53;13609027;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "54;10725740;1;;C.Branco;Carla Pinto;20/07/2011;Hight level of scrap.;1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "55;15409763;1;;Ineu;Petro Rotar;20/07/2011;Hight level of scrap.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "56;10736866;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "57;12191298;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "58;13609463;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "59;13696520;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/07/2011;VW Norm only;1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "60;13714557;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/07/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "61;;0;;DPT;Abderrahim;07/03/2015;FORD CD39.1;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "62;10724760;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;3"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "63;10725405;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "64;10736871;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "65;10774686;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "66;10864924;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "67;13539676;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "68;13609026;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "69;13609464;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "70;13609492;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "71;13609493;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "72;13664858;1;C7 & Skoda Project;Sinicolau;Alex. Mora;29/09/2011;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "73;10724458;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;4"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "74;10736860;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "75;10740323;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "76;10740325;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "77;10774684;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "78;10776381;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "79;10779946;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "80;12105733;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "81;;0;\"TERM F 187 SN; cvts 10138\";Bursa;Remzi Sakin;18/12/2017;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "82;12124399;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "83;13571412;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "84;13609029;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "85;13696375;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "86;13696535;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "87;13697264;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "88;13696582;1;C7 & Skoda Project;Sinicolau;Alex. Mora;09/11/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "89;10725665;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "90;10736864;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "91;10738585;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "92;10740324;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "93;10863389;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "94;10774682;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "95;10865171;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "96;13665836;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "97;10763396;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "98;;0;Tyco 0-1241402-1;TCK;M. Zmuda;20/09/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "99;13696529;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "100;15414369;1;C7 & Skoda Project;Sinicolau;Alex. Mora;07/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "101;10740322;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "102;10820519;1;BVH2 - Project (PSA);Tanger;Lotfi Bakkali;20/12/2011;PSA Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "103;10725372;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "104;10736873;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "105;10775902;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "106;10865846;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "107;13577654;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "108;13696524;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "109;13861969;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "110;10736869;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "111;10774685;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "112;10776382;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "113;10865163;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "114;10865170;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "115;;0;ASM TERM F 1.2 MCON-LL AG SEALED ;Kenitra;Zinbi Karim;22/05/2019;Lack of detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "116;12158241;1;J.Deere;C.Branco;Paulo Venâncio;22/12/2011;Hight scrap Gen.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "117;13865957;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "118;13865958;1;C7 & Skoda Project;Sinicolau;Alex. Mora;20/12/2011;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "119;13579115;1;C7 & Skoda Project;Sinicolau;Alex. Mora;10/01/2012;VW Norm only;4.00mm²;FLRY-B;;S;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "120;10724579;1;C7 & Skoda Project;Sinicolau;Alex. Mora;17/02/2012;VW Norm only;0.50mm²;FLRY-B;;S;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "121;10725459;1;C7 & Skoda  / BVH2 ;Sinicolau;Alex. Mora / Khattabi;17/02/2012;VW Norm only;0.50mm²;FLRY-B;;S;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "122;10736880;1;C7 & Skoda  ;Sinicolau;Alex. Mora ;17/02/2012;VW Norm only;0.35mm²;FLRY-A;;S;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "123;10779419;1;C7 & Skoda  / BVH2 ;Sinicolau;Alex. Mora / Khattabi;17/02/2012;VW Norm only;6.00mm²;FLRY-B;;S;6.00;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "124;10779820;1;C7 & Skoda  ;Sinicolau;Alex. Mora ;17/02/2012;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "125;;0;POS;Kenitra;Youssef Khatabi;04/11/2014;-;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "126;;0;ASM TERM F 1.5 MQS SN"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "127;13716164;1;C7 & Skoda  ;Sinicolau;Alex. Mora ;17/02/2012;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "128;10730997;1;BVH2 - Project (PSA);Marrocos;Youssef Khatabi;15/03/2012;PSA Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "129;;0;;Marrocos;Youssef Khatabi;13/10/2015;Picture NOK;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "130;10736867;1;C7 & Skoda  ;Sinicolau;Alex. Mora ;15/03/2012;VW Norm only;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "131;15304710;1;;C. Branco;M.leitão;01/03/2012;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "132;10738197;1;HBV2-PSA;Marrocos;Youssef Khatabi;01/03/2012;VW Norm only;1.00;IRT2;;S;1.00-2.50;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "133;10738202;1;HBV2-PSA;Marrocos;Youssef Khatabi;20/03/2012;VW Norm only;1.50+1.50/4.00;IRT2;;S;3.00-5.00;for VW customer;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "134;10776370;1;;Bursa;Alkan Emrah;20/03/2012;VW Norm only;1.50;FLRY-B;;S;1.50-2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "135;12191811;1;;C. Branco;M.leitão;22/03/2012;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "136;;0;;C.Branco;Bruno Nascimento;;-;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "137;15380918;1;;C.Branco;M.leitão;22/03/2012;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "138;10725051;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "139;10725692;1;;Turquia;Emrah;26/03/2012;;0.35mm²;FLRY-B;;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "140;10737207;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "141;10737242;1;;TCK;M. Badura;20/11/2019;revision of previous set;;;;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "142;;0;;Turquia;Emrah;26/03/2012;;;;;X;;obsolete;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "143;10738167;1;Done By Krakow;;Rafall;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "144;10788874;1;;Turquia;Emrah;27/03/2012;;;;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "145;10789065;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;0.50mm²;FLRY-B;NO;A;>0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "146;10820518;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "147;13609248;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "148;13665314;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "149;;0;CVTS Rec.14587;Marrocos;Youssef K.;06/09/2016;-;;;;U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "150;13665688;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "151;13665837;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "152;13802510;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "153;13802512;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "154;13875725;1;;Wuppertal;;21/03/2011;New term. For 0.13 ;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "155;15365809;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "156;15492980;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "157;13752408;1;HBV2-PSA;Marrocos;Youssef K.;26/03/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "158;10740376;1;HBV2-PSA;Marrocos;Youssef K.;24/04/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "159;10769366;1;HBV2-PSA;Marrocos;Youssef K.;24/04/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "160;10775897;1;HBV2-PSA;Marrocos;Youssef K.;24/04/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "161;15405556;1;;Turquia;Emrah;07/05/2012;;;;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "162;15484553;1;;Bursa;Alkan Emrah;07/05/2012;;;;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "163;15414435;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "164;15339587;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "165;;0;According POS / CVTS Rec.1917;Marrocos;ABDERRHMAN & ILIAS;06/01/2017;Picture NOK;;;;A;≥0.50;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "166;15398716;1;;Bursa;Alkan Emrah;07/05/2012;VW Norm only;;;;S;;for VW customer;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "167;15327080;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "168;;0;;Krakow;J.Dudkiewicz;;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "169;;0;;Krakow;Michal Adamczyk;;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "170;10865169;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "171;10846454;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "172;10846447;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "173;10811968;1;;Bursa;Alkan Emrah;07/05/2012;;;;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "174;10811251;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "175;;0;made acc. cvts 11940;Meknes;BAAJOUJ Mohamed;13/03/2019;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "176;10788716;1;;C. Branco;M.leitão;07/05/2012;;;;;;;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "177;10748131;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "178;;0;According POS;Wuppertal;Arthur;20/10/2016;for T3ZHID 7 strand release;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "179;10776485;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "180;10781022;1;HBV2-PSA;Marrocos;Youssef K.;07/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "181;10779316;1;HBV2-PSA;Marrocos;Youssef K.;08/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "182;10846793;1;HBV2-PSA;Marrocos;Youssef K.;08/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "183;15344847;1;;Bursa;Alkan Emrah;08/05/2012;;;;;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "184;15414438;1;HBV2-PSA;Marrocos;Youssef K.;08/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "185;13896833;1;;Senica;;16/05/2012;;;;;A;≥0.35;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "186;13896834;1;;Senica;;16/05/2012;;;;;A&U;≥0.35;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "187;10780987;1;HBV2-PSA;Marrocos;Youssef K.;16/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "188;10725046;1;HBV2-PSA;Marrocos;Youssef K.;22/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "189;10757192;1;Done By Krakow;;Rafall;22/05/2012;;;;;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "190;10763230;1;HBV2-PSA;Marrocos;Youssef K.;22/05/2012;PSA Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "191;10820713;1;;C. Branco;M.leitão;22/05/2012;;;;;A;≥0.35;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "192;10846818;1;HBV2-PSA;Marrocos;Youssef K.;22/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "193;10865173;1;HBV2-PSA;Marrocos;Youssef K.;22/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "194;12105044;1;;C. Branco;M.leitão;22/05/2012;;;;;A;≥0.35;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "195;12147394;1;;C. Branco;M.leitão;22/05/2012;;;;;A;≥0.50;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "196;12186637;1;;Meknes;BAAJOUJ Mohamed;19/04/2019;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "197;;0;HBV2-PSA;Marrocos;Youssef K.;22/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "198;10811983;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "199;13761154;1;HBV2-PSA;Marrocos;Youssef K.;;;;;;A;;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "200;;0;HBV2-PSA;Marrocos;Youssef K.;25/05/2012;PSA Norm only;;;;A;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "201;13862250;1;HBV2-PSA;Marrocos;Youssef K.;25/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "202;15386389;1;HBV2-PSA;Marrocos;Youssef K.;25/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "203;15492981;1;HBV2-PSA;Marrocos;Youssef K.;25/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "204;15340685;1;HBV2-PSA;Marrocos;Youssef K.;29/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "205;13824960;1;HBV2-PSA;Marrocos;Youssef K.;29/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "206;13879001;1;HBV2-PSA;Marrocos;Youssef K.;29/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "207;;0;Ring terminal;Marocco;Ouboulman"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "208;;0;Clio X98 Oyak;Bursa;Remzi Sakin;05/03/2015;-;2.00mm²;R3Z;;A;≥2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "209;15398701;1;HBV2-PSA;Marrocos;Youssef K.;29/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "210;15414370;1;HBV2-PSA;Marrocos;Youssef K.;29/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "211;15492978;1;HBV2-PSA;Marrocos;Youssef K.;29/05/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "212;10810446;1;HBV2-PSA;Marrocos;Youssef K.;06/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "213;10889802;1;HBV2-PSA;Marrocos;Youssef K.;06/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "214;13825183;1;HBV2-PSA;Marrocos;Youssef K.;06/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "215;13899390;1;HBV2-PSA;Marrocos;Youssef K.;06/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "216;10865185;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "217;12198447;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "218;13800306;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "219;15327212;1;tested using CVTS Rec's. 1239 / 2138 / 4192 / 4396 & 9449;DPK;Oussama Mouhdani;26-04-207;Due to rejection issue.;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "220;;0;ASM TERM F 0.64 MQS SN SEALED;TCK;Jakub Pańczyk;17/08/2017;High level of scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "221;;0;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "222;;0;ASM TERM F 0.64 MQS SN SEALED"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "223;;0;VW;CTC;Philipps Joerg;20/11/2012;unknown;;;;X;;Need confirmation;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "224;15327261;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "225;15494340;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "226;15446415;1;HBV2-PSA;Marrocos;Youssef K.;12/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "227;13824962;1;HBV2-PSA;Marrocos;Youssef K.;19/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "228;15492986;1;HBV2-PSA;Marrocos;Youssef K.;19/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "229;15364267;1;HBV2-PSA;Marrocos;Youssef K.;19/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "230;10748126;1;HBV2-PSA;Marrocos;Youssef K.;21/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "231;13824262;1;HBV2-PSA;Marrocos;Youssef K.;21/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "232;13799564;1;HBV2-PSA;Marrocos;Youssef K.;22/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "233;15492979;1;HBV2-PSA;Marrocos;Youssef K.;22/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "234;15392978;1;HBV2-PSA;Marrocos;Youssef K.;22/06/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "235;10775838;1;HBV2-PSA ;Marrocos;Youssef K.;04/07/2012;PSA Norm only;0.75mm²;FLRY-B;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "236;;0;Pict_NOK Acc. POS;Marrocos;Abderrahim;26/05/2014;;0.50mm²;FLRY-B;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "237;10846448;1;HBV2-PSA;Marrocos;Youssef K.;04/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "238;13580661;1;HBV2-PSA;Marrocos;Youssef K.;04/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "239;13761651;1;HBV2-PSA;Marrocos;Youssef K.;04/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "240;10725758;1;HBV2-PSA;Marrocos;Youssef K.;05/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "241;10863780;1;HBV2-PSA;Marrocos;Youssef K.;05/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "242;12198436;1;HBV2-PSA;Marrocos;Youssef K.;05/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "243;12059894;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "244;13736002;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "245;13661318;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "246;15304701;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "247;15327842;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "248;15343813;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "249;15343821;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "250;15363648;1;;C. Branco;Ricardo Ferreira;09/07/2012;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "251;10756743;1;HBV2-PSA;Marrocos;Youssef K.;10/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "252;13862406;1;HBV2-PSA;Marrocos;Youssef K.;10/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "253;13642523;1;HBV2-PSA;Marrocos;Youssef K.;10/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "254;13800307;1;HBV2-PSA;Marrocos;Youssef K.;13/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "255;13825182;1;HBV2-PSA;Marrocos;Youssef K.;13/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "256;15492988;1;HBV2-PSA;Marrocos;Youssef K.;13/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "257;15494338;1;HBV2-PSA;Marrocos;Youssef K.;13/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "258;10740375;1;;Marrocos;Youssef K.;01/08/2012;;;;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "259;10738196;1;Done By Krakow/Lisbon;Marrocos;Youssef K.;23/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "260;10763401;1;Done By Krakow;Marrocos;Youssef K.;;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "261;10763712;1;Done By Krakow;Marrocos;Youssef K.;01/08/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "262;10775312;1;Done By Krakow;Marrocos;Youssef K.;01/08/2012;PSA Norm only;;;;A;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "263;10777904;1;Done By Krakow;;;;;;;;A;≥2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "264;10777908;1;Done By Krakow;Marrocos;Youssef K.;10/09/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "265;15494339;1;HBV2-PSA;Marrocos;Youssef K.;13/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "266;15414439;1;HBV2-PSA;Marrocos;Youssef K.;19/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "267;13858759;1;HBV2-PSA;Marrocos;Youssef K.;25/07/2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "268;13532149;1;Ford;Bursa;Alkan Emrah;01/08/2012;;;;;U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "269;13645472;1;HBV2-PSA;Marrocos;Youssef K.;7-08-2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "270;13879010;1;HBV2-PSA;Marrocos;Youssef K.;13-08-2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "271;15494336;1;HBV2-PSA;Marrocos;Youssef K.;13-08-2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "272;15339588;1;HBV2-PSA;Marrocos;Youssef K.;13-08-2012;PSA Norm only;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "273;13761648;1;HBV2-PSA;Marrocos;Youssef K.;14-08-2012;PSA Norm only;;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "274;13627254;1;HBV2-PSA;Marrocos;Youssef K.;21-08-2012;PSA Norm only;5;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "275;15492987;1;HBV2-PSA;Marrocos;Youssef K.;07/09/2012;PSA Norm only;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "276;13879009;1;HBV2-PSA;Marrocos;Youssef K.;07/09/2012;PSA Norm only;1;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "277;10820009;1;HBV2-PSA;Marrocos;Youssef K.;07/09/2012;PSA Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "278;10748132;1;HBV2-PSA;Marrocos;Youssef K.;10/09/2012;PSA Norm only;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "279;10780382;1;Done By Krakow;Marrocos;Youssef K.;10/09/2012;PSA Norm only;2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "280;15327734;1;HBV2-PSA;Marrocos;Youssef K.;21/09/2012;PSA Norm only;6;;;X;;acc PSA norm"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "281;13883891;1;Done By Krakow;Marrocos;Youssef K.;;PSA Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "282;13580646;1;VW;CTC;Philipps Joerg;23/10/2012;unknown;;;;X;;Need confirmation;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "283;13720173;1;VW;CTC;Philipps Joerg;25/10/2012;unknown;;;;X;;Need confirmation;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "284;13720174;1;VW;CTC;Philipps Joerg;29/10/2012;unknown;;;;X;;Need confirmation;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "285;15327620;1;Ferrari;C. Branco;Ricardo Ferreira;30/10/2012;unknown;;;;X;;not validated;;;;;;;;ü;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "286;13720176;1;VW;CTC;Philipps Joerg;02/11/2012;unknown;;;;X;;Need confirmation;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "287;13720177;1;VW;CTC;Philipps Joerg;02/11/2012;unknown;;;;X;;Need confirmation;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "288;10725047;1;;TCK;Rafał Masłoń;04/10/2013;wings close to side;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "289;;0;;TCK;Mateusz Badura;12/04/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "290;;0;VW;CTC;Philipps Joerg;19/11/2012;unknown;;;;X;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "291;10889173;1;Volvo;Bursa;Alkan Emrah;23/11/2012;;;;;U;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "292;15324954;1;Volvo;Bursa;Alkan Emrah;05/12/2012;;;;;X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "293;13945646;1;Volvo;Bursa;Alkan Emrah;05/12/2012;;;;;U;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "294;10865853;1;;Sinicolau;Alex. Mora;28/01/2011;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "295;;0;Volvo;Bursa;Alkan Emrah;05/12/2012;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "296;;0;ASM TERM M 1.2 MCON-LL SN ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "297;10865177;1;Volvo;Bursa;Alkan Emrah;05/12/2012;;;;;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "298;10725738;1;Volvo;Bursa;Alkan Emrah;06/12/2012;;;;;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "299;;0;;Turkey;Remzi Sakin;01/12/2015;;0-35 + 0.13mm²;FLRY-B+FLMRY-A;NO;X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "300;13945644;1;Volvo;Bursa;Alkan Emrah;11/12/2012;;;;;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "301;13947540;1;L-Shape;Wuppertal;Andeas P. Mueller;24/04/2013;;;;;A;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "302;12198102;1;Nissan;C. Branco;Andeas P. Mueller;20/05/2013;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "303;13789166;1;;Tangier;Abdelaziz Rharha;17/05/2013;Hight scrap.;Several;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "304;;0;;Tangier;Abdelaziz Rharha;26/03/2015;;0.35+0.13;FLRY-A+FLMRY-A;NO;X;0.35+0.13;cvts 13506;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "305;13651155;1;VW;Senica;D. Aschenschwandtner;03/07/2013;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "306;15510048;1;VW;Senica;D. Aschenschwandtner;04/07/2013;VW Norm only;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "307;13875328;1;Ford CD391;DPT;Mohamed EL Fadily;08/07/2013;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "308;10763380;1;for std wires;Senica;D. Aschenschwandtner;12/02/2012;Scrap ->1% / 2%;0.50 / 0.75 / 1.00;FLRY-B;YES;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "309;;0;for all wires with 7x0.30 structure;Morocco;Rafal Maslon;02/02/2015;scrap <2%;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "310;13948572;1;;Wuppertal;Frank Schulte / Artur Serek;05/08/2013;;0.13mm²;FLMRY-A;;A;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "311;13836041;1;VW;Senica;D. Aschenschwandtner;09/09/2013;\"VW Norm \nNOT POSSIBLE\";0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "312;15510055;1;VW;Senica;D. Aschenschwandtner;30/08/2013;\"VW Norm \nNOT POSSIBLE\";0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "313;10864931;1;VW;Sinicolau;Alex. Mora ;16/09/2013;\"VW Norm \nNOT POSSIBLE\";0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "314;;0;;DPK;KHALID;13/10/2015;Picture NOK;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "315;10864926;1;VW;Sinicolau;Alex. Mora ;16/09/2013;\"VW Norm \nNOT POSSIBLE\";0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "316;13789167;1;;DPT;Mohamed El Fadily;16/09/2013;;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "317;10756650;1;;TCK;Mateusz Badura;04/06/2020;wings close to side;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "318;;0;VW;Sinicolau;Alex. Mora ;23/09/2013;\"VW Norm \nNOT POSSIBLE\";1.0mm²;FLRY-B;YES;S;0.5-1.0;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "319;13759492;1;VW;Sinicolau;Alex. Mora ;23/09/2013;\"VW Norm & POS\nNOT POSSIBLE\";0.35mm²;FLRY-A;YES;S;0.35-0.35;for VW customer;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "320;15422394;1;Ford;Tanger;Mohamed El Fadily;23/09/2013;;1.5mm²;M6298;;A&U;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "321;13979940;1;Ford;Tanger;Mohamed El Fadily;23/09/2013;;0.50mm²;FLRY-A;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "322;10738201;1;;;Rafal Maslon;23/09/2013;;2.5mm²;C3;;X;1.5-2.5;Need confirmation;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "323;10738582;1;;;Rafal Maslon;23/09/2013;;0.75mm²;B2;;A;≥0.35;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "324;10781041;1;;;Rafal Maslon;23/09/2013;;0.75mm²;B2/C3;;X;0.35-0.75;Need confirmation;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "325;12197144;1;;;Rafal Maslon;23/09/2013;;0.50mm²;FLRY-B;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "326;13665467;1;;;Rafal Maslon;23/09/2013;;0.50mm²;FLRY-B;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "327;13843028;1;;;Rafal Maslon;23/09/2013;;0.35mm²;FLRY-A;;A;≥0.35;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "328;13885882;1;;;Rafal Maslon;23/09/2013;;0.35mm²;FLRY-A;;A;≥0.35;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "329;10863772;1;;;Rafal Maslon;30/09/2013;;0.50mm²;FLRY-B;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "330;13806357;1;tested using CVTS Rec. 12904;DPT;Ettayebi"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "331;;0;;;Rafal Maslon;04/10/2013;;0.35mm²;FLRY-A;;A&U;≥0.35;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "332;13835132;1;;;Artur Serek;16/10/2013;\"VW Norm \nNOT POSSIBLE // OK FOR POS\";0.50mm²;FLRY-B;;S;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "333;\"15500328\nPE227633\";1;Alu crimps"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "334;\"15500329\nPE227634\";1;Alu crimps"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "335;\"13984771\nPE230574\";1;Alu crimps"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "336;\"13984772\nPE230575\";1;Alu crimps"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "337;\"15501146\nPE232028\";1;Alu crimps"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "338;13595299;1;;C.Branco;Rafal Maslon;02/12/2013;;0.22mm²;M3310;;O;≥0.22;cvts 12503;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "339;12089188;1;;Tangier;Rafal Maslon;11/12/2013;;0.50mm²;FLRY-A;;A;≥0.5;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "340;15421766;1;;Tangier;Rafal Maslon;11/12/2013;;0.50mm²;FLRY-B;;A;≥0.5;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "341;13971700;1;;Tangier;ABDERRAHMAN& ILIAS;02/01/2014;;0.50mm²;FLRY-A;NO;A;≥0.5;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "342;15405758;1;;Tangier;Rafal Maslon;03/01/2014;Drain Wire;0.50mm²;M3757;;X;≥0.5;drain 19x0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "343;15504421;1;;SNM;Alexandru Mora;30/04/2014;;0.35mm²;FLRY-A;NO;S;≥0.35;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "344;13574785;1;;SNM;Alexandru Mora;30/04/2014;;0.35mm²;FLRY-A;NO;S;≥0.35;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "345;13608780;1;;\"Kenitra\nTCK\";\"Youssef Khattabi\nM. Zmuda\";\"4/30/2014\n3/4/2020\";revision of previous set;0.35mm²;FLRY-A;NO;A&U;≥0.35;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "346;13974304;1;;SNM;Alexandru Mora;15/05/2014;;0.13mm²;FLMRY-A;NO;S;0.13;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "347;13974305;1;;SNM;Alexandru Mora;15/05/2014;;0.13mm²;FLMRY-A;NO;S;0.13;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "348;10769444;1;;SNM;Alexandru Mora;15/05/2014;;0.75mm²;FLRY-B;NO;A;≥0.75;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "349;10787524;1;;DASM;Abderrahim;26/05/2014;;0.35mm²;FLRY-B;NO;A&U;≥0.35;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "350;10776320;1;;SNM;Alexandru Mora;26/05/2014;;0.35mm²;FLRY-A;NO;S;≥0.35;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "351;12176617;1;;Izmir;Ceyda  Kucuk;26/05/2014;;4.00mm²;FLRY-B;NO;X;;Need confirmation;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "352;;0;;Izmir;Ceyda  Kucuk;31/10/2014;;0.5+2.5mm²;FLRY-B;NO;X;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "525;;0;Term Ring SN // cvts 550;TCK;Jakub Pańczyk;16/04/2018;Due to rejection issue.;1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "353;10725700;1;;Tangier;ABDERRAHMAN& ILIAS;23/06/2014;;0.35+0.35;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "354;33121989;1;;Tangier;Rafal Maslon;23/06/2014;;0.50mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "355;13791659;1;Critial appl. CVTS record Nº 13064 & 13216.;Tangier;ABDERRAHMAN& ILIAS;24/06/2014;;0.50mm²;FLRY-A;YES;O;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "356;15316325;1;;Tangier;Adamczyk Michał;24/06/2014;;0.35mm²;NF3Z;NO;A;≥0.35;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "357;10864113;1;Engine;Jelesnia;A.Mieszczak;25/06/2014;;0.50mm²;FLRY-A;NO;A;≥0.5;;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "358;13877181;1;;Turkey;Ceyda  Kucuk;25/06/2014;;0.75mm²;FLRY-B;NO;A;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "359;15327843;1;;Turkey;Ceyda  Kucuk;25/06/2014;;0.50mm²;FLRY-B;NO;S;≥0.5;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "360;13798643;1;;Kenitra;Youssef Khattabi;25/06/2014;;1.50mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "361;10820258;1;;Kenitra;Youssef Khattabi;25/06/2014;;1.00mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "362;10847241;1;;Turkey;Ceyda  Kucuk;27/06/2014;;4.00mm²;FLRY-B;NO;A;≥4"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "363;15339966;1;;Kenitra;Youssef Khattabi;30/06/2014;;0.50mm²;FLRY-B;NO;A;≥0.5;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "364;13798897;1;;Kenitra;Youssef Khattabi;01/07/2014;;0.75mm²;FLRY-B;;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "365;15418893;1;;Tanger;Mohamed EL Fadily;03/07/2014;wire under terminal range;0.50mm²;M6298;NO;O;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "366;15432235;1;;Kenitra;Youssef Khattabi;07/07/2014;;0.50mm²;FLRY-B;NO;A;≥0.5;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "367;13862548;1;;Kenitra;Youssef Khattabi;07/07/2014;;0.35mm²;FLRY-B;NO;A&U;≥0.5;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "368;15457848;1;;TCK;R. Maslon;;;0.50mm²;FLRY-B;NO;A&U;≥0.5;;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "369;10725730;1;;Kenitra;Youssef Khattabi;09/07/2014;;0.35mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "370;15405083;1;;Kenitra;Youssef Khattabi;09/07/2014;;1.00mm²;FLRY-B;YES;A&U;=1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "371;;0;;Kenitra;Youssef Khattabi;14/07/2014;;1.50mm²;FLRY-B;YES;A&U;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "372;15380838;1;Test done by Ceyda;Turkey;Ceyda  Kucuk;21/07/2014;HV short ends;4.00mm²;FLR2G2GB2G;NO;S;=4"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "373;33150704;1;Test done by Ceyda / Lear Clip;Turkey;Ceyda  Kucuk;21/07/2014;;2.50mm²;M3232+M6802;NO;X;;CVTS 12864;;;;ü;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "374;13513925;1;;Kenitra;Rafal Maslon;21/07/2014;;0.50mm²;3TAD;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "375;13678017;1;;Kenitra;Rafal Maslon;21/07/2014;low detection;2 x 0.50mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "376;33125638;1;;Kenitra;Khalide / Youssef K.;21/07/2014;;4.00mm²;T3-FLRY-B;NO;A;≥4"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "377;15425679;1;;Tanger;Abderrahim El.;22/07/2014;;1.50mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "378;10724597;1;;Tanger;Mateusz Badura;26/03/2021;low detection;0.50mm²;FLRY-A;YES;U;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "379;10810788;1;;Tanger;Rafal Maslon;29/07/2014;;1.50mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "380;10763629;1;;Tanger;Rafal Maslon;29/07/2014;;0.35mm²;FLRY-B;NO;O;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "381;15521515;1;;Tanger;Michal Adamczyk;06/08/2014;;0.35mm²;FLRY-A;NO;A&U;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "382;;0;;Tanger;Rafal Maslon;18/08/2014;;0.50mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "383;13581251;1;;Tanger;Abderrahim El.;01/09/2014;;0.50mm²;FLRY-B;NO;U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "384;13852576;1;;SNM;Rafal Maslon;01/09/2014;For records acc. Supplier definition;0.50mm²;FLRY-B;NO;S;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "385;12162148;1;;Jelesnia;Pitala;01/09/2014;;0.50mm²;FLRY-A;YES;O;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "386;;0;;Kenitra;Khalid;01/09/2014;;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "387;12004293;1;12004293;Kenitra;Jamal;02/09/2014;;1.00mm²;FLRY-B;YES;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "388;10725646;1;10725646;Jelesnia;Rafal Maslon;02/09/2014;;0.50mm²;FLRY-A;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "389;33120869;1;;Tanger;Michal Adamczyk;02/09/2014;;0.13+0.13;FLMRY-A;NO;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "390;15343777;1;;Tanger;Rafal Maslon;02/09/2014;;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "391;33504089;1;;Wuppertal;Artur Serek;08/09/2014;;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "392;33504090;1;;Wuppertal;Artur Serek;08/09/2014;;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "393;33130935;1;;SNM;Artur Serek;08/09/2014;Acc. VW Norm (-8% core);0.75mm²;FLRY-B;NO;S;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "394;13789165;1;;Tanger ;Mohamed EL Fadily;08/09/2014;Heavy gauge;35 + 16 mm²;FLRY-B/125+R3;NO;A;35 + 16;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "395;13957002;1;;Tanger ;Mohamed EL Fadily;08/09/2014;Heavy gauge;35 + 16 mm²;FLRY-B/125+R3;NO;A;35 + 16;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "396;33113728;1;;Tanger ;Abderrahim El.;23/09/2014;;0.50mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "397;33156622;1;;Ineu;Artur Serek;26/09/2014;;0.13mm²;FLMRY-A;NO;A;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "398;13645475;1;;C.Branco;M. Adamczyk;02/10/2014;;2.50mm²;FLRY-B;NO;A;≥2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "399;10847240;1;;Turkey;Ceyda  Kucuk;24/10/2014;;0.75mm²;FLRY-B;NO;X;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "400;13979938;1;;Krakow;Rafal Maslon;27/10/2014;;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "401;10763376;1;;Kenitra;Youssef Khatabi;03/11/2014;;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "402;33122950;1;;Kenitra;Youssef Khatabi;03/11/2014;;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "403;15363959;1;;C.Branco;J.Dudkiewicz;04/11/2014;;0.75mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "404;13734760;1;;SNM;J.Dudkiewicz;10/11/2014;;0.75mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "405;13849931;1;;Turkey;Dudkiewicz Jerzy;10/11/2014;;1.50mm²;FLRY-B;NO;U;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "406;10788913;1;;Kenitra;Youssef Khatabi;17/11/2014;;0.50mm²;T3 FLRY;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "407;13798638;1;;C. Branco;M. Adamczyk;21/11/2014;;0.75mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "408;15327885;1;;Kenitra;Khalid;27/11/2014;;0.50mm²;3TBD;YES;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "409;10776376;1;;C. Branco;J.Dudkiewicz;27/11/2014;;0.50mm²;FLRY-B;NO;O;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "410;33122606;1;;Turkey;Onur Tavsel;01/12/2014;;0.35mm²;FLRY-B;NO;S;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "411;10847440;1;;Kenitra;Khalid;07/01/2015;Mecal crimping Die;2.50mm²;FLRY-B;NO;O;≥2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "412;15432210;1;Historically - huge varaition in the raw material tolerance;Kenitra;Khalid;14/01/2015;To be used only for terminal with core wings in the biggest  tolerance.;0.50mm²;IRT3 / C3;NO;X;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "413;;0;;Kenitra;Yassine Chlif;01/12/2015;;0.50mm²;AGP81X9;NO;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "414;;0;Tested on FLRY-A for morocco and FLRY-B for Jelesnia;TCK;M.Żmuda;\"24.02.2021\n26.04.2022\";high scrap;0.50mm²;\"FLRY-A\nFLRY-B\";YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "415;13609462;1;;All;Frank Schulte;24/02/2015;Lack of detection;0.35mm²;FLRY-A;YES;S;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "416;33501792;1;;Kenitra;Khalid;10/03/2015;Picture NOK;0.35mm²;IRT2;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "417;10751581;1;;Kenitra;Khalid;26/03/2015;;0.50mm²;FLRY-B;NO;X;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "418;15521577;1;;DPT;Mohamed EL Fadily;02/04/2015;Picture NOK;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "419;15363934;1;;C. Branco;J.Dudkiewicz;14/04/2015;Huge Scrap Level;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "420;13781323;1;;C. Branco;Michal Adamczyk;15/04/2015;Huge Scrap Level;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "421;13798104;1;;C. Branco;Michal Adamczyk;15/04/2015;Huge Scrap Level;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "422;12084200;1;;C. Branco;J.Dudkiewicz;24/04/2015;Lack of detection;0.35mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "423;15394680;1;;C. Branco;J.Dudkiewicz;24/04/2015;Lack of detection;0.75mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "424;13799667;1;;C. Branco;Rafal Maslon;24/04/2015;Lack of detection;0.50mm²;FLRY-B;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "425;10865320;1;;Kenitra;Youssef Khattabi;27/04/2015;Huge Scrap Level;0.50mm²;AGP81X9;NO;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "426;10865179;1;;Kenitra;Youssef Khattabi;27/04/2015;Huge Scrap Level;0.50mm²;AGP81X9;NO;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "427;15409764;1;;DPT;Mostapha Hemmid;04/05/2015;Huge Scrap Level;0.50mm²;M6298 (FLRY-A);YES;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "428;13866754;1;;DPT;Mostapha Hemmid;28/05/2015;Huge Scrap Level;0.35+0.35mm²;M3130 (FLRY-A);NO;X;;missing parameters;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "429;33200802;1;Antenna shield Test;Jelesnia;Terrence Roß;28/05/2015;Lear antenna lead process;0.14mm²;Leoni Dacar 300S;NO;X;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "430;15464279;1;;\"DPT\nTCK\";\"Mohamed EL Fadily\nJ. Dudkiewicz\";\"5/28/2015\n2/12/2019\";72x tested twice with same results;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "431;;0;USCAR21 Crimp Validation;DPT;Mohamed EL Fadily;28/05/2015;;0.35mm²;FLRY-A;NO;U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "432;15316326;1;;C. Branco;Jorge H. Guerra;28/05/2015;;0.50mm²;AVSS;NO;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "433;;0;;C. Branco;Jorge H. Guerra;06/10/2015;;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "434;;0;;C. Branco;Jorge H. Guerra;28/09/2016;;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "435;10763382;1;;C. Branco;Jorge H. Guerra;28/05/2015;;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "436;15327499;1;;C. Branco;Jorge H. Guerra;15/06/2015;;0.50mm²;AVSS;NO;A;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "437;15531112;1;;Kenitra;Youssef Khattabi;16/06/2015;;0.50mm²;FLRY-B;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "438;13651458;1;;DPT;Mostapha Hemmid;16/06/2015;Huge Scrap Level;0.50mm²;M6298 (FLRY-A);NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "439;13661915;1;;C. Branco;Jorge H. Guerra;17/06/2015;Huge Scrap Level;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "440;33113990;1;;DPT;J.Dudkiewicz;22/06/2015;Picture NOK;0.50mm²;M5416 / (XLPE);YES;X;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "441;15364323;1;;C. Branco;Jorge H. Guerra;14/07/2015;Huge Scrap Level;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "442;13988467;1;;DPT;ABDERRHMAN & ADDINE;31/08/2015;Huge Scrap Level;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "443;13676269;1;;DPT;ABDERRHMAN & ADDINE;31/08/2015;Huge Scrap Level;1.50mm²;FLRY-A;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "444;12121256;1;;DASM;J.Dudkiewicz;07/09/2015;Lack of detection;0.30mm²;AVSS;NO;X;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "445;13866752;1;;DPT;ABDERRHMAN & ADDINE;10/09/2015;Huge Scrap Level;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "446;15368614;1;;DPK;KHALID;14/09/2015;Picture NOK;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "447;15327530;1;;C. Branco;Jorge H. Guerra;25/09/2015;Huge Scrap Level;0.35mm²;FLRY-A;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "448;12157776;1;;C. Branco;Jorge H. Guerra;14/07/2015;Huge Scrap Level;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "449;10889169;1;;DPK;Michal Adamczyk;02/10/2015;Special Aplication;0.60mm²;FLYCY Drain Wire;NO;O;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "450;10820110;1;;DASM;Michal Adamczyk;02/10/2015;Scrap;0.35mm²;R1;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "451;13581330;1;;C. Branco;Jorge H. Guerra;05/10/2015;Lack of detection;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "452;10756352;1;;DPK;KHALID;05/10/2015;Picture NOK;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "453;15327976;1;;DPK;KHALID;06/10/2015;Picture NOK;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "454;10820257;1;;\"Turkey\nTCK\";\"Jerzy Dudkiewicz\nM. Badura\";\"10/9/2015\n9/20/2019\";\"Picture NOK\nRevision\";0.35mm²;\"FLRY-B\nFLRY-A\";NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "455;10781020;1;;DPK;KHALID;13/10/2015;Picture NOK;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "456;15363931;1;;C. Branco;Jorge H. Guerra;14/07/2015;Picture NOK;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "457;15432208;1;;Wuppertal;Cust. Request / Andreas;23/10/2015;Andreas P Mueller req.;0.35mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "458;15406024;1;;DPK;KHALID;13/10/2015;Picture NOK;0.35mm²;FLRY-A;NO;U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "459;33173730;1;;DASM;Michal Adamczyk;09/11/2015;Scrap;0.35mm²;R1;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "460;;0;CVTS Rec.14098;DPT;ABDERRHMAN & ILIAS;29/06/2016;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "461;15340670;1;;DPK;KHALID;09/11/2015;Picture NOK;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "462;15324895;1;;\"DPK\nTCK\";\"KHALID\nM. Badura\";\"11/12/2015\n8/5/2019\";\"Picture NOK\nlow detection\";0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "463;10865984;1;;DPK;Yassine Chlif;24/11/2015;Picture NOK;0.50mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "464;15326266;1;;DPK;Yassine Chlif;01/12/2015;Scrap;0.35mm²;FLRY-A;YES;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "465;13586759;1;CVTS Rec. 14246;DPK;Lehmadi Jamal;09/12/2015;Scrap;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "466;12158091;1;;C. Branco;Jerzy Dudkiewicz;08/02/2016;Picture NOK;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "467;10763375;1;;DPK;Oussama;08/02/2016;Lack of detection;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "468;13759636;1;;DPK;Yassine Chlif;03/03/2016;Scrap;0.50mm²;AGP81X9;YES;X;=0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "469;13538505;1;;DPK;Ibrahim Jouili;17/04/2016;Scrap;0.35 / 0.50mm²;FLRY-A / B;NO;X;;missing record;;;;;;;;;ü;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "470;13678015;1;;DPK;Yassine Chlif;19/04/2016;Due to rejection issue.;0.35mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "471;12124083;1;;Tunisia / CB;Ibrahim Jouili;20/04/2016;Scrap;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "472;13597856;1;TERM F MTS-ST 0.64 SN ;\"Tunisia\nMorocco\";\"Ibrahim Jouili\nBAAJOUJ Mohamed\";\"4/20/2016\n6/3/2019\";Scrap;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "473;15440179;1;;Tunisia;Ibrahim Jouili;20/04/2016;Scrap;0.35 + 0.50mm²;FLRY-A;NO;X;;missing record;;;;;;;;;ü;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "474;15491282;1;;Tunisia;Ibrahim Jouili;20/04/2016;Scrap;0.35 + 0.50mm²;FLRY-B;NO;X;;missing record;;;;;;;;;ü;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "475;15396704;1;ASM TERM F DSQ 1.5 SN LOCKING LANCE;Tunisia;Ibrahim Jouili;25/06/2018;Scrap;0.35;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "476;12131460;1;;C. Branco;Rui Marques;22/04/2016;Scrap;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "477;10781023;1;tested using CVTS Rec.4921;DPT;ABDERRHMAN & ILIAS;04/05/2016;Poor Cpk value;0.35mm²;(M4740) FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "478;33130594;1;tested using CVTS Rec.14326;DPT;ABDERRHMAN & ILIAS;04/05/2016;Poor Cpk value;0.75mm²;(M4740) R1;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "479;15422681;1;tested using CVTS Rec.3713 & 12836;DPK;Yassine Chlif;04/05/2016;Due to rejection issue.;0.35mm²;FLRY-B;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "480;33130593;1;tested using CVTS Rec.14290;DPT;ABDERRHMAN & ILIAS;13/05/2016;Due to rejection issue.;0.35mm²;(M4740) FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "481;13588505;1;tested using CVTS Rec.5276 & 5277;DPT;ABDERRHMAN & ILIAS;16/05/2016;Due to rejection issue.;0.35mm²;(M4740) FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "482;12131397;1;tested using CVTS Rec.90;C. Branco;Rui Marques;03/06/2016;Scrap;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "483;10810484;1;tested using CVTS Rec.14306;DPT;ABDERRHMAN & ILIAS;29/06/2016;Due to rejection issue.;0.35mm²;(M4740) R1;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "484;33282054;1;tested using CVTS Rec.15142;DPK;chouaiech"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "485;10781019;1;tested using CVTS Rec.14312;DPT;Michal Adamczyk;07/07/2016;Cutting picture out of range;1.5mm²;R1;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "486;13878071;1;tested using CVTS Rec.14090;DPT;Jerzy Dudkiewicz;19/07/2016;Cutting picture out of range;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "487;15383352;1;tested using CVTS Rec.2781;DPK;Oussama Mouhdani ;22/07/2016;Due to rejection issue.;0.35mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "488;15344998;1;tested using CVTS Rec.15173;Tunisia;Ibrahim Jouili;08/08/2016;Scrap;0.50mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "489;12162805;1;tested using CVTS Rec.96;C. Branco;Jorge H. Guerra;06/09/2016;Picture NOK;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "490;12124515;1;tested using CVTS Rec.4009;C. Branco;Jorge H. Guerra;06/09/2016;Picture NOK;1.00mm²;FLRY-B;NO;A;≥1.0;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "491;13614581;1;for 0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "492;;0;tested using CVTS Rec.5949 & 11840;DPT;CHOUAIECH"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "493;15466066;1;tested using CVTS Rec.6036;DPT;ABDERRHMAN & ILIAS;07/10/2016;Picture NOK;1.50mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "494;10757691;1;tested using CVTS Rec. 12669;DPK;Oussama Mouhdani ;07/10/2016;Due to rejection issue.;0.35mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "495;12089417;1;tested using CVTS Rec. 14307;DPT;Michal Adamczyk;19/10/2016;Picture NOK;2.00mm²;R1;NO;A;≥2.0;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "496;13592980;1;tested using CVTS Rec. 5265;DPK;Oussama Mouhdani ;20/10/2016;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "497;13642522;1;tested using CVTS Rec. 10441;DPK;Oussama Mouhdani ;20/10/2016;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "498;15385894;1;tested using CVTS Rec. 14329;DPT;Jakub Fudro;20/10/2016;Picture NOK;0.75mm²;R1;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "499;10726275;1;tested using CVTS Rec. 249;C. Branco;Jorge H. Guerra;10/11/2016;Picture NOK;1.50mm²;FLRY-B;NO;A;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "500;13877182;1;tested using CVTS Rec. 13965;DPT;ABDERRHMAN & ILIAS;10/11/2016;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "501;33282918;1;tested using CVTS Rec.14342 ;DPT;ABDERRHMAN & ILIAS;10/11/2016;Due to rejection issue.;0.35mm²;R1;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "502;12065324;1;tested using CVTS Rec.14356;DPT;Jakub Fudro;18/11/2016;Picture NOK;2.00mm²;R1;NO;A;≥2"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "503;33113992;1;tested using CVTS Rec.15798;DPT;ABDERRHMAN & ILIAS;16/12/2016;Due to rejection issue.;1.50mm²;FLR2X-A/T150;NO;A&U;≥1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "504;15396711;1;tested using CVTS Rec.2997;DPK;Oussama Mouhdani;16/12/2016;Due to rejection issue.;0.35mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "505;15456959;1;tested using CVTS Rec. 3477;DPT;ABDERRHMAN & ILIAS;21/12/2016;Picture NOK;0.50mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "506;15365713;1;tested using CVTS Rec. 6040;C. Branco;Jorge H. Guerra;17/02/2017;Picture NOK;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "507;13896813;1;tested using CVTS Rec. 15752 (Validation according to USCAR21 specification);Novi Sad;Dalibor Petrovik;14/02/2017;Picture NOK;0.35mm²;FLRY-B;NO;U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "508;15443788;1;tested using CVTS 17215;TCK;M. Badura;16/06/2020;Due to rejection issue.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "509;;0;tested using CVTS Rec. 13171;Jelesnia;Michal Adamczyk;07/04/2017;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "510;10725874;1;tested using CVTS Rec. 078;C. Branco;Jorge H. Guerra;18/04/2017;Picture NOK;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "511;12191816;1;tested using CVTS Rec.2816;DPK;Oussama Mouhdani;26-04-207;Due to rejection issue.;0.35mm²;FLRY-A;YES;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "512;33510990;1;tested using CVTS Rec. 13658;C. Branco;Jorge H. Guerra;26/05/2017;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "513;;0;TERM M GTS-3 0.64 SN"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "514;13881789;1;tested using CVTS Rec. 12960;Tunisia;Ibrahim Jouili;31-05-207;Due to rejection issue.;0.35mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "515;13668473;1;tested using CVTS Rec. 10076;DPK;Oussama Mouhdani;12/06/2017;Due to rejection issue.;0.35mm²;FLRY-A;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "516;10864817;1;tested using CVTS Rec. 4105;DPK;Oussama Mouhdani;07/07/2017;Due to rejection issue.;0.50mm²;FLRY-B;NO;A;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "517;13580639;1;tested using CVTS Rec. 12674;DASM;Abdelhay El Kasimi;02/08/2017;Due to rejection issue.;0.50mm²;FLRY-A;NO;A&U;≥0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "518;10793721;1;TERM F 0.64 SN"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "519;10847250;1;TERM F 6.35 NG1 SN"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "520;15327480;1;ASM TERM F 9.3 GSK UNPLATED LOCKING LANCE"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "521;13843029;1;\"TERM M 1.5 MX150 SN; cvts 10633\";TCK;Jakub Pańczyk;22/08/2017;Missing -20% Core Det.;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "522;12191818;1;TERM F GT 150 SN SEALED"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "524;33136798;1;\"TERM F 1.5 MX150 SN // cvts 14724; 14336\";TCK;M. Zmuda;20/4/2022;Missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "526;13546737;1;ASM TERM F 1.2 MLK AG SEALED ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "527;13914645;1;TERM F 0.64 SN ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "528;13934202;1;ASM TERM M 1.2 MCON-CB SN ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "529;15408850;1;ASM TERM F DSQ 1.5 SN SEALED LOCKING LANCE ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "530;33265290;1;TERM F OCS 1.2 SN ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "531;33128978;1;TERM F 0.64 SIDE AG ;Tunis;Jouili"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "532;33100938;1;\"ASM TERM F 4.0 AG; cvts 16989\";Jelesnia;M. Adamczyk;21/09/2018;high scrap o HV line;4;FHLR2GCB2G;NO;S;4;schaefer die 30.100(S);;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "533;13673776;1;Ring terminal;TCK;M. Adamczyk;12/02/2019;missing detection;\"0:35; 0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "534;13580942;1;tested on cvts 17849;TCK;M. Zmuda;26/03/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "535;15504160;1;ONLY FOR SOLDERING cvts 17602;TCK;M.Adamczyk;08/04/2019;high scrap;10;IRT4;NO;A;10;ONLY FOR SOLDERING;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "536;33101340;1;\"TERM M OCS 1.2; cvts 15018\";TCK;M. Badura;18/04/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "537;33265287;1;TERM F OCS 1.2 SN ;TCK;M. Zmuda;19/04/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "538;35088739;1;TERM F OCS 0.64 IDR SN SEALED ;TCK;M. Badura;24/05/2019;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "539;13798896;1;ASM TERM  F 6.3  SN;TCK;M. Zmuda;14/06/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "540;13981497;1;JAPAN AVIATION ELECTRONICS INDUSTRY;TCK;M. Zmuda;23/07/2019;\"missing detection; 25% PVC Not possible\";0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "541;35143208;1;Viemme;TCK;J.Dudkiewicz;05/08/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "542;10724572;1;TERM  F 6.3 FASTON UNPLATED;TCK;M. Badura;13/08/2019;high scrap;1"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "543;10810495;1;;TCK;M. Zmuda;13/08/2019;high scrap;2;R1;NO;A;≥2;;;;;;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "544;35134588;1;;TCK;M. Zmuda;13/09/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "545;35119301;1;;Kenitra;Zinbi karim;11/10/2019;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "546;33162398;1;;TCK;M. Zmuda;11/10/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "547;15524565;1;Tube terminal;Jelesnia;LCV lab;30/10/2018;high scrap;35;FHLR2GCB2G ;NO;S;35;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "548;13849929;1;;TCK;M. Badura;20/11/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "549;33135543;1;CVTS 16772 only for soldering;Morocco;Ouahdane Oussama;20/11/2019;high scrap;10;IRT4;NO;O;≥6;only for soldered;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "550;;0;;Morocco;Elharrouchi"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "551;13866753;1;;TCK;M. Badura;03/12/2019;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "552;13849933;1;;TCK;M. Badura;03/12/2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "553;35311334;1;soldered terminal;TCK;M. Badura;21/02/2020;high scrap;10;IRT2/3;NO;A;≥10;only for soldered;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "554;35417751;1;;TCK;M. Zmuda;24/02/2020;wings to close bottom;1;FLRY-B;YES;A;1;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "555;13580637;1;;TCK;M. Zmuda;\"3/3/2020\n4/30/2021\";high scrap/mis detect;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "556;13924523;1;;TCK;M. Badura;05/03/2020;high scrap;;T3ZHID;NO;A;≥6;only for soldered;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "557;13726656;1;cvts 18519;Kenitra;Chouaiech Khalid;17/06/2020;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "558;35389997;1;;TCK;M. Badura;24/09/2020;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "559;15339444;1;cvts18532;TCK;M. Badura;12/11/2020;wings close to bottom;7;R3Z;NO;A;≥7;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "560;13944201;1;cvts 18766;TCK;M. Badura;12/11/2020;high scrap;20+20;H4;NO;A&O;20+20;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "561;33358327;1;cvts 15850;TCK;M. Badura;12/11/2020;high scrap;16;H4;NO;O;≥16;only for soldered;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "562;13975829;1;cvts 12542;CTC;A.Serek;05/07/1905;unknown;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "563;13775889;1;cvts 16967;TCK;M. Badura;17/11/2020;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "564;15512013;1;cvts 13814;Jelesnia;S. Bulawa;;high scrap;70;RK;NO;A;70;;;;;;;;;;;;ü;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "565;15512012;1;cvts 13869;Jelesnia;S. Bulawa;;high scrap;70;RK;NO;A;70;;;;;;;;;;;;ü;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "566;13615055;1;cvts 18906;TCK;M. Zmuda;30/abr/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "567;13615201;1;cvts 18907;TCK;M. Zmuda;30/abr/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "568;15448540;1;cvts 18913;TCK;M. Zmuda;30/abr/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "569;33380171;1;double layer mass ring terminal;TCK;M. Zmuda;23/jun/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "570;15363926;1;19193;TCK;M. Zmuda;23/jun/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "571;;0;19478;TCK;M. Zmuda;23/jun/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "572;33137788;1;;Tunis;Kthiri Khmais;18.05.2021;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "573;10725082;1;19512;TCK / Tunis;M. Zmuda / Hammami H.;3.08.2021;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "574;13976098;1;19519;TCK;M. Zmuda;5.08.2021;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "575;13669869;1;19615;TCK;M. Zmuda;10/ago/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "576;35015649;1;19491;TCK;M. Zmuda;18.08.2019;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "577;15385710;1;19643;TCK;M.Zmuda;1.09.2021;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "578;13597855;1;15904;Morocco 4;E. Hicham;14/set/21;high scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "579;15324952;1;19336;Jelesnia;S. Bulawa;15/set/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "579;15386269;1;19153;Jelesnia;S. Bulawa;25/out/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "580;;0;19395;Jelesnia;S. Bulawa;4/nov/21;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "581;35463751;1;19335;Morocco;El Fadily"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "582;10725413;1;19544;Jelesnia;Robert lewczuk;6/dez/21;No missing core detection ;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "583;10777114;1;19855;Chapaevsk;Valeriy Kolesnik;7/dez/21;Wings close to walls;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "584;10866387;1;19326;Prettl ;Mateorenko  Mykyta ;23/dez/21;Missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "585;35093900;1;18264;Zywiec;Arkadiusz Matuszek;10/jan/22;High scrap;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "586;13946891;1;11277;Marocco 4;EL HARROUCHI HICHAM;21/jan/22;Missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "587;35626074;1;20070;TCK;Mateusz Badura;21/abr/22;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "588;10863984;1;17298;TCK;Marcin Zmuda;28/abr/22;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "589;15470349;1;;TCK;Mateusz Badura;27/4/2022;High scrap;20;H4;No;A;≥20;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "590;15420522;1;20157;TCK;Marcin Zmuda;16/mai/22;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "591;15324627;1;18619;TCK;Marcin Zmuda;6/jul/22;missing detection;0.5;FLRY-B;NO;O;≥0.5;restriced usage CVTS 18619;;;;ü;ü;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "592;35632163;1;19860;Jelesnia;A. Matuszek;22/ago/22;high scrap;50;FLR41XC33X;NO;A;50;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "593;10769437;1;19575;Jelesnia;A. Matuszek;20/ago/22;high scrap;25;\"M6366\t\t\";NO;A;25;8% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "594;\"13854827\t\";1;19841;Jelesnia;A. Matuszek;20/ago/22;high scrap;4;M8766;NO;A&U;4;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "595;13854905;1;19482;Jelesnia;A. Matuszek;20/ago/22;high scrap;1;M5558;NO;A;1;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "596;13882772;1;19501;Jelesnia;A. Matuszek;20/ago/22;high scrap;50;\"M6366\t\t\";NO;A&S;50;8% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "597;35563138;1;19750;Jelesnia;A. Matuszek;22/ago/22;high scrap;50;\"M6366\t\t\";NO;A&S;50;13% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "598;35563139;1;19749;Jelesnia;A. Matuszek;22/ago/22;high scrap;70;\"M6366\t\t\";NO;A;70;13% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "599;35563140;1;19751;Jelesnia;A. Matuszek;22/ago/22;high scrap;95;\"M6366\t\t\";NO;A;95;14% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "600;35632164;1;19866;Jelesnia;A. Matuszek;22/ago/22;high scrap;50;\"M6366\t\t\";NO;A;50;16% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "601;35632165;1;19871;Jelesnia;A. Matuszek;22/ago/22;high scrap;70;\"M6366\t\t\";NO;A;70;17% detection achieved;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "602;35355747;1;19989;TCK;M. Zmuda;17/fev/22;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "604;13601967;1;20561;TCK;M. Zmuda;27/out/22;missing detection;0"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "605;35632160;1;20126;Jelesnia;A. Matuszek;10/out/22;high scrap;10;;;U;10;;;;ü;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "606;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "607;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "608;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "609;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "610;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "611;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "612;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "613;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "614;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "615;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "616;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "617;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "618;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "619;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "620;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "621;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "622;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "623;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "624;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "625;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "626;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "627;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "628;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "629;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "630;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "631;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "632;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "633;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "634;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "635;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "636;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "637;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "638;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "639;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "640;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "641;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "642;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "643;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "644;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "645;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "646;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "647;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "648;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "649;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "650;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "651;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "652;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "653;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "654;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "655;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "656;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "657;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "658;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "659;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    },
+    {
+        "s;;;;TerminalsListofRecheckedMonitoringParameters;;;;;;;;;;;;;;;;;;;;;;": "660;;0;;;;;;;;;;;;;;;;;;;;;;;;"
+    }
+]
