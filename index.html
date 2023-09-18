@@ -1,33 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="global.css">
-    <title>Document</title>
-    <style>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="global.css">
+        <title>Document</title>
+        <style>
         * {
             font-family: 'Oswald' !important;
         }
 
         .aptivLogo {
             width: auto;
-            height: 50px;
-            margin-left: 10%;
+            height: 40px;
+            margin-left: 2%;
             border: none;
-            margin-top: 50px;
+            margin-top: 30px;
         }
 
         .title {
-            font-size: 40px;
+            font-size: 30px;
             color: #23364d;
             padding-top: 10px;
             letter-spacing: 2px;
-            margin-left: 10%;
-            margin-top: 50px;
-            font-family: 'OswaldLight' !important;
-            text-transform: uppercase !important;
+            margin-left: 2%;
+            margin-top: 10px;
         }
 
         @media (max-width:600px) {
@@ -36,11 +33,42 @@
             }
         }
 
+        .searchBox {
+            width: 600px;
+            height: 50px;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-left: 2%;
+            margin-top: 50px;
+            background-color: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        input{
+            width: 85%;
+            height: 50px;
+            border: none;
+            background-color: #ddd;
+            font-size: 20px;
+            padding-left: 5px;
+            color: #23364d;
+        }
+        .searchButton{
+            width: 15%;
+            height: 50px;
+            border: none;
+            background-color: #ddd;
+            font-size: 20px;
+            color: #23364d;
+            cursor: pointer;
+        }
+       
         .tableContainer {
-            width: 80%;
+            width: 96%;
             height: auto;
             background-color: #fff;
-            margin-left: 10%;
+            margin-left: 2%;
             margin-top: 50px;
             border-radius: 5px;
             overflow: hidden;
@@ -64,7 +92,6 @@
             font-size: 18px;
             color: #888;
             text-transform: uppercase !important;
-            /* width: 16.666%; */
             height: 100%;
             display: flex;
             align-items: center;
@@ -163,6 +190,7 @@
             justify-content: center;
             border-radius: 5px;
             box-shadow: 0px 5px 15px 2px #6d6d6d17;
+            background-color: #23364d2d;
         }
 
         .imgContainer>img {
@@ -185,6 +213,41 @@
             cursor: pointer;
         }
 
+        .emptyTable {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.emptyTable>img {
+    min-width: 100px;
+}
+
+.emptyTable>p {
+    font-size: 24px;
+    color: #23364d;
+    margin-left: 20px;
+}
+.allResultContainer{
+    width: 100%;
+}
+.allResult{
+    width:200px ;
+    height: 50px;
+    color: #23364d;
+    background-color: #23364d2a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
         /* 
         @media (max-width:1000px) {
             .title {
@@ -305,185 +368,417 @@
                 width: 40%;
             }
         } */
-    </style>
-</head>
+        </style>
+    </head>
+    <body>
+        <script>
+                function loadDoc(callback) {
+    const xhttp = new XMLHttpRequest();
 
-<body>
-    <img src="./Img/aptivLogo.jfif" class="aptivLogo">
-    <p class="title" id="clientsTableTitle">
-        Terminals List of Rechecked Monitoring Parameters
-    </p>
-    <style>
-        .searchBox {
-            width: 600px;
-            height: 50px;
-            border-radius: 5px;
-            overflow: hidden;
-            margin-left: 10%;
-            margin-top: 50px;
-            background-color: #ddd;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        input{
-            width: 85%;
-            height: 50px;
-            border: none;
-            background-color: #ddd;
-            font-size: 20px;
-            padding-left: 5px;
-            color: #23364d;
-        }
-        .searchButton{
-            width: 15%;
-            height: 50px;
-            border: none;
-            background-color: #ddd;
-            font-size: 20px;
-            color: #23364d;
-            cursor: pointer;
-        }
-    </style>
-    <div class="searchBox">
-        <input type="text" placeholder="search by DPN">
-        <button class="searchButton">search</button>
-    </div>
-    <div class="tableContainer" id="clientsTable">
-        <div class="tableHead">
-            <div class="cell_1">item</div>
-            <div class="cell_2">DPN</div>
-            <div class="cell_3">
-                OES
-                <div class="itemType">
-                    <div>
-                        CPM 4000
-                    </div>
-                    <div>
-                        CPM 4100
-                    </div>
-                    <div>
-                        CPM 5XXX
-                    </div>
-                </div>
-            </div>
-            <div class="cell_4">CFA CFA+
-                <div class="itemType">
-                    <div>
-                        721
-                    </div>
-                    <div>
-                        721/1 C3170
-                    </div>
-                    <div>
-                        721/1 C3170
-                    </div>
-                </div>
-            </div>
-            <div class="cell_5">DOUBLE x
-                <div class="itemType">
-                    <div>
-                        721
-                    </div>
-                    <div>
-                        721/1 C3170
-                    </div>
-                </div>
-            </div>
-            <div class="cell_6">
-                SLE
-                <div class="itemType">
-                    <div>
-                        SLE
-                    </div>
-                </div>
-            </div>
-            <div class="cell_7">KISTLER
-                <div class="itemType">
-                    <div>
-                        CC2
-                    </div>
-                    <div>
-                        CC3
-                    </div>
-                </div>
-            </div>
-           
-        </div>
+    // Set up the event handler for when the response is received
+    xhttp.onload = function() {
+        if (this.status === 200) {
+            const responseData = JSON.parse(this.responseText); 
+            // Assuming the response is JSON
 
-        <!-- <div class="emptyTable">
-            <img src="../Public/Img/folder_off.svg" alt="folder of">
+            // Call the callback function with the response data
+            callback(null, responseData);
+        } else {
+            const error = new Error(`Error loading data. Status: ${this.status}`);
+            callback(error, null);
+        }
+    };
+
+    // Set up event handler for network errors
+    // xhttp.onerror = function() {
+    //     const error = new Error('Network error');
+    //     callback(error, null);
+    // };
+
+    // Make the GET request
+    xhttp.open("GET", "json.json", true);
+    xhttp.send();
+}
+
+// Example of how to use the function
+
+loadDoc(function(error, responseData) {
+    if (error) {
+        console.error(error);
+    } else {
+        let x=0;
+        var id,dpn,type_0,type_1,type_2,type_3,type_4,type_5,type_6,type_7,type_8,type_9,type_10;
+        while(x<10){
+            id=responseData[x].id;
+            responseData[x].dpn!=null?dpn=responseData[x].dpn:dpn=responseData[x-1].dpn;
+            type_0=responseData[x].type_0==1?`<img src="./Img/done.svg">`:"";
+            type_1=responseData[x].type_1==1?`<img src="./Img/done.svg">`:"";
+            type_2=responseData[x].type_2==1?`<img src="./Img/done.svg">`:"";
+            type_3=responseData[x].type_3==1?`<img src="./Img/done.svg">`:"";
+            type_4=responseData[x].type_4==1?`<img src="./Img/done.svg">`:"";
+            type_5=responseData[x].type_5==1?`<img src="./Img/done.svg">`:"";
+            type_6=responseData[x].type_6==1?`<img src="./Img/done.svg">`:"";
+            type_7=responseData[x].type_7==1?`<img src="./Img/done.svg">`:"";
+            type_8=responseData[x].type_8==1?`<img src="./Img/done.svg">`:"";
+            type_9=responseData[x].type_9==1?`<img src="./Img/done.svg">`:"";
+            type_10=responseData[x].type_10==1?`<img src="./Img/done.svg">`:"";
+
+
+            document.getElementById("dataContainer").innerHTML+=`
+            <div class="infoLine">
+                    <div class="cell_1">
+                        ${id}
+                    </div>
+                    <div class="cell_2">
+                        ${dpn}
+                    </div>
+                    <div class="cell_3">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                                ${type_0}
+          
+                                </div>
+                  <div class="imgContainer">
+                               ${type_1}
+                                </div>
+                            <div class="imgContainer">
+                               ${type_2}
+                                </div>
+                        </div>
+                    </div>
+                    <div class="cell_4">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_3}</div>
+                            <div class="imgContainer">
+                                ${type_4}
+                            </div>
+                            <div class="imgContainer">
+                               ${type_5}</div>
+                        </div>
+                    </div>
+                    <div class="cell_5">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                                ${type_6}
+                            </div>
+                            <div class="imgContainer">
+                               ${type_7}
+                               </div>
+                        </div>
+                    </div>
+                    <div class="cell_6">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_8}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell_7">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_9}
+                               </div>
+                            <div class="imgContainer">
+                               ${type_10}
+                               </div>
+                        </div>
+                    </div>
+                </div>
+            
+      `;
+            x++;
+        }
+    
+    }
+
+    
+});
+            function filterResult(){
+            document.getElementById("dataContainer").innerHTML="";
+            var DPN=document.getElementById("searchBox").value;
+loadDoc(function(error, responseData) {
+    if (error) {
+        console.error(error);
+    } else {
+        let x=0;
+        var id,dpn,type_0,type_1,type_2,type_3,type_4,type_5,type_6,type_7,type_8,type_9,type_10;
+        var count=0;
+        while(x<10){
+            if(DPN== responseData[x].dpn){
+                count ++;
+
+                id=responseData[x].id;
+            responseData[x].dpn!=null?dpn=responseData[x].dpn:dpn=responseData[x-1].dpn;
+            type_0=responseData[x].type_0==1?`<img src="./Img/done.svg">`:"";
+            type_1=responseData[x].type_1==1?`<img src="./Img/done.svg">`:"";
+            type_2=responseData[x].type_2==1?`<img src="./Img/done.svg">`:"";
+            type_3=responseData[x].type_3==1?`<img src="./Img/done.svg">`:"";
+            type_4=responseData[x].type_4==1?`<img src="./Img/done.svg">`:"";
+            type_5=responseData[x].type_5==1?`<img src="./Img/done.svg">`:"";
+            type_6=responseData[x].type_6==1?`<img src="./Img/done.svg">`:"";
+            type_7=responseData[x].type_7==1?`<img src="./Img/done.svg">`:"";
+            type_8=responseData[x].type_8==1?`<img src="./Img/done.svg">`:"";
+            type_9=responseData[x].type_9==1?`<img src="./Img/done.svg">`:"";
+            type_10=responseData[x].type_10==1?`<img src="./Img/done.svg">`:"";
+
+
+            document.getElementById("dataContainer").innerHTML+=`
+            <div class="infoLine">
+                    <div class="cell_1">
+                        ${id}
+                    </div>
+                    <div class="cell_2">
+                        ${dpn}
+                    </div>
+                    <div class="cell_3">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                                ${type_0}
+          
+                                </div>
+                  <div class="imgContainer">
+                               ${type_1}
+                                </div>
+                            <div class="imgContainer">
+                               ${type_2}
+                                </div>
+                        </div>
+                    </div>
+                    <div class="cell_4">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_3}</div>
+                            <div class="imgContainer">
+                                ${type_4}
+                            </div>
+                            <div class="imgContainer">
+                               ${type_5}</div>
+                        </div>
+                    </div>
+                    <div class="cell_5">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                                ${type_6}
+                            </div>
+                            <div class="imgContainer">
+                               ${type_7}
+                               </div>
+                        </div>
+                    </div>
+                    <div class="cell_6">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_8}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell_7">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_9}
+                               </div>
+                            <div class="imgContainer">
+                               ${type_10}
+                               </div>
+                        </div>
+                    </div>
+                </div>
+            
+      `;
+            }
+            x++;
+        }
+        if(count==0){
+            document.getElementById("dataContainer").innerHTML=`
+            <div class="emptyTable">
+            <img src="./Img/folder_off.svg" alt="folder of">
             <p>
-                no clients yet ?
+                 0 item ?
             </p>
-        </div> -->
+            <div class="allResultContainer">
+            <div class="allResult" onclick="allResult()">
+                see all 
+            </div>
+            </div></div>
+            `;
+        }
+    }
+});
+            }
+            function allResult(){
+            
+
+             
+                document.getElementById("dataContainer").innerHTML="";
+          
+loadDoc(function(error, responseData) {
+    if (error) {
+        console.error(error);
+    } else {
+        let x=0;
+        var id,dpn,type_0,type_1,type_2,type_3,type_4,type_5,type_6,type_7,type_8,type_9,type_10;
+        while(x<10){
+            id=responseData[x].id;
+            responseData[x].dpn!=null?dpn=responseData[x].dpn:dpn=responseData[x-1].dpn;
+            type_0=responseData[x].type_0==1?`<img src="./Img/done.svg">`:"";
+            type_1=responseData[x].type_1==1?`<img src="./Img/done.svg">`:"";
+            type_2=responseData[x].type_2==1?`<img src="./Img/done.svg">`:"";
+            type_3=responseData[x].type_3==1?`<img src="./Img/done.svg">`:"";
+            type_4=responseData[x].type_4==1?`<img src="./Img/done.svg">`:"";
+            type_5=responseData[x].type_5==1?`<img src="./Img/done.svg">`:"";
+            type_6=responseData[x].type_6==1?`<img src="./Img/done.svg">`:"";
+            type_7=responseData[x].type_7==1?`<img src="./Img/done.svg">`:"";
+            type_8=responseData[x].type_8==1?`<img src="./Img/done.svg">`:"";
+            type_9=responseData[x].type_9==1?`<img src="./Img/done.svg">`:"";
+            type_10=responseData[x].type_10==1?`<img src="./Img/done.svg">`:"";
+
+            document.getElementById("dataContainer").innerHTML+=`
+            <div class="infoLine">
+                    <div class="cell_1">
+                        ${id}
+                    </div>
+                    <div class="cell_2">
+                        ${dpn}
+                    </div>
+                    <div class="cell_3">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                                ${type_0}
+          
+                                </div>
+                  <div class="imgContainer">
+                               ${type_1}
+                                </div>
+                            <div class="imgContainer">
+                               ${type_2}
+                                </div>
+                        </div>
+                    </div>
+                    <div class="cell_4">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_3}</div>
+                            <div class="imgContainer">
+                                ${type_4}
+                            </div>
+                            <div class="imgContainer">
+                               ${type_5}</div>
+                        </div>
+                    </div>
+                    <div class="cell_5">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                                ${type_6}
+                            </div>
+                            <div class="imgContainer">
+                               ${type_7}
+                               </div>
+                        </div>
+                    </div>
+                    <div class="cell_6">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_8}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell_7">
+                        <div class="checkTable">
+                            <div class="imgContainer">
+                               ${type_9}
+                               </div>
+                            <div class="imgContainer">
+                               ${type_10}
+                               </div>
+                        </div>
+                    </div>
+                </div>
+            
+      `;
+            x++;
+        }
+    
+    }
+
+    
+});
+            }
       
-        <div class="infoLine">
-            <div class="name cell_1">
-                0003
-            </div>
-            <div class="region cell_2">
-                12198039
-            </div>
-
-            <div class="cell_3">
-                <div class="checkTable">
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
+        </script>
+        <img src="./Img/aptivLogo.jfif" class="aptivLogo">
+        <p class="title" id="clientsTableTitle">
+            Terminals List of Rechecked Monitoring Parameters
+        </p>
+        <div class="searchBox">
+            <input type="text" placeholder="search by DPN" id="searchBox">
+            <button class="searchButton" onclick="filterResult()">search</button>
+        </div>
+        <div class="tableContainer" id="clientsTable">
+            <div class="tableHead">
+                <div class="cell_1">item</div>
+                <div class="cell_2">DPN</div>
+                <div class="cell_3">
+                    OES
+                    <div class="itemType">
+                        <div>
+                            CPM 4000
+                        </div>
+                        <div>
+                            CPM 4100
+                        </div>
+                        <div>
+                            CPM 5XXX
+                        </div>
                     </div>
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
+                </div>
+                <div class="cell_4">
+                    CFA CFA+
+                    <div class="itemType">
+                        <div>
+                            721
+                        </div>
+                        <div>
+                            721/1 C3170
+                        </div>
+                        <div>
+                            721/1 C3170
+                        </div>
                     </div>
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
+                </div>
+                <div class="cell_5">
+                    DOUBLE x
+                    <div class="itemType">
+                        <div>
+                            721
+                        </div>
+                        <div>
+                            721/1 C3170
+                        </div>
+                    </div>
+                </div>
+                <div class="cell_6">
+                    SLE
+                    <div class="itemType">
+                        <div>
+                            SLE
+                        </div>
+                    </div>
+                </div>
+                <div class="cell_7">
+                    KISTLER
+                    <div class="itemType">
+                        <div>
+                            CC2
+                        </div>
+                        <div>
+                            CC3
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="cell_4">
-                <div class="checkTable">
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
-                    </div>
-                    <div class="imgContainer">
-                        <img src="./Img/done.svg">
-                    </div>
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
-                    </div>
-                </div>
-            </div>
-            <div class="cell_5">
-                <div class="checkTable">
-                    <div class="imgContainer">
-                        <img src="./Img/done.svg">
-                    </div>
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
-                    </div>
-                </div>
-            </div>
-            <div class="cell_6">
-                <div class="checkTable">
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
-                    </div>
-
-                </div>
-            </div>
-            <div class="cell_7">
-                <div class="checkTable">
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
-                    </div>
-                    <div class="imgContainer">
-                        <!-- <img src="./Img/done.svg"> -->
-                    </div>
-
-                </div>
+            <div id="dataContainer">
             </div>
         </div>
-    </div>
-
-</body>
-
+    </body>
 </html>
