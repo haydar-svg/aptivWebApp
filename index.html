@@ -1,784 +1,206 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="global.css">
-        <title>Document</title>
-        <style>
-        * {
-            font-family: 'Oswald' !important;
-        }
 
-        .aptivLogo {
-            width: auto;
-            height: 40px;
-            margin-left: 2%;
-            border: none;
-            margin-top: 30px;
-        }
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="global.css">
+    <link rel="stylesheet" href="./index.css">
+    <script src="./index.js"></script>
+    <title>Document</title>
+</head>
 
-        .title {
-            font-size: 30px;
-            color: #23364d;
-            padding-top: 10px;
-            letter-spacing: 2px;
-            margin-left: 2%;
-            margin-top: 10px;
+<body>
+    <script>
+        function loadDoc(callback) {
+            const xhttp = new XMLHttpRequest();
+            xhttp.onload = function () {
+                if (this.status === 200) {
+                    const responseData = JSON.parse(this.responseText);
+                    callback(null, responseData);
+                } else {
+                    const error = new Error(`Error loading data. Status: ${this.status}`);
+                    callback(error, null);
+                }
+            };
+            xhttp.open("GET", "json.json", true);
+            xhttp.send();
         }
-
-        @media (max-width:600px) {
-            .title {
-                font-size: 30px;
+        loadDoc(function (error, responseData) {
+            if (!error) {
+                let x = 0;
+                var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
+                lastRealDPN = '';
+                while (x < responseData.length / 2) {
+                    id = responseData[x].id;
+                    responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
+                    responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
+                    type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg">` : "";
+                    avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
+                    x++;
+                }
             }
-        }
-
-        .searchBox {
-            width: 600px;
-            height: 50px;
-            border-radius: 5px;
-            overflow: hidden;
-            margin-left: 2%;
-            margin-top: 50px;
-            background-color: #ddd;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        input{
-            width: 85%;
-            height: 50px;
-            border: none;
-            background-color: #ddd;
-            font-size: 20px;
-            padding-left: 5px;
-            color: #23364d;
-        }
-        .searchButton{
-            width: 15%;
-            height: 50px;
-            border: none;
-            background-color: #ddd;
-            font-size: 20px;
-            color: #23364d;
-            cursor: pointer;
-        }
-       
-        .tableContainer {
-            width: 96%;
-            height: auto;
-            background-color: #fff;
-            margin-left: 2%;
-            margin-top: 50px;
-            border-radius: 5px;
-            overflow: hidden;
-            box-shadow: 0px 5px 15px 2px #6d6d6d17;
-            margin-bottom: 100px;
-        }
-
-        .tableContainer>div:last-of-type {
-            border-bottom: 0px;
-        }
-
-        .tableHead {
-            width: 100%;
-            height: 100px;
-            display: flex;
-            align-items: flex-end;
-            justify-content: space-around;
-        }
-
-        .tableHead>div {
-            font-size: 18px;
-            color: #888;
-            text-transform: uppercase !important;
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-grow: 1;
-            white-space: nowrap;
-            flex-wrap: wrap;
-            background-color: #edeff2;
-            flex-wrap: wrap;
-        }
-
-        .itemType {
-            width: 96%;
-            height: 50px;
-            display: flex;
-            align-items: center;
-            justify-content: space-around;
-            background-color: rgba(85, 164, 255, 0.267);
-            border-radius: 5px;
-            font-size: 14px;
-        }
-
-        .itemType>div {
-            font-size: 13px;
-            font-family: 'OswaldLight';
-            color: #333;
-
-        }
-
-        .infoLine {
-            width: 100%;
-            height: 70px;
-            display: flex;
-            align-items: center;
-            justify-content: space-around;
-            color: #222;
-            border-bottom: 1px#ddd solid;
-        }
-
-        .infoLine>div {
-
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: flex-start;
-            flex-grow: 1;
-            font-size: 18px;
-            color: #23364d;
-            white-space: nowrap;
-        }
-
-        .cell_1 {
-            width: 5%;
-            justify-content: flex-start !important;
-            padding-left: 10px;
-        }
-
-        .cell_2 {
-            width: 10%;
-            padding-left: 10px;
-            justify-content: flex-start !important;
-        }
-
-        .cell_3 {
-            width: 25%;
-
-        }
-
-        .cell_4 {
-            width: 25%;
-        }
-
-        .cell_5 {
-            width: 12.5%;
-        }
-        .cell_6 {
-            width: 10%;
-        }
-        .cell_7 {
-            width: 12.5%;
-        }
-
-        .checkTable {
-            width: 100%;
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: space-around;
-        }
-
-        .imgContainer {
-            width: 70px;
-            height: 50px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 5px;
-            box-shadow: 0px 5px 15px 2px #6d6d6d17;
-            background-color: #23364d2d;
-        }
-
-        .imgContainer>img {
-            width: 40px;
-            height: auto;
-            cursor: pointer;
-        }
-
-        .moreInfoButton {
-            width: 80%;
-            height: 40px;
-            border-radius: 5px;
-            background-color: rgba(85, 164, 255, 0.267);
-            border: 0px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-left: 10%;
-            color: #444;
-            cursor: pointer;
-        }
-
-        .emptyTable {
-    width: 100%;
-    height: 400px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.emptyTable>img {
-    min-width: 100px;
-}
-
-.emptyTable>p {
-    font-size: 24px;
-    color: #23364d;
-    margin-left: 20px;
-}
-.allResultContainer{
-    width: 100%;
-}
-.allResult{
-    width:200px ;
-    height: 50px;
-    color: #23364d;
-    background-color: #23364d2a;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 24px;
-    border-radius: 10px;
-    margin-left: 50%;
-    transform: translateX(-50%);
-    cursor: pointer;
-}
-        /* 
-        @media (max-width:1000px) {
-            .title {
-                margin-left: 3%;
-            }
-
-            .tableContainer {
-                width: 94%;
-                margin-left: 3%;
-            }
-        }
-
-        @media (max-width:800px) {
-            .title {
-                font-size: 28px;
-            }
-
-            .tableHead>div:nth-last-of-type(2) {
-                width: 0%;
-                height: 100%;
-                padding-left: 0px;
-                overflow: hidden;
-                flex-grow: 0;
-            }
-
-            .infoLine>div:nth-last-of-type(2) {
-                width: 0%;
-                height: 100%;
-                padding-left: 0px;
-                overflow: hidden;
-                flex-grow: 0;
-            }
-
-
-            .tableHead>div:last-of-type {
-                width: 30%;
-                padding-left: 0px;
-            }
-
-            .infoLine>div:last-of-type {
-                width: 30%;
-                padding-left: 0px;
-            }
-        }
-
-        @media (max-width:650px) {
-            .title {
-                font-size: 26px;
-            }
-
-            .tableHead>div:nth-last-of-type(3) {
-                width: 0%;
-                height: 100%;
-                padding-left: 0px;
-                overflow: hidden;
-                flex-grow: 0;
-            }
-
-            .infoLine>div:nth-last-of-type(3) {
-                width: 0%;
-                height: 100%;
-                padding-left: 0px;
-                overflow: hidden;
-                flex-grow: 0;
-            }
-        }
-
-        @media (max-width:550px) {
-            .title {
-                font-size: 24px;
-            }
-
-            .tableHead>div:nth-last-of-type(4) {
-                width: 0%;
-                height: 100%;
-                padding-left: 0px;
-                overflow: hidden;
-                flex-grow: 0;
-            }
-
-            .infoLine>div:nth-last-of-type(4) {
-                width: 0%;
-                height: 100%;
-                padding-left: 0px;
-                overflow: hidden;
-                flex-grow: 0;
-            }
-
-            .tableHead>div:last-of-type {
-                width: 35%;
-                padding-left: 0px;
-            }
-
-            .infoLine>div:last-of-type {
-                width: 35%;
-                padding-left: 0px;
-            }
-        }
-
-        @media (max-width:450px) {
-            .title {
-                font-size: 22px;
-            }
-
-            .tableHead>div:first-of-type {
-                width: 35%;
-            }
-
-            .tableHead>div:last-of-type {
-                width: 40%;
-            }
-
-            .infoLine>div:first-of-type {
-                width: 35%;
-            }
-
-            .infoLine>div:last-of-type {
-                width: 40%;
-            }
-        } */
-        </style>
-    </head>
-    <body>
-        <script>
-                function loadDoc(callback) {
-    const xhttp = new XMLHttpRequest();
-
-    // Set up the event handler for when the response is received
-    xhttp.onload = function() {
-        if (this.status === 200) {
-            const responseData = JSON.parse(this.responseText); 
-            // Assuming the response is JSON
-
-            // Call the callback function with the response data
-            callback(null, responseData);
-        } else {
-            const error = new Error(`Error loading data. Status: ${this.status}`);
-            callback(error, null);
-        }
-    };
-
-    // Set up event handler for network errors
-    // xhttp.onerror = function() {
-    //     const error = new Error('Network error');
-    //     callback(error, null);
-    // };
-
-    // Make the GET request
-    xhttp.open("GET", "json.json", true);
-    xhttp.send();
-}
-
-// Example of how to use the function
-
-loadDoc(function(error, responseData) {
-    if (error) {
-        console.error(error);
-    } else {
-        let x=0;
-        var id,dpn,type_0,type_1,type_2,type_3,type_4,type_5,type_6,type_7,type_8,type_9,type_10;
-        while(x<10){
-            id=responseData[x].id;
-            responseData[x].dpn!=null?dpn=responseData[x].dpn:dpn=responseData[x-1].dpn;
-            type_0=responseData[x].type_0==1?`<img src="./Img/done.svg">`:"";
-            type_1=responseData[x].type_1==1?`<img src="./Img/done.svg">`:"";
-            type_2=responseData[x].type_2==1?`<img src="./Img/done.svg">`:"";
-            type_3=responseData[x].type_3==1?`<img src="./Img/done.svg">`:"";
-            type_4=responseData[x].type_4==1?`<img src="./Img/done.svg">`:"";
-            type_5=responseData[x].type_5==1?`<img src="./Img/done.svg">`:"";
-            type_6=responseData[x].type_6==1?`<img src="./Img/done.svg">`:"";
-            type_7=responseData[x].type_7==1?`<img src="./Img/done.svg">`:"";
-            type_8=responseData[x].type_8==1?`<img src="./Img/done.svg">`:"";
-            type_9=responseData[x].type_9==1?`<img src="./Img/done.svg">`:"";
-            type_10=responseData[x].type_10==1?`<img src="./Img/done.svg">`:"";
-
-
-            document.getElementById("dataContainer").innerHTML+=`
-            <div class="infoLine">
-                    <div class="cell_1">
-                        ${id}
-                    </div>
-                    <div class="cell_2">
-                        ${dpn}
-                    </div>
-                    <div class="cell_3">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                                ${type_0}
-          
-                                </div>
-                  <div class="imgContainer">
-                               ${type_1}
-                                </div>
-                            <div class="imgContainer">
-                               ${type_2}
-                                </div>
-                        </div>
-                    </div>
-                    <div class="cell_4">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_3}</div>
-                            <div class="imgContainer">
-                                ${type_4}
-                            </div>
-                            <div class="imgContainer">
-                               ${type_5}</div>
-                        </div>
-                    </div>
-                    <div class="cell_5">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                                ${type_6}
-                            </div>
-                            <div class="imgContainer">
-                               ${type_7}
-                               </div>
-                        </div>
-                    </div>
-                    <div class="cell_6">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_8}
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell_7">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_9}
-                               </div>
-                            <div class="imgContainer">
-                               ${type_10}
-                               </div>
-                        </div>
-                    </div>
-                </div>
-            
-      `;
-            x++;
-        }
-    
-    }
-
-    
-});
-            function filterResult(){
-            document.getElementById("dataContainer").innerHTML="";
-            var DPN=document.getElementById("searchBox").value;
-loadDoc(function(error, responseData) {
-    if (error) {
-        console.error(error);
-    } else {
-        let x=0;
-        var id,dpn,type_0,type_1,type_2,type_3,type_4,type_5,type_6,type_7,type_8,type_9,type_10;
-        var count=0;
-        while(x<10){
-            if(DPN== responseData[x].dpn){
-                count ++;
-
-                id=responseData[x].id;
-            responseData[x].dpn!=null?dpn=responseData[x].dpn:dpn=responseData[x-1].dpn;
-            type_0=responseData[x].type_0==1?`<img src="./Img/done.svg">`:"";
-            type_1=responseData[x].type_1==1?`<img src="./Img/done.svg">`:"";
-            type_2=responseData[x].type_2==1?`<img src="./Img/done.svg">`:"";
-            type_3=responseData[x].type_3==1?`<img src="./Img/done.svg">`:"";
-            type_4=responseData[x].type_4==1?`<img src="./Img/done.svg">`:"";
-            type_5=responseData[x].type_5==1?`<img src="./Img/done.svg">`:"";
-            type_6=responseData[x].type_6==1?`<img src="./Img/done.svg">`:"";
-            type_7=responseData[x].type_7==1?`<img src="./Img/done.svg">`:"";
-            type_8=responseData[x].type_8==1?`<img src="./Img/done.svg">`:"";
-            type_9=responseData[x].type_9==1?`<img src="./Img/done.svg">`:"";
-            type_10=responseData[x].type_10==1?`<img src="./Img/done.svg">`:"";
-
-
-            document.getElementById("dataContainer").innerHTML+=`
-            <div class="infoLine">
-                    <div class="cell_1">
-                        ${id}
-                    </div>
-                    <div class="cell_2">
-                        ${dpn}
-                    </div>
-                    <div class="cell_3">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                                ${type_0}
-          
-                                </div>
-                  <div class="imgContainer">
-                               ${type_1}
-                                </div>
-                            <div class="imgContainer">
-                               ${type_2}
-                                </div>
-                        </div>
-                    </div>
-                    <div class="cell_4">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_3}</div>
-                            <div class="imgContainer">
-                                ${type_4}
-                            </div>
-                            <div class="imgContainer">
-                               ${type_5}</div>
-                        </div>
-                    </div>
-                    <div class="cell_5">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                                ${type_6}
-                            </div>
-                            <div class="imgContainer">
-                               ${type_7}
-                               </div>
-                        </div>
-                    </div>
-                    <div class="cell_6">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_8}
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell_7">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_9}
-                               </div>
-                            <div class="imgContainer">
-                               ${type_10}
-                               </div>
-                        </div>
-                    </div>
-                </div>
-            
-      `;
-            }
-            x++;
-        }
-        if(count==0){
-            document.getElementById("dataContainer").innerHTML=`
+        });
+        function filterResult() {
+            document.getElementById("dataContainer").innerHTML = "";
+            var DPN = document.getElementById("searchBox").value;
+            loadDoc(function (error, responseData) {
+                if (!error) {
+                    let x = 0;
+                    var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
+                    lastRealDPN = '';
+                    var count = 0;
+                    while (x < responseData.length / 2) {
+                        if (DPN == responseData[x].dpn) {
+                            count++;
+                            id = responseData[x].id;
+                            responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
+                            responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
+                            type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg">` : "";
+                            avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
+                        }
+                        x++;
+                    }
+                    if (count === 0) {
+                        document.getElementById("dataContainer").innerHTML = `
             <div class="emptyTable">
             <img src="./Img/folder_off.svg" alt="folder of">
             <p>
                  0 item ?
             </p>
-            <div class="allResultContainer">
-            <div class="allResult" onclick="allResult()">
-                see all 
-            </div>
-            </div></div>
+          </div>
             `;
+                    }
+                }
+            });
         }
-    }
-});
-            }
-            function allResult(){
-            
-
-             
-                document.getElementById("dataContainer").innerHTML="";
-          
-loadDoc(function(error, responseData) {
-    if (error) {
-        console.error(error);
-    } else {
-        let x=0;
-        var id,dpn,type_0,type_1,type_2,type_3,type_4,type_5,type_6,type_7,type_8,type_9,type_10;
-        while(x<10){
-            id=responseData[x].id;
-            responseData[x].dpn!=null?dpn=responseData[x].dpn:dpn=responseData[x-1].dpn;
-            type_0=responseData[x].type_0==1?`<img src="./Img/done.svg">`:"";
-            type_1=responseData[x].type_1==1?`<img src="./Img/done.svg">`:"";
-            type_2=responseData[x].type_2==1?`<img src="./Img/done.svg">`:"";
-            type_3=responseData[x].type_3==1?`<img src="./Img/done.svg">`:"";
-            type_4=responseData[x].type_4==1?`<img src="./Img/done.svg">`:"";
-            type_5=responseData[x].type_5==1?`<img src="./Img/done.svg">`:"";
-            type_6=responseData[x].type_6==1?`<img src="./Img/done.svg">`:"";
-            type_7=responseData[x].type_7==1?`<img src="./Img/done.svg">`:"";
-            type_8=responseData[x].type_8==1?`<img src="./Img/done.svg">`:"";
-            type_9=responseData[x].type_9==1?`<img src="./Img/done.svg">`:"";
-            type_10=responseData[x].type_10==1?`<img src="./Img/done.svg">`:"";
-
-            document.getElementById("dataContainer").innerHTML+=`
-            <div class="infoLine">
-                    <div class="cell_1">
-                        ${id}
-                    </div>
-                    <div class="cell_2">
-                        ${dpn}
-                    </div>
-                    <div class="cell_3">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                                ${type_0}
-          
-                                </div>
-                  <div class="imgContainer">
-                               ${type_1}
-                                </div>
-                            <div class="imgContainer">
-                               ${type_2}
-                                </div>
-                        </div>
-                    </div>
-                    <div class="cell_4">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_3}</div>
-                            <div class="imgContainer">
-                                ${type_4}
-                            </div>
-                            <div class="imgContainer">
-                               ${type_5}</div>
-                        </div>
-                    </div>
-                    <div class="cell_5">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                                ${type_6}
-                            </div>
-                            <div class="imgContainer">
-                               ${type_7}
-                               </div>
-                        </div>
-                    </div>
-                    <div class="cell_6">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_8}
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell_7">
-                        <div class="checkTable">
-                            <div class="imgContainer">
-                               ${type_9}
-                               </div>
-                            <div class="imgContainer">
-                               ${type_10}
-                               </div>
-                        </div>
-                    </div>
-                </div>
-            
-      `;
-            x++;
+        function allResult() {
+            document.getElementById("dataContainer").innerHTML = "";
+            loadDoc(function (error, responseData) {
+                if (!error) {
+                    let x = 0;
+                    var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
+                    lastRealDPN = '';
+                    while (x < responseData.length / 2) {
+                        id = responseData[x].id;
+                        responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
+                        responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
+                        type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg">` : "";
+                        avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
+                        x++;
+                    }
+                }
+            });
         }
-    
-    }
 
-    
-});
-            }
-      
-        </script>
-        <img src="./Img/aptivLogo.jfif" class="aptivLogo">
-        <p class="title" id="clientsTableTitle">
-            Terminals List of Rechecked Monitoring Parameters
-        </p>
-        <div class="searchBox">
-            <input type="text" placeholder="search by DPN" id="searchBox">
-            <button class="searchButton" onclick="filterResult()">search</button>
-        </div>
-        <div class="tableContainer" id="clientsTable">
-            <div class="tableHead">
-                <div class="cell_1">item</div>
-                <div class="cell_2">DPN</div>
-                <div class="cell_3">
-                    OES
-                    <div class="itemType">
-                        <div>
-                            CPM 4000
-                        </div>
-                        <div>
-                            CPM 4100
-                        </div>
-                        <div>
-                            CPM 5XXX
-                        </div>
+    </script>
+    <img src="./Img/aptivLogo.jfif" class="aptivLogo">
+    <p class="title" id="clientsTableTitle">
+        Terminals List of Rechecked Monitoring Parameters
+    </p>
+    <div class="searchBox">
+        <input type="text" placeholder="search by DPN" id="searchBox">
+        <button class="searchButton" onclick="filterResult()">search</button>
+    </div>
+    <div class="tableContainer" id="clientsTable">
+        <div class="tableHead">
+            <div class="cell_1">item</div>
+            <div class="cell_2">DPN</div>
+            <div class="cell_3">
+                OES
+                <div class="itemType">
+                    <div>
+                        CPM 4000
                     </div>
-                </div>
-                <div class="cell_4">
-                    CFA CFA+
-                    <div class="itemType">
-                        <div>
-                            721
-                        </div>
-                        <div>
-                            721/1 C3170
-                        </div>
-                        <div>
-                            721/1 C3170
-                        </div>
+                    <div>
+                        CPM 4100
                     </div>
-                </div>
-                <div class="cell_5">
-                    DOUBLE x
-                    <div class="itemType">
-                        <div>
-                            721
-                        </div>
-                        <div>
-                            721/1 C3170
-                        </div>
-                    </div>
-                </div>
-                <div class="cell_6">
-                    SLE
-                    <div class="itemType">
-                        <div>
-                            SLE
-                        </div>
-                    </div>
-                </div>
-                <div class="cell_7">
-                    KISTLER
-                    <div class="itemType">
-                        <div>
-                            CC2
-                        </div>
-                        <div>
-                            CC3
-                        </div>
+                    <div>
+                        CPM 5XXX
                     </div>
                 </div>
             </div>
-            <div id="dataContainer">
+            <div class="cell_4">
+                CFA CFA+
+                <div class="itemType">
+                    <div>
+                        721
+                    </div>
+                    <div>
+                        721/1 C3170
+                    </div>
+                    <div>
+                        721/1 C3170
+                    </div>
+                </div>
+            </div>
+            <div class="cell_5">
+                DOUBLE x
+                <div class="itemType">
+                    <div>
+                        721
+                    </div>
+                    <div>
+                        721/1 C3170
+                    </div>
+                </div>
+            </div>
+            <div class="cell_6">
+                SLE
+                <div class="itemType">
+                    <div>
+                        SLE
+                    </div>
+                </div>
+            </div>
+            <div class="cell_7">
+                KISTLER
+                <div class="itemType">
+                    <div>
+                        CC2
+                    </div>
+                    <div>
+                        CC3
+                    </div>
+                </div>
             </div>
         </div>
-    </body>
+        <div id="dataContainer">
+        </div>
+        <div class="allResult" onclick="allResult()" style="width: 20%; margin-top: 50px ; margin-right: 80;">
+            see all
+        </div>
+    </div>
+</body>
+
 </html>

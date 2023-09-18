@@ -1,0 +1,246 @@
+* {
+    font-family: 'Oswald' !important;
+}
+
+.aptivLogo {
+    width: auto;
+    height: 40px;
+    margin-left: 2%;
+    border: none;
+    margin-top: 30px;
+}
+
+.title {
+    font-size: 30px;
+    color: #23364d;
+    padding-top: 10px;
+    letter-spacing: 2px;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+@media (max-width:600px) {
+    .title {
+        font-size: 30px;
+    }
+}
+
+.searchBox {
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 2%;
+    margin-top: 50px;
+    background-color: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+input {
+    width: 85%;
+    height: 50px;
+    border: none;
+    background-color: #ddd;
+    font-size: 20px;
+    padding-left: 5px;
+    color: #23364d;
+}
+
+.searchButton {
+    width: 15%;
+    height: 50px;
+    border: none;
+    background-color: #ddd;
+    font-size: 20px;
+    color: #23364d;
+    cursor: pointer;
+}
+
+.tableContainer {
+    width: 96%;
+    height: auto;
+    background-color: #fff;
+    margin-left: 2%;
+    margin-top: 50px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0px 5px 15px 2px #6d6d6d17;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+.tableContainer>div:last-of-type {
+    border-bottom: 0px;
+}
+
+.tableHead {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.tableHead>div {
+    font-size: 18px;
+    color: #888;
+    text-transform: uppercase !important;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    white-space: nowrap;
+    flex-wrap: wrap;
+    background-color: #edeff2;
+    flex-wrap: wrap;
+}
+
+.itemType {
+    width: 96%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(85, 164, 255, 0.267);
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.itemType>div {
+    font-size: 13px;
+    font-family: 'OswaldLight';
+    color: #333;
+
+}
+
+.infoLine {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #222;
+    border-bottom: 1px#ddd solid;
+}
+
+.infoLine>div {
+
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-grow: 1;
+    font-size: 18px;
+    color: #23364d;
+    white-space: nowrap;
+}
+
+.cell_1 {
+    width: 3%;
+    justify-content: flex-start !important;
+    padding-left: 10px;
+}
+
+.cell_2 {
+    width: 7%;
+    padding-left: 10px;
+    justify-content: flex-start !important;
+}
+
+.cell_3 {
+    width: 24.5%;
+
+}
+
+.cell_4 {
+    width: 24.5%;
+}
+
+.cell_5 {
+    width: 16.36%;
+}
+
+.cell_6 {
+    width: 8.18%;
+}
+
+.cell_7 {
+    width: 16.36%;
+}
+
+.checkTable {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imgContainer {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px 2px #6d6d6d17;
+    background-color: #fff;
+}
+
+.imgContainer>img {
+    width: 40px;
+    height: auto;
+    cursor: pointer;
+}
+
+.moreInfoButton {
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgba(85, 164, 255, 0.267);
+    border: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    color: #444;
+    cursor: pointer;
+}
+
+.emptyTable {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.emptyTable>img {
+    min-width: 100px;
+}
+
+.emptyTable>p {
+    font-size: 24px;
+    color: #23364d;
+    margin-left: 20px;
+}
+
+.allResult {
+    width: 200px;
+    height: 50px;
+    color: #23364d;
+    background-color: #23364d2a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 10px;
+
+}
