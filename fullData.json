@@ -1,5 +1,5 @@
 {
-"DPN_10811252_(CFA721)":[
+"DPN_10811252_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 10811252 -mci721 -722",
   "c9": "Crimp Press & Monitoring"
@@ -82,8 +82,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13663330_(CFA711)":[
+],"DPN_13663330_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13663330 -mci711 -",
   "c9": "Crimp Press & Monitoring"
@@ -166,8 +165,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775897_(CFA711) (2)":[
+],"DPN_10775897_CFA711_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775897
@@ -253,8 +251,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15432210_(CFA722)":[
+],"DPN_15432210_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15432210,
@@ -342,8 +339,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13663330_(CFA721)":[
+],"DPN_13663330_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13663330 -mci721 \/ 722-",
   "c9": "Crimp Press & Monitoring"
@@ -426,9 +422,7 @@
  {
   "c2": "optimal results."
  }
-],
-"Sheet1":[],
-"13824960_(CFA722) (2)":[
+],"DPN_13824960_CFA722_2":[
  {
   "c2": "CRIMP FORCE ANALYZER           ",
   "13824960": "Komax bt722",
@@ -510,8 +504,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15314438_(CFA711) (2)":[
+],"DPN_15314438_CFA711_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414438
@@ -597,8 +590,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15365809_(CFA711) (2)":[
+],"DPN_15365809_CFA711_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15365809
@@ -684,8 +676,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13742841_(CFA711)":[
+],"DPN_13742841_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13742841 -mci711 -",
   "c9": "Crimp Press & Monitoring"
@@ -776,8 +767,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13742841_(CFA721)":[
+],"DPN_13742841_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13742841 -mci721 \/ 722-",
   "c9": "Crimp Press & Monitoring"
@@ -864,8 +854,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13742841_(CC3)":[
+],"DPN_13742841_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13742841,
@@ -915,8 +904,7 @@
  {
   "c17": "OFF"
  }
-],
-"DPN_13742841_(CFM4100)":[
+],"DPN_13742841_CFM4100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13742841,
@@ -1147,8 +1135,7 @@
   "c1": "MAX PROC DEVIATION (eu)",
   "c4": 100
  }
-],
-"DPN_10780330_(CFA711)":[
+],"DPN_10780330_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN: 10780330 -mci711 -",
   "c9": "Crimp Press & Monitoring"
@@ -1239,8 +1226,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10780330_(CFA721)":[
+],"DPN_10780330_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 10780330 -mci721 \/ 722-",
   "c9": "Crimp Press & Monitoring"
@@ -1331,8 +1317,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10780330_(CC3)":[
+],"DPN_10780330_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10780330,
@@ -1376,8 +1361,7 @@
  {
   "c2": "- MC Min Tol 2%"
  }
-],
-"DPN_10780330_(CFM4100)":[
+],"DPN_10780330_CFM4100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10780330,
@@ -1608,8 +1592,7 @@
   "c1": "MAX PROC DEVIATION (eu)",
   "c4": 100
  }
-],
-"DPN_10780329_(CFA721)":[
+],"DPN_10780329_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 10780329 -mci721 \/ 722-",
   "c9": "Crimp Press & Monitoring"
@@ -1682,8 +1665,7 @@
   "c3": "Drift Rate",
   "c4": "ON"
  }
-],
-"DPN_13580943_(CFM4100)":[
+],"DPN_13580943_CFM4100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580943,
@@ -1914,8 +1896,7 @@
   "c1": "MAX PROC DEVIATION (eu)",
   "c4": 100
  }
-],
-"DPN_13580943_(CC3)":[
+],"DPN_13580943_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580943,
@@ -2004,8 +1985,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13594324_(CFA711)":[
+],"DPN_13594324_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13663330 -mci711 -",
   "c9": "Crimp Press & Monitoring"
@@ -2092,8 +2072,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13594324_(CFM4100)":[
+],"DPN_13594324_CFM4100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13594324,
@@ -2324,8 +2303,7 @@
   "c1": "MAX PROC DEVIATION (eu)",
   "c4": 100
  }
-],
-"DPN_12198039_(CFA721)":[
+],"DPN_12198039_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 12198039 -mci721 \/ 722-",
   "c9": "Crimp Press & Monitoring"
@@ -2412,8 +2390,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15316618_(CFA721)":[
+],"DPN_15316618_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 15316618 -mci721 -",
   "c9": "Crimp Press & Monitoring"
@@ -2500,8 +2477,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15448359_mci721_Double-x":[
+],"DPN_15448359_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15448359,
@@ -2590,8 +2566,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15417115_mci721_Double-x":[
+],"DPN_15417115_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15417115,
@@ -2680,8 +2655,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846792_mci721_Double-x":[
+],"DPN_10846792_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846792,
@@ -2770,8 +2744,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846789_mci721_Double-x":[
+],"DPN_10846789_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846789,
@@ -2842,8 +2815,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"10846789_mci711_0,13+0,13 ":[
+],"DPN_10846789_mci711_0,13+0,13 ":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846789
@@ -2931,8 +2903,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12185232_mci721_Double-x":[
+],"DPN_12185232_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12185232,
@@ -3021,8 +2992,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15324953_mci721_Double-x":[
+],"DPN_15324953_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324953,
@@ -3093,8 +3063,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"15324953_mci711_0,13+0,13":[
+],"DPN_15324953_mci711_0,13+0,13":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324953,
@@ -3165,8 +3134,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"10725699_mci721_Double-x":[
+],"DPN_10725699_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725699,
@@ -3237,8 +3205,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"10725699_mci711_0,13+0,13":[
+],"DPN_10725699_mci711_0,13+0,13":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725699
@@ -3326,8 +3293,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725699_mci721_Std Crimps":[
+],"DPN_10725699_mci721_Std Crimps":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725699,
@@ -3398,8 +3364,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"15338318_mci721_Double-x":[
+],"DPN_15338318_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15338318,
@@ -3488,8 +3453,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15344765_mci721_Double-x":[
+],"DPN_15344765_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15344765,
@@ -3578,8 +3542,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15324434_mci721_Double-x":[
+],"DPN_15324434_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324434,
@@ -3668,8 +3631,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12129373_mci721_Double-x":[
+],"DPN_12129373_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12129373,
@@ -3758,8 +3720,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15425677_mci721_Double-x":[
+],"DPN_15425677_mci721_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15425677,
@@ -3848,8 +3809,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13787415_(CFA721)":[
+],"DPN_13787415_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13787415 -mci721 \/ 722 -",
   "c9": 0.13
@@ -3930,8 +3890,7 @@
   "c3": "Drift Rate",
   "c4": "ON"
  }
-],
-"DPN_12191811_(CFA721)":[
+],"DPN_12191811_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191811
@@ -4020,8 +3979,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_12198039_(MCI711)":[
+],"DPN_12198039_MCI711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12198039
@@ -4110,8 +4068,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15327080_(MCI721)":[
+],"DPN_15327080_MCI721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327080
@@ -4200,8 +4157,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15425677_(MCI721)":[
+],"DPN_15425677_MCI721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15425677
@@ -4272,8 +4228,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"DPN_15448359_(MCI721)":[
+],"DPN_15448359_MCI721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15448359
@@ -4344,8 +4299,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"DPN_15462696_(MCI721)":[
+],"DPN_15462696_MCI721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15462696
@@ -4416,8 +4370,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"DPN_10769453_(CC3)":[
+],"DPN_10769453_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10769953
@@ -4454,8 +4407,7 @@
  {
   "c17": "OFF"
  }
-],
-"DPN_12158468_(CC3)":[
+],"DPN_12158468_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12158468
@@ -4492,8 +4444,7 @@
  {
   "c17": "OFF"
  }
-],
-"DPN_15337741_(CC3)":[
+],"DPN_15337741_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15337741
@@ -4517,8 +4468,7 @@
  {
   "c2": "Ampl. Fact--> 150%"
  }
-],
-"DPN_10768878_(CC3)":[
+],"DPN_10768878_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10768878
@@ -4542,8 +4492,7 @@
  {
   "c2": "Ampl. Fact--> 150%"
  }
-],
-"DPN_10725694_(MCI721)":[
+],"DPN_10725694_MCI721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725694
@@ -4614,8 +4563,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"DPN_15423845_(MCI721)":[
+],"DPN_15423845_MCI721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15423845
@@ -4686,8 +4634,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"10775063_(CC3)":[
+],"DPN_10775063_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775063
@@ -4724,8 +4671,7 @@
  {
   "c2": "Other parameters as default."
  }
-],
-"DPN_10775063_(CFA721)":[
+],"DPN_10775063_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 10775063",
   "c9": "Crimp Press & Monitoring"
@@ -4794,8 +4740,7 @@
   "c3": "0.9",
   "c4": "Factor for weighting the error in zone 3"
  }
-],
-"10866833_(CC3)":[
+],"DPN_10866833_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10866833
@@ -4826,8 +4771,7 @@
  {
   "c2": "Set Default parameters"
  }
-],
-"10866833_(CFA721)":[
+],"DPN_10866833_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN: 10899833 -  -",
   "c9": "Crimp Press & Monitoring"
@@ -4896,8 +4840,7 @@
   "c3": 1,
   "c4": "Factor for weighting the error in zone 3"
  }
-],
-"13540188_(CC3)":[
+],"DPN_13540188_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13540188
@@ -4928,8 +4871,7 @@
  {
   "c2": "Set Default parameters"
  }
-],
-"13540188_(CFA721)":[
+],"DPN_13540188_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13540188
@@ -4998,8 +4940,7 @@
   "c4": "0.8",
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"13760268_(CC3)":[
+],"DPN_13760268_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13760268
@@ -5039,8 +4980,7 @@
  {
   "c2": "Other parameters as default."
  }
-],
-"15452074_(CFA721)":[
+],"DPN_15452074_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15452074
@@ -5109,8 +5049,7 @@
   "c4": "0.8",
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"15327237_(CFA721)":[
+],"DPN_15327237_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327237
@@ -5179,8 +5118,7 @@
   "c4": 0.6,
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"15338318_(CFA721)":[
+],"DPN_15338318_CFA721":[
  {
   "c4": "Delphi Standard Parameters for DPN:",
   "c7": 15338318
@@ -5266,8 +5204,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15338318_(CC3)":[
+],"DPN_15338318_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15338318
@@ -5304,8 +5241,7 @@
  {
   "c17": "OFF"
  }
-],
-"13751405_(CFA721)":[
+],"DPN_13751405_CFA721":[
  {
   "c4": "Delphi Standard Parameters for DPN:",
   "c7": 13751405
@@ -5373,8 +5309,7 @@
   "c4": "1.0",
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"13751405_(CC3)":[
+],"DPN_13751405_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13751405
@@ -5411,8 +5346,7 @@
  {
   "c17": "OFF"
  }
-],
-"13819407_(CFA721)":[
+],"DPN_13819407_CFA721":[
  {
   "c4": "Delphi Standard Parameters for DPN:",
   "c7": 13819407
@@ -5498,8 +5432,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13836462_(CFA721)":[
+],"DPN_13836462_CFA721":[
  {
   "c4": "Delphi Standard Parameters for DPN:",
   "c7": 13836462
@@ -5567,8 +5500,7 @@
   "c4": "1.0",
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"13804118_(CFA721)":[
+],"DPN_13804118_CFA721":[
  {
   "c4": "Delphi Standard Parameters for DPN:",
   "c7": 13804118,
@@ -5637,8 +5569,7 @@
   "c4": "1.0",
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"13653385_(CC3)":[
+],"DPN_13653385_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13653385
@@ -5675,8 +5606,7 @@
  {
   "c17": "OFF"
  }
-],
-"13653385_(mci711)":[
+],"DPN_13653385_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13653385
@@ -5764,8 +5694,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13653385_(mci721-722)":[
+],"DPN_13653385_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13653385
@@ -5853,8 +5782,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13783103_(mci721-722)":[
+],"DPN_13783103_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13783103
@@ -5942,8 +5870,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763230_(mci721-722)":[
+],"DPN_10763230_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763230
@@ -6031,8 +5958,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774281_(CC3)":[
+],"DPN_10774281_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774281
@@ -6069,8 +5995,7 @@
  {
   "c17": "OFF"
  }
-],
-"10774281_(mci711)":[
+],"DPN_10774281_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774281
@@ -6154,8 +6079,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774281_(mci721-722)":[
+],"DPN_10774281_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774281
@@ -6238,8 +6162,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10864927_(mci721-722)":[
+],"DPN_10864927_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10864927
@@ -6322,8 +6245,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609027_(CC3)":[
+],"DPN_13609027_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609027
@@ -6357,8 +6279,7 @@
  {
   "c17": "OFF"
  }
-],
-"13609027_(mci711)":[
+],"DPN_13609027_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609027
@@ -6446,8 +6367,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609027_(mci721-722)":[
+],"DPN_13609027_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609027
@@ -6530,8 +6450,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327237_(mci711)":[
+],"DPN_15327237_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327237
@@ -6617,8 +6536,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327237_(CC3)":[
+],"DPN_15327237_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327237
@@ -6657,8 +6575,7 @@
  {
   "c17": "OFF"
  }
-],
-"10725740_(CC3)":[
+],"DPN_10725740_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725740
@@ -6697,8 +6614,7 @@
  {
   "c17": "OFF"
  }
-],
-"10725740_(mci711)":[
+],"DPN_10725740_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725740
@@ -6784,8 +6700,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725740_(mci721-722)":[
+],"DPN_10725740_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725740
@@ -6870,8 +6785,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15409763_(mci721-722)":[
+],"DPN_15409763_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15409763,
@@ -6964,8 +6878,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736866_(mci711)":[
+],"DPN_10736866_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736866
@@ -7051,8 +6964,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736866_(mci721-722)":[
+],"DPN_10736866_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736866
@@ -7169,8 +7081,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736866_(CC3)":[
+],"DPN_10736866_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736866
@@ -7209,8 +7120,7 @@
  {
   "c17": "OFF"
  }
-],
-"10763230_(mci711)":[
+],"DPN_10763230_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763230
@@ -7295,8 +7205,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763230_(CC3)":[
+],"DPN_10763230_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763230
@@ -7334,8 +7243,7 @@
  {
   "c17": "OFF"
  }
-],
-"12191298_(mci721-722)":[
+],"DPN_12191298_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191298
@@ -7423,8 +7331,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609463_(mci711)":[
+],"DPN_13609463_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609463
@@ -7510,8 +7417,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609463_(CC3)":[
+],"DPN_13609463_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609463
@@ -7549,8 +7455,7 @@
  {
   "c17": "OFF"
  }
-],
-"13696520_(mci711)":[
+],"DPN_13696520_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696520
@@ -7636,8 +7541,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696520_(CC3)":[
+],"DPN_13696520_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696520
@@ -7675,8 +7579,7 @@
  {
   "c17": "OFF"
  }
-],
-"13714557_(mci711)":[
+],"DPN_13714557_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13714557
@@ -7762,8 +7665,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10724760_(mci711)":[
+],"DPN_10724760_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10724760
@@ -7849,8 +7751,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725405_(mci711)":[
+],"DPN_10725405_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10715405
@@ -7936,8 +7837,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725405_(mci721-722)":[
+],"DPN_10725405_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725405
@@ -8025,8 +7925,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736871_(mci721-722)":[
+],"DPN_10736871_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736871
@@ -8114,8 +8013,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774686_(mci711)":[
+],"DPN_10774686_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774686
@@ -8203,8 +8101,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774686_(mci721-722)":[
+],"DPN_10774686_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774686
@@ -8292,8 +8189,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12105733_(mci721-722)":[
+],"DPN_12105733_mci721-722":[
  {
   "c4": "Delphi Standard Parameters for DPN:",
   "c7": 12105733
@@ -8377,8 +8273,7 @@
       "BACK": 0,
   "c17": "OFF"
  }
-],
-"13539676_(mci721-722)":[
+],"DPN_13539676_mci721-722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13539676
@@ -8466,8 +8361,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609026_(mci711)":[
+],"DPN_13609026_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609026
@@ -8555,8 +8449,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774686_(CC3)":[
+],"DPN_10774686_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774686
@@ -8594,8 +8487,7 @@
  {
   "c17": "OFF"
  }
-],
-"13609026_(CC3)":[
+],"DPN_13609026_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609026
@@ -8633,8 +8525,7 @@
  {
   "c17": "OFF"
  }
-],
-"13609464_(mci711)":[
+],"DPN_13609464_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609464
@@ -8722,8 +8613,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609464_(CC3)":[
+],"DPN_13609464_CC3":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609464
@@ -8758,8 +8648,7 @@
  {
   "c17": "OFF"
  }
-],
-"13609492_(mci711)":[
+],"DPN_13609492_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609492
@@ -8847,8 +8736,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609493_(mci711)":[
+],"DPN_13609493_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609493
@@ -8936,8 +8824,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13664858_(mci711)":[
+],"DPN_13664858_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13664858
@@ -9025,8 +8912,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10724458-CFA721":[
+],"DPN_10724458-CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10724458
@@ -9112,8 +8998,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736860_CFA721":[
+],"DPN_10736860_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736860
@@ -9201,8 +9086,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740323_CFA721":[
+],"DPN_10740323_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740323
@@ -9290,8 +9174,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740325_CFA721":[
+],"DPN_10740325_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740325
@@ -9375,8 +9258,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740325_CFA711":[
+],"DPN_10740325_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740325
@@ -9460,8 +9342,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774684_CFA721":[
+],"DPN_10774684_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774684
@@ -9545,8 +9426,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774686_CFA721":[
+],"DPN_10774686_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774686
@@ -9630,8 +9510,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776381_CFA711":[
+],"DPN_10776381_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776381
@@ -9715,8 +9594,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10779946_CFA711":[
+],"DPN_10779946_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779946
@@ -9804,8 +9682,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10779946_CFA721":[
+],"DPN_10779946_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779946
@@ -9893,8 +9770,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12105733_CFA711":[
+],"DPN_12105733_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12105733
@@ -9978,8 +9854,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12105733_CFA721":[
+],"DPN_12105733_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12105733
@@ -10067,8 +9942,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12124399_CFA721":[
+],"DPN_12124399_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12124399
@@ -10152,8 +10026,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12124399_CFA711":[
+],"DPN_12124399_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12124399
@@ -10237,8 +10110,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13539676_CFA711":[
+],"DPN_13539676_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13539676
@@ -10322,8 +10194,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13571412_CFA711":[
+],"DPN_13571412_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13571412
@@ -10407,8 +10278,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609029_CFA711":[
+],"DPN_13609029_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609029
@@ -10492,8 +10362,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13664858_CFA721":[
+],"DPN_13664858_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13664858
@@ -10581,8 +10450,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696375_CFA711":[
+],"DPN_13696375_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696375
@@ -10666,8 +10534,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696375_CFA721":[
+],"DPN_13696375_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696375
@@ -10751,8 +10618,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696535_CFA711":[
+],"DPN_13696535_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696535
@@ -10836,8 +10702,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13697264_CFA711":[
+],"DPN_13697264_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13697264
@@ -10921,8 +10786,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696582_CFA721":[
+],"DPN_13696582_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696582
@@ -11006,8 +10870,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696582_CFA711":[
+],"DPN_13696582_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696582
@@ -11091,8 +10954,7 @@
  {
   "c2": "optimal results."
  }
-],
-"Template":[
+],"DPN_Template":[
  {
   "c3": "Delphi Standard Parameters for DPN:"
  },
@@ -11169,8 +11031,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725665_CFA721":[
+],"DPN_10725665_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696582
@@ -11254,8 +11115,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736860_(CFA711)":[
+],"DPN_10736860_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN: 13663330 -mci711 -",
   "c9": "Crimp Press & Monitoring"
@@ -11348,8 +11208,7 @@
   "c2": "Sensitivity S3 0,8",
   "c4": "Factor for weighting the error in zone 3"
  }
-],
-"10736864_(CFA711)":[
+],"DPN_10736864_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736864
@@ -11437,8 +11296,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738585_(CFA711)":[
+],"DPN_10738585_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738585
@@ -11526,8 +11384,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738585_(CFA721)":[
+],"DPN_10738585_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738585
@@ -11615,8 +11472,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740324_(CFA721)":[
+],"DPN_10740324_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740324
@@ -11704,8 +11560,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10863389_(CFA721)":[
+],"DPN_10863389_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740324
@@ -11793,8 +11648,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774682_(CFA721)":[
+],"DPN_10774682_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10863389
@@ -11882,8 +11736,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865171_(CFA721)":[
+],"DPN_10865171_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774682
@@ -11971,8 +11824,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13665836_(CFA721)":[
+],"DPN_13665836_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865171
@@ -12060,8 +11912,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13691995_(CFA721)":[
+],"DPN_13691995_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665836
@@ -12149,8 +12000,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696529_(CFA721)":[
+],"DPN_13696529_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696529
@@ -12238,8 +12088,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696535_(CFA721)":[
+],"DPN_13696535_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696535
@@ -12327,8 +12176,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414369_(CFA711)":[
+],"DPN_15414369_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414369
@@ -12416,8 +12264,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725372_(CFA721)":[
+],"DPN_10725372_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725372
@@ -12505,8 +12352,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725694_(CFA711)":[
+],"DPN_10725694_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725694
@@ -12594,8 +12440,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736864_(CFA721)":[
+],"DPN_10736864_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736864
@@ -12683,8 +12528,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736873_(CFA711)":[
+],"DPN_10736873_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736873
@@ -12772,8 +12616,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736873_(CFA721)":[
+],"DPN_10736873_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736873
@@ -12861,8 +12704,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775902_(CFA721)":[
+],"DPN_10775902_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775902
@@ -12950,8 +12792,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811252_(CFA711)":[
+],"DPN_10811252_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811252
@@ -13039,8 +12880,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820519_(CFA721)":[
+],"DPN_10820519_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820519
@@ -13128,8 +12968,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10863389_(CFA711)":[
+],"DPN_10863389_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10863389
@@ -13217,8 +13056,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10788874_(CFA711a)":[
+],"DPN_10788874_CFA711a":[
  {
   "c2": "CRIMP FORCE ANALYZER           ",
   "10811251": "Komax bt722",
@@ -13300,8 +13138,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865846_(CFA711)":[
+],"DPN_10865846_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865846
@@ -13389,8 +13226,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865846_(CFA721)":[
+],"DPN_10865846_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865846
@@ -13478,8 +13314,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13577654_(CFA721)":[
+],"DPN_13577654_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13577654
@@ -13567,8 +13402,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13665836_(CFA711)":[
+],"DPN_13665836_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665836
@@ -13656,8 +13490,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13691995_(CFA711)":[
+],"DPN_13691995_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13691995
@@ -13745,8 +13578,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696524_(CFA711)":[
+],"DPN_13696524_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696524
@@ -13834,8 +13666,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13696524_(CFA721)":[
+],"DPN_13696524_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13696524
@@ -13923,8 +13754,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13861969_(CFA721)":[
+],"DPN_13861969_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13861969
@@ -14012,8 +13842,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725372_(CFA711)":[
+],"DPN_10725372_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725372
@@ -14101,8 +13930,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736869_(CFA711)":[
+],"DPN_10736869_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736869
@@ -14190,8 +14018,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736869_(CFA721)":[
+],"DPN_10736869_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736869
@@ -14279,8 +14106,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740324_(CFA711)":[
+],"DPN_10740324_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740324
@@ -14368,8 +14194,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774685_(CFA711)":[
+],"DPN_10774685_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774685
@@ -14457,8 +14282,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10774685_(CFA721)":[
+],"DPN_10774685_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10774685
@@ -14546,8 +14370,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775902_(CFA711)":[
+],"DPN_10775902_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775902
@@ -14635,8 +14458,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776382_(CFA711)":[
+],"DPN_10776382_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776382
@@ -14724,8 +14546,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865163_(CFA711)":[
+],"DPN_10865163_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865163
@@ -14813,8 +14634,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865170_(CFA721)":[
+],"DPN_10865170_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865170
@@ -14902,8 +14722,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12158241_(CFA721)":[
+],"DPN_12158241_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12158241
@@ -14991,8 +14810,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13865957_(CFA711)":[
+],"DPN_13865957_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13865957
@@ -15080,8 +14898,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13865957_(CFA721)":[
+],"DPN_13865957_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13865957
@@ -15169,8 +14986,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13865958_(CFA711)":[
+],"DPN_13865958_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13865958
@@ -15258,8 +15074,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13865958_(CFA721)":[
+],"DPN_13865958_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13865958
@@ -15347,8 +15162,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10724579_(CFA711)":[
+],"DPN_10724579_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10724579
@@ -15436,8 +15250,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736880_(CFA711)":[
+],"DPN_10736880_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736880
@@ -15525,8 +15338,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736880_(CFA721)":[
+],"DPN_10736880_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736880
@@ -15614,8 +15426,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10779419_(CFA721)":[
+],"DPN_10779419_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779419
@@ -15703,8 +15514,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10779820_(CFA721)":[
+],"DPN_10779820_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779820
@@ -15792,8 +15602,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10779820_(CFA711)":[
+],"DPN_10779820_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779820
@@ -15881,8 +15690,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13716164_(CFA721)":[
+],"DPN_13716164_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13716164
@@ -15970,8 +15778,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13716164_(CFA711)":[
+],"DPN_13716164_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13716164
@@ -16059,8 +15866,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725459_(CFA711)":[
+],"DPN_10725459_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725459
@@ -16148,8 +15954,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10730997_(CFA721)":[
+],"DPN_10730997_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10730997
@@ -16237,8 +16042,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10730997_(CFA711)":[
+],"DPN_10730997_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10730997
@@ -16324,8 +16128,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736867_(CFA721)":[
+],"DPN_10736867_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736867
@@ -16411,8 +16214,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10736867_(CFA711) ":[
+],"DPN_10736867_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736867
@@ -16498,8 +16300,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15304710_(CFA721) ":[
+],"DPN_15304710_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15304710
@@ -16585,8 +16386,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738197_(CFA711)":[
+],"DPN_10738197_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10736867
@@ -16672,8 +16472,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738197_(CFA721)":[
+],"DPN_10738197_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738197
@@ -16759,8 +16558,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738202_(CFA711)":[
+],"DPN_10738202_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738202
@@ -16846,8 +16644,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776370_(CFA711)":[
+],"DPN_10776370_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776370
@@ -16933,8 +16730,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776370_(CFA722)":[
+],"DPN_10776370_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776370
@@ -17020,8 +16816,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12191811_(CFA721)":[
+],"DPN_12191811_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191811
@@ -17110,8 +16905,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15380918_(CFA721)":[
+],"DPN_15380918_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15380918
@@ -17197,8 +16991,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725051_(CFA711)":[
+],"DPN_10725051_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725051,
@@ -17286,8 +17079,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725692_(CFA711)":[
+],"DPN_10725692_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725692,
@@ -17356,8 +17148,7 @@
   "c4": "Factor for weighting the error in zone 3",
         "c17": "OFF"
  }
-],
-"10725692_(CFA721)":[
+],"DPN_10725692_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725692,
@@ -17426,8 +17217,7 @@
   "c4": "Factor for weighting the error in zone 3",
         "c17": "OFF"
  }
-],
-"10737207_(CFA711)":[
+],"DPN_10737207_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10737207
@@ -17513,8 +17303,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10737242_(CFA711)":[
+],"DPN_10737242_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10737242
@@ -17600,8 +17389,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10737242_(CFA721)":[
+],"DPN_10737242_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10737242
@@ -17687,8 +17475,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738167_(CFA711)":[
+],"DPN_10738167_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738167
@@ -17774,8 +17561,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10788874_(CFA711)":[
+],"DPN_10788874_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10788874
@@ -17861,8 +17647,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10788874_(CFA721)":[
+],"DPN_10788874_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10789065
@@ -17948,8 +17733,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10789065_(CFA721)":[
+],"DPN_10789065_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10789065
@@ -18035,8 +17819,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10789065_(CFA711)":[
+],"DPN_10789065_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10789065
@@ -18122,8 +17905,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820618_(CFA721)":[
+],"DPN_10820618_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820518
@@ -18209,8 +17991,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820518_(CFA711)":[
+],"DPN_10820518_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820518
@@ -18296,8 +18077,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846792_(CFA711)":[
+],"DPN_10846792_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846792
@@ -18383,8 +18163,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865163_(CFA721)":[
+],"DPN_10865163_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865163
@@ -18470,8 +18249,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13577654_(mci711)":[
+],"DPN_13577654_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13577654
@@ -18559,8 +18337,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13579115_(mci711)":[
+],"DPN_13579115_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13579115
@@ -18648,8 +18425,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609248_(mci711)":[
+],"DPN_13609248_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609248
@@ -18737,8 +18513,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609248_(CFA721)":[
+],"DPN_13609248_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13609248,
@@ -18810,8 +18585,7 @@
  {
   "c2": "Note:"
  }
-],
-"13665314_(mci711)":[
+],"DPN_13665314_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665314
@@ -18899,8 +18673,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13665688_(mci711)":[
+],"DPN_13665688_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665688
@@ -18988,8 +18761,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13665688_(CFA721)":[
+],"DPN_13665688_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665688
@@ -19075,8 +18847,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13665837_(CFA721)":[
+],"DPN_13665837_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665837
@@ -19147,8 +18918,7 @@
  {
   "c2": "Note:"
  }
-],
-"13665837_(mci711)":[
+],"DPN_13665837_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665837
@@ -19221,8 +18991,7 @@
  {
   "c2": "Note:"
  }
-],
-"13802510_(mci711)":[
+],"DPN_13802510_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13802510
@@ -19310,8 +19079,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13802512_(mci711)":[
+],"DPN_13802512_mci711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13875725,
@@ -19403,8 +19171,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13875725_(CFA721)":[
+],"DPN_13875725_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13875725,
@@ -19503,8 +19270,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15324434_(CFA721)":[
+],"DPN_15324434_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324434
@@ -19572,8 +19338,7 @@
   "c4": "Factor for weighting the error in zone 3",
         "c17": "OFF"
  }
-],
-"15338318_(MCI711)":[
+],"DPN_15338318_MCI711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15338318
@@ -19662,8 +19427,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15365809_(CFA721)":[
+],"DPN_15365809_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15365809
@@ -19749,8 +19513,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492980_(MCI711)":[
+],"DPN_15492980_MCI711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492980
@@ -19839,8 +19602,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13752408_(CFA721)":[
+],"DPN_13752408_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13752408
@@ -19926,8 +19688,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10737207_(CFA722)":[
+],"DPN_10737207_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10737207
@@ -20013,8 +19774,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740376_(CFA711) ":[
+],"DPN_10740376_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740376
@@ -20100,8 +19860,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10769366_(CFA711)":[
+],"DPN_10769366_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10769366
@@ -20187,8 +19946,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10769366_(CFA722)":[
+],"DPN_10769366_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10769366
@@ -20274,8 +20032,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775897_(CFA711)":[
+],"DPN_10775897_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775897
@@ -20361,8 +20118,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15405556_(CFA711)":[
+],"DPN_15405556_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15405556
@@ -20448,8 +20204,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15405556_(CFA721)":[
+],"DPN_15405556_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15405556
@@ -20535,8 +20290,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15484553_(CFA721)":[
+],"DPN_15484553_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15484553,
@@ -20624,8 +20378,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15484553_(CFA711)":[
+],"DPN_15484553_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15484553,
@@ -20713,8 +20466,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414435_(CFA721)":[
+],"DPN_15414435_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414435
@@ -20800,8 +20552,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414435_(CFA711)":[
+],"DPN_15414435_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414435
@@ -20886,8 +20637,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15339587_(CFA722)":[
+],"DPN_15339587_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15339587
@@ -20973,8 +20723,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15339587_(CFA711)":[
+],"DPN_15339587_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15339587
@@ -21060,8 +20809,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15398716_(CFA711)":[
+],"DPN_15398716_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15398716
@@ -21147,8 +20895,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15398716_(CFA722)":[
+],"DPN_15398716_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15398716
@@ -21234,8 +20981,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327260_(CFA721) ":[
+],"DPN_15327260_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327260,
@@ -21323,8 +21069,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327080_(CFA711)":[
+],"DPN_15327080_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327080
@@ -21410,8 +21155,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327080_(CFA722)":[
+],"DPN_15327080_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327080
@@ -21497,8 +21241,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15304710_(CFA711) ":[
+],"DPN_15304710_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15304710,
@@ -21586,8 +21329,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15304710_(CFA721)":[
+],"DPN_15304710_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15304710,
@@ -21675,8 +21417,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865169_(CFA722)":[
+],"DPN_10865169_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865169,
@@ -21764,8 +21505,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865169_(CFA711)":[
+],"DPN_10865169_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865169
@@ -21851,8 +21591,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846454_(CFA711)":[
+],"DPN_10846454_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846454
@@ -21938,8 +21677,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846454_(CFA721)":[
+],"DPN_10846454_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846454
@@ -22025,8 +21763,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846447_(CFA721)":[
+],"DPN_10846447_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846447
@@ -22112,8 +21849,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846447_(CFA711)":[
+],"DPN_10846447_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846447
@@ -22199,8 +21935,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811968_(CFA711)":[
+],"DPN_10811968_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811968
@@ -22286,8 +22021,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811968_(CFA722)":[
+],"DPN_10811968_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811968
@@ -22373,8 +22107,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811251_(CFA711)":[
+],"DPN_10811251_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811251
@@ -22460,8 +22193,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811251_(CFA722)":[
+],"DPN_10811251_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811251
@@ -22547,8 +22279,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10788716_(CFA722)":[
+],"DPN_10788716_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10788716,
@@ -22636,8 +22367,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10788716_(CFA711)":[
+],"DPN_10788716_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10788716,
@@ -22725,8 +22455,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10748131_(CFA711)":[
+],"DPN_10748131_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748131
@@ -22812,8 +22541,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10748131_(CFA722)":[
+],"DPN_10748131_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748131
@@ -22899,8 +22627,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776485_(CFA722)":[
+],"DPN_10776485_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776485
@@ -22986,8 +22713,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776485_(CFA711)":[
+],"DPN_10776485_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776485
@@ -23073,8 +22799,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10781022_(CFA711)":[
+],"DPN_10781022_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10781022
@@ -23160,8 +22885,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10781022_(CFA722)":[
+],"DPN_10781022_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10781022
@@ -23247,8 +22971,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15365809_(CFA711)":[
+],"DPN_15365809_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15365809
@@ -23334,8 +23057,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10779316_(CFA721)":[
+],"DPN_10779316_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779316
@@ -23421,8 +23143,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846793_(CFA721)":[
+],"DPN_10846793_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846793
@@ -23508,8 +23229,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13752408_(CFA711)":[
+],"DPN_13752408_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13752408
@@ -23595,8 +23315,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15324434_(CFA711)":[
+],"DPN_15324434_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324434,
@@ -23683,8 +23402,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15337741_(CFA711)":[
+],"DPN_15337741_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15337741
@@ -23770,8 +23488,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15344847_(CFA711)":[
+],"DPN_15344847_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15344847
@@ -23857,8 +23574,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15314438_(CFA711)":[
+],"DPN_15314438_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414438
@@ -23944,8 +23660,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13896833_(CFA711) ":[
+],"DPN_13896833_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896833
@@ -24031,8 +23746,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13896833_(CFA721)":[
+],"DPN_13896833_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896833
@@ -24118,8 +23832,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13896834_(CFA711)":[
+],"DPN_13896834_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896834
@@ -24205,8 +23918,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13896834_(CFA721)":[
+],"DPN_13896834_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896834
@@ -24292,8 +24004,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15405556qqq_(CFA721)":[
+],"DPN_15405556qqq_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896834
@@ -24379,8 +24090,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10780987_(CFA722)":[
+],"DPN_10780987_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10780987,
@@ -24468,8 +24178,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10780987_(CFA711)":[
+],"DPN_10780987_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10780987,
@@ -24557,8 +24266,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725046_(CFA721)":[
+],"DPN_10725046_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725046
@@ -24644,8 +24352,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725051_(CFA722)":[
+],"DPN_10725051_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725051,
@@ -24733,8 +24440,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10757192_(CFA721)":[
+],"DPN_10757192_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10757192
@@ -24820,8 +24526,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763230_(CFA711) ":[
+],"DPN_10763230_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763230,
@@ -24909,8 +24614,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763230_(CFA721)":[
+],"DPN_10763230_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763230,
@@ -24998,8 +24702,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763380_(CFA721)":[
+],"DPN_10763380_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763380,
@@ -25087,8 +24790,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763380_(CFA722)":[
+],"DPN_10763380_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763380,
@@ -25176,8 +24878,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820713_(CFA721)":[
+],"DPN_10820713_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820713,
@@ -25265,8 +24966,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846818_(CFA711)":[
+],"DPN_10846818_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846818
@@ -25352,8 +25052,7 @@
  {
   "c2": "optimal results."
  }
-],
-"35098778_(CFA722)":[
+],"DPN_35098778_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35098778
@@ -25439,8 +25138,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865173_(CFA711)":[
+],"DPN_10865173_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865164,
@@ -25527,8 +25225,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865173_(CFA721)":[
+],"DPN_10865173_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12105044,
@@ -25616,8 +25313,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12105044_(CFA721)":[
+],"DPN_12105044_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12105044,
@@ -25705,8 +25401,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12147394_(CFA721)":[
+],"DPN_12147394_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12147394
@@ -25792,8 +25487,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12186637_(CFA722)":[
+],"DPN_12186637_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12186637,
@@ -25881,8 +25575,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13761154_(CFA711)":[
+],"DPN_13761154_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761154,
@@ -25970,8 +25663,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13761154_(CFA722)":[
+],"DPN_13761154_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761154,
@@ -26059,8 +25751,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13862250_(CFA711)":[
+],"DPN_13862250_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13862250,
@@ -26148,8 +25839,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13862250_(CFA721)":[
+],"DPN_13862250_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13862250,
@@ -26237,8 +25927,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15316618_(CFA711)":[
+],"DPN_15316618_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316618
@@ -26324,8 +26013,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15316618_(CFA721)":[
+],"DPN_15316618_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316618
@@ -26411,8 +26099,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15386389_(CFA711)":[
+],"DPN_15386389_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15386389
@@ -26498,8 +26185,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15386389_(CFA721)":[
+],"DPN_15386389_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15386389
@@ -26585,8 +26271,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492981_(CFA711)":[
+],"DPN_15492981_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492981,
@@ -26674,8 +26359,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492981_(CFA721)":[
+],"DPN_15492981_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492981,
@@ -26763,8 +26447,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725739_(CFA722)":[
+],"DPN_10725739_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725739,
@@ -26852,8 +26535,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725739_(CFA711)":[
+],"DPN_10725739_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725739,
@@ -26941,8 +26623,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15340695_(CFA711)":[
+],"DPN_15340695_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15340695,
@@ -27030,8 +26711,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15340695_(CFA722)":[
+],"DPN_15340695_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15340695,
@@ -27119,8 +26799,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13824960_(CFA711)":[
+],"DPN_13824960_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13824960,
@@ -27207,8 +26886,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13824960_(CFA722)":[
+],"DPN_13824960_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13824960,
@@ -27296,8 +26974,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879001_(CFA711)":[
+],"DPN_13879001_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879001,
@@ -27385,8 +27062,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879001_(CFA722)":[
+],"DPN_13879001_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879001,
@@ -27474,8 +27150,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15398701_(CFA722)":[
+],"DPN_15398701_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879001,
@@ -27563,8 +27238,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15398701_(CFA711) ":[
+],"DPN_15398701_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15398701,
@@ -27652,8 +27326,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414370_(CFA711)":[
+],"DPN_15414370_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414370,
@@ -27741,8 +27414,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414370_(CFA721)":[
+],"DPN_15414370_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414370,
@@ -27830,8 +27502,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492978_(CFA721)":[
+],"DPN_15492978_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492978,
@@ -27919,8 +27590,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492978_(CFA711)":[
+],"DPN_15492978_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492978,
@@ -28008,8 +27678,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10810446_(CFA722)":[
+],"DPN_10810446_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10810446,
@@ -28097,8 +27766,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10889802_(CFA722) ":[
+],"DPN_10889802_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10889802,
@@ -28186,8 +27854,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13825183_(CFA722)":[
+],"DPN_13825183_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13825183,
@@ -28275,8 +27942,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13825183_(CFA711)":[
+],"DPN_13825183_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13825183,
@@ -28364,8 +28030,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13899390_(CFA711)":[
+],"DPN_13899390_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13899390,
@@ -28453,8 +28118,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13899390_(CFA721)":[
+],"DPN_13899390_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13899390,
@@ -28542,8 +28206,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10740376_(CFA722)":[
+],"DPN_10740376_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10740376,
@@ -28631,8 +28294,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811983_(CFA711)":[
+],"DPN_10811983_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811983,
@@ -28720,8 +28382,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865185_(CFA711)":[
+],"DPN_10865185_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865185,
@@ -28809,8 +28470,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865185_(CFA722)":[
+],"DPN_10865185_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865185,
@@ -28898,8 +28558,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12198447_(CFA711)":[
+],"DPN_12198447_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12198447,
@@ -28987,8 +28646,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13800306_(CFA711)":[
+],"DPN_13800306_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13800306,
@@ -29076,8 +28734,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327212_(CFA711)":[
+],"DPN_15327212_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327212,
@@ -29165,8 +28822,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327260_(CFA711)":[
+],"DPN_15327260_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327260
@@ -29252,8 +28908,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327261_(CFA711)":[
+],"DPN_15327261_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327261,
@@ -29341,8 +28996,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494340_(CFA711)":[
+],"DPN_15494340_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494340,
@@ -29430,8 +29084,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494340_(CFA722)":[
+],"DPN_15494340_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494340,
@@ -29519,8 +29172,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15446415_(CFA711)":[
+],"DPN_15446415_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15446415,
@@ -29608,8 +29260,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13824962_(CFA711)":[
+],"DPN_13824962_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13824962,
@@ -29697,8 +29348,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13824962_(CFA721)":[
+],"DPN_13824962_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13824962,
@@ -29786,8 +29436,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492986_(CFA711)":[
+],"DPN_15492986_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492986,
@@ -29875,8 +29524,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10748126_(CFA711)":[
+],"DPN_10748126_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748126,
@@ -29964,8 +29612,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10748126_(CFA722)":[
+],"DPN_10748126_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748126,
@@ -30053,8 +29700,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13824262_(CFA721)":[
+],"DPN_13824262_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13824962,
@@ -30142,8 +29788,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13824262_(CFA711)":[
+],"DPN_13824262_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13824962,
@@ -30231,8 +29876,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13800306_(CFA722)":[
+],"DPN_13800306_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13800306,
@@ -30320,8 +29964,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13799564_(CFA722)":[
+],"DPN_13799564_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13799564,
@@ -30409,8 +30052,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492979_(CFA711)":[
+],"DPN_15492979_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492979,
@@ -30498,8 +30140,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15392978_(CFA722)":[
+],"DPN_15392978_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15392978,
@@ -30587,8 +30228,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775838_(CFA721)":[
+],"DPN_10775838_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775838,
@@ -30676,8 +30316,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775838_(CFA711)":[
+],"DPN_10775838_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775838,
@@ -30765,8 +30404,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846448_(CFA711)":[
+],"DPN_10846448_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846448,
@@ -30854,8 +30492,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10846448_(CFA721)":[
+],"DPN_10846448_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846448,
@@ -30943,8 +30580,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13580661_(CFA711)":[
+],"DPN_13580661_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580661,
@@ -31032,8 +30668,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13580661_(CFA721)":[
+],"DPN_13580661_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580661,
@@ -31121,8 +30756,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13799564_(CFA711)":[
+],"DPN_13799564_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13799564,
@@ -31210,8 +30844,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10811983_(CFA721)":[
+],"DPN_10811983_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10811983,
@@ -31299,8 +30932,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13761651_(CFA721)":[
+],"DPN_13761651_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761651,
@@ -31388,8 +31020,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13761651_(CFA711)":[
+],"DPN_13761651_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761651,
@@ -31477,8 +31108,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725758_(CFA711)":[
+],"DPN_10725758_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725758,
@@ -31566,8 +31196,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12198436_(CFA711)":[
+],"DPN_12198436_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12198436,
@@ -31655,8 +31284,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12198436_(CFA722)":[
+],"DPN_12198436_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12198436,
@@ -31744,8 +31372,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12059894_0,13_(CFA721)":[
+],"DPN_12059894_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12059894,
@@ -31832,8 +31459,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13736002_0,13_(CFA721)":[
+],"DPN_13736002_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13736002,
@@ -31920,8 +31546,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13661318_0,13_(CFA721)":[
+],"DPN_13661318_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761318,
@@ -32008,8 +31633,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15304701_0,13_(CFA721)":[
+],"DPN_15304701_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15304701=12191811 ",
@@ -32096,8 +31720,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327842_0,13_(CFA721)":[
+],"DPN_15327842_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327842,
@@ -32184,8 +31807,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15343813_0,13_(CFA721)":[
+],"DPN_15343813_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15343813=15343821",
@@ -32272,8 +31894,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15343821_0,13_(CFA721)":[
+],"DPN_15343821_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15343821,
@@ -32360,8 +31981,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15363648_0,13_(CFA721)":[
+],"DPN_15363648_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363648,
@@ -32448,8 +32068,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15380918_0,13_(CFA721) ":[
+],"DPN_15380918_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15380918,
@@ -32536,8 +32155,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10756743_(CFA721)":[
+],"DPN_10756743_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10756743,
@@ -32625,8 +32243,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10756743_(CFA711)":[
+],"DPN_10756743_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10756743,
@@ -32714,8 +32331,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13862406_(CFA711)":[
+],"DPN_13862406_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13862406,
@@ -32803,8 +32419,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13862406_(CFA721)":[
+],"DPN_13862406_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13862406,
@@ -32892,8 +32507,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12198447_(CFA721)":[
+],"DPN_12198447_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12198447,
@@ -32981,8 +32595,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13642523_(CFA721)":[
+],"DPN_13642523_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13642523,
@@ -33070,8 +32683,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13642523_(CFA711)":[
+],"DPN_13642523_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13642523,
@@ -33159,8 +32771,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327212_(CFA721)":[
+],"DPN_15327212_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327212,
@@ -33248,8 +32859,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725665_(CFA711)":[
+],"DPN_10725665_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725665,
@@ -33337,8 +32947,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13800307_(CFA711)":[
+],"DPN_13800307_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13800307,
@@ -33426,8 +33035,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13825182_(CFA711)":[
+],"DPN_13825182_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13825182,
@@ -33515,8 +33123,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13825182_(CFA721)":[
+],"DPN_13825182_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13825182,
@@ -33604,8 +33211,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492988_(CFA722)":[
+],"DPN_15492988_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492988,
@@ -33693,8 +33299,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492988_(CFA711)":[
+],"DPN_15492988_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492988,
@@ -33782,8 +33387,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494338_(CFA711)":[
+],"DPN_15494338_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494338,
@@ -33871,8 +33475,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494338_(CFA721)":[
+],"DPN_15494338_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494338,
@@ -33960,8 +33563,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494339_(CFA721)":[
+],"DPN_15494339_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494339,
@@ -34049,8 +33651,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494339_(CFA711)":[
+],"DPN_15494339_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494339,
@@ -34138,8 +33739,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414439_(CFA711)":[
+],"DPN_15414439_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414439,
@@ -34227,8 +33827,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15414439_(CFA722) ":[
+],"DPN_15414439_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15414439,
@@ -34316,8 +33915,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738196_(CFA711)":[
+],"DPN_10738196_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738196,
@@ -34405,8 +34003,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738196_(CFA721)":[
+],"DPN_10738196_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738196
@@ -34492,8 +34089,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13858759_(CFA711)":[
+],"DPN_13858759_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13858759,
@@ -34581,8 +34177,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13858759_(CFA721)":[
+],"DPN_13858759_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13858759,
@@ -34670,8 +34265,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725758_(CFA721)":[
+],"DPN_10725758_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725758,
@@ -34759,8 +34353,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13532149_(CFA711)":[
+],"DPN_13532149_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13532149,
@@ -34848,8 +34441,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13532149_(CFA721)":[
+],"DPN_13532149_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13532149,
@@ -34937,8 +34529,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763712_(CFA721)":[
+],"DPN_10763712_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763712
@@ -35024,8 +34615,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13645472_(CFA711)":[
+],"DPN_13645472_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13645472,
@@ -35113,8 +34703,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13645472_(CFA721)":[
+],"DPN_13645472_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13645472,
@@ -35202,8 +34791,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879010_(CFA721)":[
+],"DPN_13879010_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879010,
@@ -35291,8 +34879,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879010_(CFA711)":[
+],"DPN_13879010_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879010,
@@ -35380,8 +34967,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494336_(CFA711)":[
+],"DPN_15494336_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494336,
@@ -35469,8 +35055,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15494336_(CFA722)":[
+],"DPN_15494336_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15494336,
@@ -35558,8 +35143,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15339588_(CFA721)":[
+],"DPN_15339588_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15339588,
@@ -35647,8 +35231,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15339588_(CFA711) ":[
+],"DPN_15339588_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15339588,
@@ -35736,8 +35319,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13761648_(CFA711)":[
+],"DPN_13761648_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761648,
@@ -35825,8 +35407,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13761648_(CFA721)":[
+],"DPN_13761648_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13761648,
@@ -35914,8 +35495,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12158468_(CFA711)":[
+],"DPN_12158468_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12158468,
@@ -36003,8 +35583,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13627254_(CFA711)":[
+],"DPN_13627254_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13627254,
@@ -36092,8 +35671,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13627254_(CFA721) ":[
+],"DPN_13627254_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13627254,
@@ -36181,8 +35759,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725694_(CFA721)(doublex)":[
+],"DPN_10725694_CFA721)(doublex":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725694,
@@ -36269,8 +35846,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492987_(CFA722)":[
+],"DPN_15492987_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492987,
@@ -36358,8 +35934,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15492987_(CFA711)":[
+],"DPN_15492987_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15492987,
@@ -36447,8 +36022,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879009_(CFA711)":[
+],"DPN_13879009_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879009,
@@ -36536,8 +36110,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879009_(CFA721)":[
+],"DPN_13879009_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879009,
@@ -36625,8 +36198,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10757192_(CFA711)":[
+],"DPN_10757192_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10757192,
@@ -36714,8 +36286,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820009_(CFA711) ":[
+],"DPN_10820009_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820009,
@@ -36803,8 +36374,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820009_(CFA721)":[
+],"DPN_10820009_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820009,
@@ -36892,8 +36462,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10748132_(CFA721)":[
+],"DPN_10748132_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748132,
@@ -36981,8 +36550,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10748132_(CFA711)":[
+],"DPN_10748132_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748132,
@@ -37070,8 +36638,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10777908_(CFA721)":[
+],"DPN_10777908_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10777908,
@@ -37159,8 +36726,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10780382_(CFA721)":[
+],"DPN_10780382_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10780382
@@ -37246,8 +36812,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327734_(CFA721)":[
+],"DPN_15327734_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327734,
@@ -37335,8 +36900,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327734_(CFA711)":[
+],"DPN_15327734_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327734,
@@ -37424,8 +36988,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13883891_(CFA721)":[
+],"DPN_13883891_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13883891,
@@ -37513,8 +37076,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13580594_(CFA721)":[
+],"DPN_13580594_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580594,
@@ -37602,8 +37164,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13720175_(CFA721)":[
+],"DPN_13720175_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13720175,
@@ -37691,8 +37252,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13720174_(CFA721)":[
+],"DPN_13720174_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13720174,
@@ -37780,8 +37340,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13720174_(CFA711)":[
+],"DPN_13720174_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13720174,
@@ -37869,8 +37428,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327620_Dublex_(CFA721)":[
+],"DPN_15327620_Dublex_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15227260,
@@ -37958,8 +37516,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15316618_Dublex_(CFA721)":[
+],"DPN_15316618_Dublex_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316618,
@@ -38047,8 +37604,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13720181_(CFA721)":[
+],"DPN_13720181_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13720181,
@@ -38136,8 +37692,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13720178_(CFA721)":[
+],"DPN_13720178_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13720178,
@@ -38225,8 +37780,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725047_(CFA721)":[
+],"DPN_10725047_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725047,
@@ -38314,8 +37868,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725047_(CFA711)":[
+],"DPN_10725047_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725047,
@@ -38403,8 +37956,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15339549_(CFA721)":[
+],"DPN_15339549_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15339549,
@@ -38492,8 +38044,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15339549_(CFA711)":[
+],"DPN_15339549_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15339549,
@@ -38581,8 +38132,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725724_(Doublex)_(CFA722)":[
+],"DPN_10725724_Doublex)_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725724,
@@ -38670,8 +38220,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10889173_(CFA721)":[
+],"DPN_10889173_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10889173,
@@ -38759,8 +38308,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15324954_(CFA722)":[
+],"DPN_15324954_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324954,
@@ -38848,8 +38396,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13945646_(CFA721)":[
+],"DPN_13945646_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725738,
@@ -38922,8 +38469,7 @@
  {
   "c2": "Note:"
  }
-],
-"10865853_(CFA721)":[
+],"DPN_10865853_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865853,
@@ -39011,8 +38557,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725738_Doublex_(CFA721)":[
+],"DPN_10725738_Doublex_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725738,
@@ -39085,8 +38630,7 @@
  {
   "c2": "Note:"
  }
-],
-"10725738_Duplo_(CFA722)":[
+],"DPN_10725738_Duplo_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725738,
@@ -39174,8 +38718,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13945644_(CFA721)":[
+],"DPN_13945644_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13945644,
@@ -39263,8 +38806,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13947540_(CFA721)":[
+],"DPN_13947540_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13947540,
@@ -39352,8 +38894,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12198102_(CFA721) ":[
+],"DPN_12198102_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12198102,
@@ -39441,8 +38982,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13789166_(CFA721)":[
+],"DPN_13789166_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13789166,
@@ -39530,8 +39070,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13651155_(CFA721)":[
+],"DPN_13651155_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13651155,
@@ -39619,8 +39158,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13651155_(CFA711)":[
+],"DPN_13651155_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13651155,
@@ -39708,8 +39246,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15510048_(CFA711)":[
+],"DPN_15510048_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15510048,
@@ -39797,8 +39334,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13836041_(CFA721)":[
+],"DPN_13836041_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13836041,
@@ -39886,8 +39422,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15510055_(CFA711)":[
+],"DPN_15510055_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15510055,
@@ -39975,8 +39510,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15510055_(CFA721)":[
+],"DPN_15510055_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15510055,
@@ -40064,8 +39598,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10864931_(CFA721)":[
+],"DPN_10864931_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10864931,
@@ -40153,8 +39686,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10864926_(CFA721)":[
+],"DPN_10864926_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10864926,
@@ -40242,8 +39774,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13789167_(CFA711)":[
+],"DPN_13789167_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13789167,
@@ -40331,8 +39862,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13789167_(CFA721)":[
+],"DPN_13789167_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13789167,
@@ -40420,8 +39950,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327889_(CFA721)":[
+],"DPN_15327889_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327889,
@@ -40509,8 +40038,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13759492_(CFA721)":[
+],"DPN_13759492_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13759492,
@@ -40601,8 +40129,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15422394_(CFA711)":[
+],"DPN_15422394_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15422394,
@@ -40690,8 +40217,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15422394_(CFA721)":[
+],"DPN_15422394_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15422394,
@@ -40779,8 +40305,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738201_(CFA721)":[
+],"DPN_10738201_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738201,
@@ -40868,8 +40393,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10738582_(CFA721)":[
+],"DPN_10738582_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10738582,
@@ -40957,8 +40481,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10777904_(CFA721)":[
+],"DPN_10777904_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10777904,
@@ -41046,8 +40569,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10781041_(CFA721)":[
+],"DPN_10781041_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10781041,
@@ -41135,8 +40657,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12197144_(CFA711)":[
+],"DPN_12197144_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12197144,
@@ -41224,8 +40745,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13665467_(CFA711)":[
+],"DPN_13665467_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665467,
@@ -41313,8 +40833,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13843028_(CFA711)":[
+],"DPN_13843028_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13843028,
@@ -41402,8 +40921,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13843028_(CFA721)":[
+],"DPN_13843028_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13843028,
@@ -41491,8 +41009,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10863772_(CFA711)":[
+],"DPN_10863772_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10863772,
@@ -41580,8 +41097,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13806357_(CFA721)":[
+],"DPN_13806357_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13806357,
@@ -41669,8 +41185,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15500328-(PE227633)_(CFA722)":[
+],"DPN_15500328-(PE227633)_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15500328-(PE227633)",
@@ -41757,8 +41272,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15500328-(PE227633)_(CFA722+)":[
+],"DPN_15500328-(PE227633)_CFA722+":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15500328-(PE227633)",
@@ -41833,8 +41347,7 @@
  {
   "c2": "Individual parameters can be set for specific terminal \/ wire combinations to achieve optimal results."
  }
-],
-"15500329-(PE227634)_(CFA722)":[
+],"DPN_15500329-(PE227634)_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15500329-(PE227634)",
@@ -41921,8 +41434,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15500329-(PE227634)_(CFA722+)":[
+],"DPN_15500329-(PE227634)_CFA722+":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15500329-(PE227634)",
@@ -41997,8 +41509,7 @@
  {
   "c2": "Individual parameters can be set for specific terminal \/ wire combinations to achieve optimal results."
  }
-],
-"13984771-(PE230574)_(CFA722)":[
+],"DPN_13984771-(PE230574)_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13984771-(PE230574)_",
@@ -42085,8 +41596,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13984771-(PE230574)_(CFA722+)":[
+],"DPN_13984771-(PE230574)_CFA722+":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13984771-(PE230574)",
@@ -42161,8 +41671,7 @@
  {
   "c2": "Individual parameters can be set for specific terminal \/ wire combinations to achieve optimal results."
  }
-],
-"13984772-(PE230575)_(CFA722)":[
+],"DPN_13984772-(PE230575)_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13984772-(PE230575)",
@@ -42249,8 +41758,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13984772-(PE230575)_(CFA722+)":[
+],"DPN_13984772-(PE230575)_CFA722+":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13984772-(PE230575)",
@@ -42325,8 +41833,7 @@
  {
   "c2": "Individual parameters can be set for specific terminal \/ wire combinations to achieve optimal results."
  }
-],
-"15501146-(PE232028)_(CFA722)":[
+],"DPN_15501146-(PE232028)_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15501146-(PE232028)",
@@ -42413,8 +41920,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15501146-(PE232028)_(CFA722+)":[
+],"DPN_15501146-(PE232028)_CFA722+":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "15501146-(PE232028)",
@@ -42489,8 +41995,7 @@
  {
   "c2": "Individual parameters can be set for specific terminal \/ wire combinations to achieve optimal results."
  }
-],
-"13595299_(CFA711)":[
+],"DPN_13595299_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13595299,
@@ -42578,8 +42083,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12089188_(CFA711)":[
+],"DPN_12089188_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12089188,
@@ -42667,8 +42171,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15421766_(CFA711)":[
+],"DPN_15421766_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15421766,
@@ -42756,8 +42259,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13971700_CFA721":[
+],"DPN_13971700_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13971700,
@@ -42844,8 +42346,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15405758_CFA721":[
+],"DPN_15405758_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15405758,
@@ -42932,8 +42433,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15504421_(CFA711)":[
+],"DPN_15504421_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15504421,
@@ -43021,8 +42521,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13574785_(CFA711)":[
+],"DPN_13574785_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13574785,
@@ -43110,8 +42609,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13608780_(CFA711)":[
+],"DPN_13608780_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13608780,
@@ -43199,8 +42697,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13608780_CFA721":[
+],"DPN_13608780_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13608780,
@@ -43287,8 +42784,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13974305_(CFA711)":[
+],"DPN_13974305_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13974305,
@@ -43376,8 +42872,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13974304_(CFA711)":[
+],"DPN_13974304_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13974304,
@@ -43465,8 +42960,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10769444_(CFA711)":[
+],"DPN_10769444_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10769444,
@@ -43554,8 +43048,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10787524_(CFA711)":[
+],"DPN_10787524_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10787524,
@@ -43643,8 +43136,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776320_(CFA711)":[
+],"DPN_10776320_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776320,
@@ -43732,8 +43224,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725653_(CFA711)":[
+],"DPN_10725653_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725653,
@@ -43821,8 +43312,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13979937_(CFA711)":[
+],"DPN_13979937_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13979937,
@@ -43910,8 +43400,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10864113_(CFA711)":[
+],"DPN_10864113_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10864113,
@@ -43999,8 +43488,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15327843_(CFA721)":[
+],"DPN_15327843_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327843,
@@ -44088,8 +43576,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10847241_(CFA721)":[
+],"DPN_10847241_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847241,
@@ -44177,8 +43664,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775838_CFA711_0.5":[
+],"DPN_10775838_CFA711_0.5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775838,
@@ -44266,8 +43752,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15418893_CFA711":[
+],"DPN_15418893_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15418893,
@@ -44355,8 +43840,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13862548_CFA711":[
+],"DPN_13862548_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13862548,
@@ -44444,8 +43928,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15457848_CFA711":[
+],"DPN_15457848_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15457848,
@@ -44533,8 +44016,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725730_CFA711":[
+],"DPN_10725730_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725730,
@@ -44622,8 +44104,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15405083_CFA711":[
+],"DPN_15405083_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15405083,
@@ -44711,8 +44192,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10775837_CFA711":[
+],"DPN_10775837_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775837,
@@ -44800,8 +44280,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33150704_CFA711":[
+],"DPN_33150704_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33150704,
@@ -44889,8 +44368,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13513925_CFA711":[
+],"DPN_13513925_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13513925,
@@ -44978,8 +44456,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13678017_CFA711":[
+],"DPN_13678017_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13678017,
@@ -45067,8 +44544,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15425679_CFA711":[
+],"DPN_15425679_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15425679,
@@ -45156,8 +44632,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13862548_CFA721":[
+],"DPN_13862548_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13862548,
@@ -45245,8 +44720,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10724597_CFA711":[
+],"DPN_10724597_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10724597,
@@ -45334,8 +44808,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10810788_CFA711":[
+],"DPN_10810788_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10810788,
@@ -45423,8 +44896,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763629_CFA711":[
+],"DPN_10763629_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763629,
@@ -45512,8 +44984,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13581251_CFA721":[
+],"DPN_13581251_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13581251,
@@ -45601,8 +45072,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13852576_CFA711":[
+],"DPN_13852576_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13852576,
@@ -45690,8 +45160,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725646_CFA711":[
+],"DPN_10725646_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725646,
@@ -45779,8 +45248,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725646_CFA721":[
+],"DPN_10725646_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725646,
@@ -45868,8 +45336,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33120869_CFA711":[
+],"DPN_33120869_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33120869,
@@ -45957,8 +45424,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15521515_CFA721":[
+],"DPN_15521515_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15521515,
@@ -46050,8 +45516,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15343777_CFA711":[
+],"DPN_15343777_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15343777,
@@ -46139,8 +45604,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13979937_CFA721":[
+],"DPN_13979937_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13979937,
@@ -46228,8 +45692,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33504090_CFA721":[
+],"DPN_33504090_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33504090,
@@ -46317,8 +45780,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33130935_CFA721":[
+],"DPN_33130935_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33130935,
@@ -46406,8 +45868,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33113728_CFA711":[
+],"DPN_33113728_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33113728,
@@ -46495,8 +45956,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10787524_CFA721":[
+],"DPN_10787524_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10787524,
@@ -46584,8 +46044,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15457848_CFA721":[
+],"DPN_15457848_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c7": 15457848,
@@ -46678,8 +46137,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10847240_CFA711":[
+],"DPN_10847240_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847240,
@@ -46767,8 +46225,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13789166_CFA711":[
+],"DPN_13789166_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13789166,
@@ -46856,8 +46313,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725653_CFA721":[
+],"DPN_10725653_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725653,
@@ -46945,8 +46401,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10847240_CFA721":[
+],"DPN_10847240_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847240,
@@ -47034,8 +46489,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763376_CFA711":[
+],"DPN_10763376_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763376,
@@ -47123,8 +46577,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15316325_CFA721":[
+],"DPN_15316325_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316325,
@@ -47212,8 +46665,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13734760_CFA711":[
+],"DPN_13734760_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13734760,
@@ -47301,8 +46753,7 @@
  {
   "c2": "optimal results."
  }
-],
-"15363959_CFA721":[
+],"DPN_15363959_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363959,
@@ -47390,8 +46841,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13798638_CFA711":[
+],"DPN_13798638_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13798638,
@@ -47479,8 +46929,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33122606_CFA711":[
+],"DPN_33122606_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33122606,
@@ -47568,8 +47017,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10776376_CFA721":[
+],"DPN_10776376_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776376,
@@ -47657,8 +47105,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10847440_CFA711":[
+],"DPN_10847440_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847440,
@@ -47749,8 +47196,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10820258_(CFA722)":[
+],"DPN_10820258_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820258,
@@ -47838,8 +47284,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763380_(CFA711)":[
+],"DPN_10763380_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763380,
@@ -47927,8 +47372,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13609040_462_(CFA721)":[
+],"DPN_13609040_462_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13609040 & 13609462",
@@ -48001,8 +47445,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10864113_(CFA721)":[
+],"DPN_10864113_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10864113,
@@ -48075,8 +47518,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13789166_(CFA721_Double)":[
+],"DPN_13789166_CFA721_Double":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13789166,
@@ -48149,8 +47591,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327260_0,13_(CFA721)":[
+],"DPN_15327260_0,13_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327260,
@@ -48219,8 +47660,7 @@
   "c4": "Factor for weighting the error in zone 3",
         "c17": "OFF"
  }
-],
-"12162148 CFA711_A-0.5":[
+],"DPN_12162148 CFA711_A-0.5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12162148,
@@ -48308,8 +47748,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12162148 CFA721_A-0.5 (2)":[
+],"DPN_12162148 CFA721_A-0.5 (2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12162148,
@@ -48379,8 +47818,7 @@
   "c4": "Factor for weighting the error in zone 3",
         "c17": "OFF"
  }
-],
-"15521577_(CFA721)":[
+],"DPN_15521577_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15521577,
@@ -48453,8 +47891,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327080_CFA711":[
+],"DPN_15327080_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327080,
@@ -48524,8 +47961,7 @@
   "c4": "Factor for weighting the error in zone 3",
         "c17": "OFF"
  }
-],
-"15316618_(CFA721)_DT":[
+],"DPN_15316618_CFA721)_DT":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316618,
@@ -48598,8 +48034,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15363934_(CFA721)":[
+],"DPN_15363934_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363934,
@@ -48672,8 +48107,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15363934_(CFA711)":[
+],"DPN_15363934_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363934,
@@ -48746,8 +48180,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13781323_(CFA721)":[
+],"DPN_13781323_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363934,
@@ -48820,8 +48253,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13798104_(CFA721)":[
+],"DPN_13798104_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13798104,
@@ -48894,8 +48326,7 @@
  {
   "c2": "Notes:"
  }
-],
-"12084200_(CFA711)":[
+],"DPN_12084200_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12084200,
@@ -48968,8 +48399,7 @@
  {
   "c2": "Notes:"
  }
-],
-"12084200_(CFA721)":[
+],"DPN_12084200_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12084200,
@@ -49042,8 +48472,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15394680_(CFA711)":[
+],"DPN_15394680_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15394680,
@@ -49116,8 +48545,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15394680_(CFA721)":[
+],"DPN_15394680_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15394680,
@@ -49190,8 +48618,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13799667_(CFA711)":[
+],"DPN_13799667_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13799667,
@@ -49264,8 +48691,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13799667_(CFA721)":[
+],"DPN_13799667_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13799667,
@@ -49338,8 +48764,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10865320_(CFA721)":[
+],"DPN_10865320_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865320,
@@ -49412,8 +48837,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13950497_(CFA721)":[
+],"DPN_13950497_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13950497,
@@ -49486,8 +48910,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10725415_(CFA721)":[
+],"DPN_10725415_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725415,
@@ -49560,8 +48983,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13979940_(CFA721)":[
+],"DPN_13979940_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13979940,
@@ -49634,8 +49056,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10756805_(CFA721)":[
+],"DPN_10756805_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10756805,
@@ -49708,8 +49129,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13614581_(CFA721)":[
+],"DPN_13614581_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13614581,
@@ -49782,8 +49202,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13866754_(CFA721)":[
+],"DPN_13866754_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13866754,
@@ -49856,8 +49275,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15464279_(CFA711)":[
+],"DPN_15464279_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15464279,
@@ -49930,8 +49348,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15316326_(CFA711)":[
+],"DPN_15316326_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316326,
@@ -50004,8 +49421,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15316326_(CFA721)":[
+],"DPN_15316326_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316326,
@@ -50078,8 +49494,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10763382_(CFA721)":[
+],"DPN_10763382_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763382,
@@ -50152,8 +49567,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327499_(CFA711)":[
+],"DPN_15327499_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327499,
@@ -50226,8 +49640,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327499_(CFA721)":[
+],"DPN_15327499_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327499,
@@ -50300,8 +49713,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13651458_(CFA721)":[
+],"DPN_13651458_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13651458,
@@ -50374,8 +49786,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327080_(CFA711-0.5)":[
+],"DPN_15327080_CFA711-0.5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327080,
@@ -50448,8 +49859,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327080_(CFA721-0.5)":[
+],"DPN_15327080_CFA721-0.5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327080,
@@ -50522,8 +49932,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13661915_(CFA711)":[
+],"DPN_13661915_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13661915,
@@ -50596,8 +50005,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10725724_(Double-x)":[
+],"DPN_10725724_Double-x":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725724,
@@ -50685,8 +50093,7 @@
  {
   "c2": "optimal results."
  }
-],
-"33113990_(CFA711)":[
+],"DPN_33113990_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33113990,
@@ -50759,8 +50166,7 @@
  {
   "c2": "Notes:"
  }
-],
-"33113990_(CFA721)":[
+],"DPN_33113990_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33113990,
@@ -50833,8 +50239,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10725694_(MCI721)_FLRY-B":[
+],"DPN_10725694_MCI721)_FLRY-B":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725694
@@ -50905,8 +50310,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"13988467_(CFA721)":[
+],"DPN_13988467_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13988467,
@@ -50979,8 +50383,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13676269_(CFA721)":[
+],"DPN_13676269_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13676269,
@@ -51053,8 +50456,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15464279_(CFA711)_USCAR21":[
+],"DPN_15464279_CFA711)_USCAR21":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15464279,
@@ -51127,8 +50529,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13676269_(CFA721) (2)":[
+],"DPN_13676269_CFA721_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13676269,
@@ -51201,8 +50602,7 @@
  {
   "c2": "Notes:"
  }
-],
-"12124256_(CFA711)":[
+],"DPN_12124256_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12124256,
@@ -51275,8 +50675,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15448359_(CFA721)_0.35":[
+],"DPN_15448359_CFA721)_0.35":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15448359,
@@ -51346,8 +50745,7 @@
   "c4": 0.4,
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"13866752_(CFA721)":[
+],"DPN_13866752_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13866752,
@@ -51420,8 +50818,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15327530_(CFA711)":[
+],"DPN_15327530_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327530,
@@ -51491,8 +50888,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10820110_(CFA721)":[
+],"DPN_10820110_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820110,
@@ -51565,8 +50961,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10820110_(CFA711)":[
+],"DPN_10820110_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820110,
@@ -51639,8 +51034,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13581330_(CFA721)":[
+],"DPN_13581330_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13581330,
@@ -51713,8 +51107,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15316326_0.35_(CFA711)":[
+],"DPN_15316326_0.35_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316326,
@@ -51787,8 +51180,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15316326_0.35_(CFA721)":[
+],"DPN_15316326_0.35_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15316326,
@@ -51861,8 +51253,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10820257_(CFA711)":[
+],"DPN_10820257_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820257,
@@ -51935,8 +51326,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10820257_(CFA721)":[
+],"DPN_10820257_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10820257,
@@ -52009,8 +51399,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15363931_(CFA721)":[
+],"DPN_15363931_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363931,
@@ -52083,8 +51472,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13595296_(CFA721)":[
+],"DPN_13595296_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13595296,
@@ -52157,8 +51545,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10846792_(CFA721)":[
+],"DPN_10846792_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10846792
@@ -52244,8 +51631,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10865984_(CFA721)":[
+],"DPN_10865984_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865984,
@@ -52318,8 +51704,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15324953_mci711_0,13+0,13 (2)":[
+],"DPN_15324953_mci711_0,13+0,13 (2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324953,
@@ -52390,8 +51775,7 @@
   "c4": "Factor for weighting the error in zone 3",
   "c17": "OFF"
  }
-],
-"15326266_(CFA721)":[
+],"DPN_15326266_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15326266,
@@ -52464,8 +51848,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15432210_(AGP81X9-0.5)":[
+],"DPN_15432210_AGP81X9-0.5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15432210,
@@ -52553,8 +51936,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13586759_(CFA721)":[
+],"DPN_13586759_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13586759,
@@ -52627,8 +52009,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10763375_(CFA721)":[
+],"DPN_10763375_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763375,
@@ -52701,8 +52082,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13588505_(CC64)":[
+],"DPN_13588505_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13588505,
@@ -52753,8 +52133,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"10776376_(CFA721)":[
+],"DPN_10776376_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10776376,
@@ -52827,8 +52206,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13595299_(CFA721)":[
+],"DPN_13595299_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13595299,
@@ -52901,8 +52279,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13759636_(CFA721)":[
+],"DPN_13759636_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13759936,
@@ -52975,8 +52352,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13678015_(CFA721)":[
+],"DPN_13678015_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13678015,
@@ -53049,8 +52425,7 @@
  {
   "c2": "Notes:"
  }
-],
-"12124083_(CC64)":[
+],"DPN_12124083_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12124083,
@@ -53101,8 +52476,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"13597856_(CC64)":[
+],"DPN_13597856_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13597856,
@@ -53153,8 +52527,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"15440179_(CC64)":[
+],"DPN_15440179_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15440179,
@@ -53205,8 +52578,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"15491282_(CC64)":[
+],"DPN_15491282_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15491282,
@@ -53257,8 +52629,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"15396704_(CC64)":[
+],"DPN_15396704_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15396704,
@@ -53305,8 +52676,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"12131460_(CFA711)":[
+],"DPN_12131460_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12131460,
@@ -53379,8 +52749,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10781023_(CFA721)":[
+],"DPN_10781023_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10781023,
@@ -53453,8 +52822,7 @@
  {
   "c2": "Notes:"
  }
-],
-"33130594_(CFA721)":[
+],"DPN_33130594_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33130594,
@@ -53527,8 +52895,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15422681_(CFA721)":[
+],"DPN_15422681_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15422681,
@@ -53601,8 +52968,7 @@
  {
   "c2": "Notes:"
  }
-],
-"33130593_(CFA721)":[
+],"DPN_33130593_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33130593,
@@ -53675,8 +53041,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13588505_(CFA721)":[
+],"DPN_13588505_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13588505,
@@ -53749,8 +53114,7 @@
  {
   "c2": "Notes:"
  }
-],
-"12124083_(CFA711)":[
+],"DPN_12124083_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12124083,
@@ -53823,8 +53187,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10810484_(CFA721)":[
+],"DPN_10810484_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10810484,
@@ -53897,8 +53260,7 @@
  {
   "c2": "Notes:"
  }
-],
-"33282054_(CFA721)":[
+],"DPN_33282054_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33282054,
@@ -53971,8 +53333,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13878071_(CFA711)":[
+],"DPN_13878071_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13878071,
@@ -54045,8 +53406,7 @@
  {
   "c2": "Notes:"
  }
-],
-"33173730_(CFA721)":[
+],"DPN_33173730_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33173710,
@@ -54119,8 +53479,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15383352_(CFA721)":[
+],"DPN_15383352_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15383352,
@@ -54193,8 +53552,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15344635_(CC64)":[
+],"DPN_15344635_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15344635,
@@ -54245,8 +53603,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"12124515_(CFA721)":[
+],"DPN_12124515_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12124515,
@@ -54319,8 +53676,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13665314_(CFA721) POS":[
+],"DPN_13665314_CFA721) POS":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13665314
@@ -54391,8 +53747,7 @@
  {
   "c2": "Note:"
  }
-],
-"13616465_(CFA721)":[
+],"DPN_13616465_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13616465,
@@ -54465,8 +53820,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13783086_(CFA721)":[
+],"DPN_13783086_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13783086,
@@ -54539,8 +53893,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10748131_(CFA721)POS":[
+],"DPN_10748131_CFA721)POS":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10748131
@@ -54611,8 +53964,7 @@
  {
   "c2": "Note:"
  }
-],
-"13592980_(CFA721)":[
+],"DPN_13592980_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13592980,
@@ -54685,8 +54037,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13642522_(CFA721)":[
+],"DPN_13642522_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13642522,
@@ -54759,8 +54110,7 @@
  {
   "c2": "Notes:"
  }
-],
-"12191811_(CFA721)POS":[
+],"DPN_12191811_CFA721)POS":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191811
@@ -54831,8 +54181,7 @@
  {
   "c2": "Note:"
  }
-],
-"13877182_(CFA721)":[
+],"DPN_13877182_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13877182,
@@ -54904,8 +54253,7 @@
  {
   "c2": "Note:"
  }
-],
-"33282918_(CFA721)":[
+],"DPN_33282918_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33282918,
@@ -54977,8 +54325,7 @@
  {
   "c2": "Note:"
  }
-],
-"12065324_(CFA711)":[
+],"DPN_12065324_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12065324,
@@ -55051,8 +54398,7 @@
  {
   "c2": "Notes:"
  }
-],
-"33113992_(CFA721)":[
+],"DPN_33113992_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33113992,
@@ -55124,8 +54470,7 @@
  {
   "c2": "Note:"
  }
-],
-"15396711_(CFA711)":[
+],"DPN_15396711_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15396711,
@@ -55198,8 +54543,7 @@
  {
   "c2": "Notes:"
  }
-],
-"10725739_(CFA721)":[
+],"DPN_10725739_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725739
@@ -55270,8 +54614,7 @@
  {
   "c2": "Note:"
  }
-],
-"33122950_(CFA721)":[
+],"DPN_33122950_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33122950
@@ -55342,8 +54685,7 @@
  {
   "c2": "Note:"
  }
-],
-"13586759_(CFA711)":[
+],"DPN_13586759_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13586759,
@@ -55416,8 +54758,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15365713_(CFA721)":[
+],"DPN_15365713_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15365713,
@@ -55489,8 +54830,7 @@
  {
   "c2": "Note:"
  }
-],
-"13896813_(CFA711)":[
+],"DPN_13896813_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896813,
@@ -55563,8 +54903,7 @@
  {
   "c2": "Notes:"
  }
-],
-"15443788_(CFA721)":[
+],"DPN_15443788_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15443788,
@@ -55636,8 +54975,7 @@
  {
   "c2": "Note:"
  }
-],
-"10725874_(CFA721)":[
+],"DPN_10725874_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725874,
@@ -55709,8 +55047,7 @@
  {
   "c2": "Note:"
  }
-],
-"13896515_(CFA721)":[
+],"DPN_13896515_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896515,
@@ -55782,8 +55119,7 @@
  {
   "c2": "Note:"
  }
-],
-"12191816_(CFA721)":[
+],"DPN_12191816_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191816,
@@ -55855,8 +55191,7 @@
  {
   "c2": "Note:"
  }
-],
-"33510990_(CFA721)":[
+],"DPN_33510990_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33510990,
@@ -55928,8 +55263,7 @@
  {
   "c2": "Note:"
  }
-],
-"13881789_(CC64)":[
+],"DPN_13881789_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13881789,
@@ -55980,8 +55314,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"13668473_(CFA72)":[
+],"DPN_13668473_CFA72":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13668473,
@@ -56053,8 +55386,7 @@
  {
   "c2": "Note:"
  }
-],
-"10864817_(CFA721) ":[
+],"DPN_10864817_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10864817,
@@ -56126,8 +55458,7 @@
  {
   "c2": "Note:"
  }
-],
-"33282054_(CFA711)":[
+],"DPN_33282054_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33282054,
@@ -56200,8 +55531,7 @@
  {
   "c2": "Notes:"
  }
-],
-"13580635_(CFA721":[
+],"DPN_13580635_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580635,
@@ -56273,8 +55603,7 @@
  {
   "c2": "Note:"
  }
-],
-"DPN_10779820_(CFA 722)_2":[
+],"DPN_10779820_CFA 722)_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10779820
@@ -56363,8 +55692,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15327212_(CFA 711)_2":[
+],"DPN_15327212_CFA 711)_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327212
@@ -56447,8 +55775,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15327212_(CFA 721)_2":[
+],"DPN_15327212_CFA 721)_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15327212
@@ -56531,8 +55858,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13896515_(CFA 711)":[
+],"DPN_13896515_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896515
@@ -56615,8 +55941,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13896515_(CFA 722)":[
+],"DPN_13896515_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13896515
@@ -56699,8 +56024,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33510990_(CFA 722)":[
+],"DPN_33510990_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33510990
@@ -56783,8 +56107,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10793721_(CFA 722)":[
+],"DPN_10793721_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10793721
@@ -56867,8 +56190,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10847250_(CFA 711)":[
+],"DPN_10847250_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847250
@@ -56951,8 +56273,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10847250_(CFA 722)":[
+],"DPN_10847250_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847250
@@ -57035,8 +56356,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15327480_(CFA 711)":[
+],"DPN_15327480_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847250
@@ -57124,8 +56444,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15327480_(CFA 722)":[
+],"DPN_15327480_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847250
@@ -57214,8 +56533,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13843029_(CFA 711)":[
+],"DPN_13843029_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13843029
@@ -57298,8 +56616,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13843029_(CFA 722)":[
+],"DPN_13843029_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10847250
@@ -57382,8 +56699,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_12191818_(CFA 711)":[
+],"DPN_12191818_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191818
@@ -57466,8 +56782,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_12191818_(CFA 722)":[
+],"DPN_12191818_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191818
@@ -57550,8 +56865,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_12105753_(CFA 711)":[
+],"DPN_12105753_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191818
@@ -57634,8 +56948,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_12105733_(CFA 722)":[
+],"DPN_12105733_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191818
@@ -57718,8 +57031,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10866387_(CFA 721)":[
+],"DPN_10866387_CFA 721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12191818
@@ -57802,8 +57114,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33136798_(CFA 722)":[
+],"DPN_33136798_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33136798
@@ -57886,8 +57197,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33136798_(CFA 711)":[
+],"DPN_33136798_CFA 711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33136798
@@ -57970,8 +57280,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_12176617_(CPM5100)":[
+],"DPN_12176617_CPM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12176617,
@@ -58061,8 +57370,7 @@
  {
   "c3": "VR5 %",
   "c5": 90}
-],
-"DPN_10763380_(CFA 722)":[
+],"DPN_10763380_CFA 722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763380
@@ -58145,8 +57453,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10865853_CC64":[
+],"DPN_10865853_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10865853,
@@ -58191,8 +57498,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_13546737_CC64":[
+],"DPN_13546737_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13546737,
@@ -58237,8 +57543,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_13914645_CC64":[
+],"DPN_13914645_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13914645,
@@ -58283,8 +57588,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_13934202_CC64":[
+],"DPN_13934202_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13934202,
@@ -58329,8 +57633,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_15406024_CC64":[
+],"DPN_15406024_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15406024,
@@ -58375,8 +57678,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_15408850_CC64":[
+],"DPN_15408850_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15408850,
@@ -58421,8 +57723,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_33136798_CC64":[
+],"DPN_33136798_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33136798,
@@ -58467,8 +57768,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_33265290_CC64":[
+],"DPN_33265290_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33265290,
@@ -58513,8 +57813,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"DPN_33347930_CC64":[
+],"DPN_33347930_CC64":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33347930,
@@ -58559,8 +57858,7 @@
   "c12": 0.2,
   "c13": 30
  }
-],
-"10775837_CPM5000":[
+],"DPN_10775837_CPM5000":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10775837,
@@ -58703,8 +58001,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_33100938_CPM5000":[
+],"DPN_33100938_CPM5000":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33100938,
@@ -58814,8 +58111,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"13540188_(CFA711)":[
+],"DPN_13540188_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13540188
@@ -58884,8 +58180,7 @@
   "c4": "0.7",
   "c5": "Factor for weighting the error in zone 3"
  }
-],
-"13616465_(CFA722)":[
+],"DPN_13616465_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13616465,
@@ -58958,8 +58253,7 @@
  {
   "c2": "Notes:"
  }
-],
-"DPN_13673776_CPM5000":[
+],"DPN_13673776_CPM5000":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13763132,
@@ -59083,8 +58377,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13580942_CFA711":[
+],"DPN_13580942_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580942
@@ -59167,8 +58460,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13580942_CFA722":[
+],"DPN_13580942_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580942
@@ -59251,8 +58543,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15504160_CFM5100":[
+],"DPN_15504160_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15504160,
@@ -59397,8 +58688,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"10725047_(CFA711)_0,5":[
+],"DPN_10725047_CFA711)_0,5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725047,
@@ -59486,8 +58776,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10725047_(CFA722)_0,5":[
+],"DPN_10725047_CFA722)_0,5":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725047,
@@ -59575,8 +58864,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33101340_CFA711":[
+],"DPN_33101340_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33101340
@@ -59659,8 +58947,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33101340_CFA722":[
+],"DPN_33101340_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33101340
@@ -59743,8 +59030,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33265287_722":[
+],"DPN_33265287_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33265287
@@ -59827,8 +59113,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33265287_711":[
+],"DPN_33265287_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33265287
@@ -59911,8 +59196,7 @@
  {
   "c2": "optimal results."
  }
-],
-"12186637_(CFA722) (2)":[
+],"DPN_12186637_CFA722_2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 12186637,
@@ -60000,8 +59284,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13946891_C3170":[
+],"DPN_13946891_C3170":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "10865170 (13946891)",
@@ -60090,8 +59373,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35088739_711":[
+],"DPN_35088739_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35088739,
@@ -60178,8 +59460,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35088739_722":[
+],"DPN_35088739_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35088739,
@@ -60266,8 +59547,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13597856_(CFA721)":[
+],"DPN_13597856_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13597856,
@@ -60340,8 +59620,7 @@
  {
   "c2": "Notes:"
  }
-],
-"DPN_13798896_711":[
+],"DPN_13798896_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13798896,
@@ -60425,8 +59704,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13798896_722":[
+],"DPN_13798896_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13798896,
@@ -60511,8 +59789,7 @@
  {
   "c2": "optimal results."
  }
-],
-"13879001_CFM5100":[
+],"DPN_13879001_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13879001,
@@ -60528,8 +59805,7 @@
  {
   "c2": "From capability studies performed by crimp monitoring experts from the Global Crimp Monitoring Team, it has been decided that the following parameters shall be used  for optimal quality results (better defect detection)"
  }
-],
-"DPN_13981497_722":[
+],"DPN_13981497_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13981497,
@@ -60614,8 +59890,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35143208_722":[
+],"DPN_35143208_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35143208,
@@ -60700,8 +59975,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35143208_711":[
+],"DPN_35143208_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35143208,
@@ -60786,8 +60060,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15324895_711":[
+],"DPN_15324895_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324895,
@@ -60872,8 +60145,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15405582_722":[
+],"DPN_15405582_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15405582,
@@ -60957,8 +60229,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10810495_722":[
+],"DPN_10810495_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10810495,
@@ -61042,8 +60313,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35134588_711":[
+],"DPN_35134588_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35134588,
@@ -61127,8 +60397,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35134588_722":[
+],"DPN_35134588_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35134588,
@@ -61212,8 +60481,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763396_(CFA711)":[
+],"DPN_10763396_CFA711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763396,
@@ -61302,8 +60570,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10763396_(CFA722)":[
+],"DPN_10763396_CFA722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10763396,
@@ -61392,8 +60659,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35134588_722 (2)":[
+],"DPN_35134588_722 (2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35119301,
@@ -61477,8 +60743,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33162398_722":[
+],"DPN_33162398_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33162398,
@@ -61562,8 +60827,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33162398_711":[
+],"DPN_33162398_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33162398,
@@ -61647,8 +60911,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35119301_752":[
+],"DPN_35119301_752":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35119301
@@ -61731,8 +60994,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15524565_CFM5100":[
+],"DPN_15524565_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15524565,
@@ -61878,8 +61140,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"10737242_(CFA711)_rev":[
+],"DPN_10737242_CFA711)_rev":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10737242,
@@ -61966,8 +61227,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35031567_711":[
+],"DPN_35031567_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35031567,
@@ -62051,8 +61311,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33135543_CFM5100":[
+],"DPN_33135543_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33135543,
@@ -62214,8 +61473,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13849933_711":[
+],"DPN_13849933_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13849933 (35031567)",
@@ -62299,8 +61557,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13849933_722":[
+],"DPN_13849933_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": "13849933 (35031567)",
@@ -62384,8 +61641,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35311334_CFM5100":[
+],"DPN_35311334_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35311334,
@@ -62540,8 +61796,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13580637_711":[
+],"DPN_13580637_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580637,
@@ -62665,8 +61920,7 @@
   "c2": "optimal results.",
   "c14": "optimal results."
  }
-],
-"DPN_13924523_CFM5100":[
+],"DPN_13924523_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13924523,
@@ -62830,8 +62084,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13726656_721":[
+],"DPN_13726656_721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13726656,
@@ -62915,8 +62168,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35389997_722":[
+],"DPN_35389997_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35389997,
@@ -63000,8 +62252,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35389997_711":[
+],"DPN_35389997_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35389997,
@@ -63089,8 +62340,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13944201_CFM5100":[
+],"DPN_13944201_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13944201,
@@ -63245,8 +62495,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_33358327_CFM5100":[
+],"DPN_33358327_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33358327,
@@ -63401,8 +62650,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13975829_721":[
+],"DPN_13975829_721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13975829,
@@ -63486,8 +62734,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13580637_722":[
+],"DPN_13580637_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13580637,
@@ -63612,8 +62859,7 @@
   "c2": "optimal results.",
   "c14": "optimal results."
  }
-],
-"15512013_(CC3)":[
+],"DPN_15512013_CC3":[
  {
   "c3": "Special Standard Parameters for DPN:",
   "c6": 15512013
@@ -63650,8 +62896,7 @@
  {
   "c2": "Set Default parameters"
  }
-],
-"15512012_(CC3)":[
+],"DPN_15512012_CC3":[
  {
   "c3": "Special Parameters for DPN:",
   "c6": 15512012
@@ -63688,8 +62933,7 @@
  {
   "c2": "Set Default parameters"
  }
-],
-"10724597_CFA721":[
+],"DPN_10724597_CFA721":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10724597,
@@ -63777,8 +63021,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33135543_711":[
+],"DPN_33135543_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33135543,
@@ -63862,8 +63105,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13615055_711":[
+],"DPN_13615055_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13615055,
@@ -63947,8 +63189,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13615055_722":[
+],"DPN_13615055_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13615055,
@@ -64032,8 +63273,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13615201_711":[
+],"DPN_13615201_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13615201,
@@ -64117,8 +63357,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13615201_722":[
+],"DPN_13615201_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13615201,
@@ -64202,8 +63441,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15448540_711":[
+],"DPN_15448540_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15448540,
@@ -64287,8 +63525,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15448540_722":[
+],"DPN_15448540_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15448540,
@@ -64372,8 +63609,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33380171_722":[
+],"DPN_33380171_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33380171,
@@ -64458,8 +63694,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33380171_711":[
+],"DPN_33380171_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 33380171,
@@ -64544,8 +63779,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15363926_722":[
+],"DPN_15363926_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363926,
@@ -64629,8 +63863,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15363926_711":[
+],"DPN_15363926_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363926,
@@ -64714,8 +63947,7 @@
  {
   "c2": "optimal results."
  }
-],
-"10864817_(CC64)":[
+],"DPN_10864817_CC64":[
  {
   "c3": " Standard Parameters for DPN:",
   "c6": 10864817,
@@ -64766,8 +63998,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"33137788_(CC64)":[
+],"DPN_33137788_CC64":[
  {
   "c3": " Standard Parameters for DPN:",
   "c6": 33137788,
@@ -64818,8 +64049,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"DPN_15363926_711_U":[
+],"DPN_15363926_711_U":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363926,
@@ -64903,8 +64133,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15363926_722_U (2)":[
+],"DPN_15363926_722_U (2":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15363926,
@@ -64988,8 +64217,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10725082_711":[
+],"DPN_10725082_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725082,
@@ -65073,8 +64301,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10725082_722":[
+],"DPN_10725082_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10725082,
@@ -65158,8 +64385,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10725082_(CC64)":[
+],"DPN_10725082_CC64":[
  {
   "c3": " Standard Parameters for DPN:",
   "c6": 10725082,
@@ -65211,8 +64437,7 @@
  {
   "c2": "EXAMPLE \/ JUST FOR REFERENCE THE VALUES NEED'S TO BE REPLACED BY THE ABOVE ONES"
  }
-],
-"DPN_13976098_711":[
+],"DPN_13976098_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13976098,
@@ -65296,8 +64521,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13976098_722":[
+],"DPN_13976098_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13976098,
@@ -65381,8 +64605,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13669869_711":[
+],"DPN_13669869_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13669869,
@@ -65466,8 +64689,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35015649_711":[
+],"DPN_35015649_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35015649,
@@ -65551,8 +64773,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35015649_722":[
+],"DPN_35015649_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35015649,
@@ -65636,8 +64857,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15385710_711":[
+],"DPN_15385710_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15385710,
@@ -65721,8 +64941,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13597855_722":[
+],"DPN_13597855_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15385710,
@@ -65806,8 +65025,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15324952_711 ":[
+],"DPN_15324952_711 ":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15385710,
@@ -65891,8 +65109,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15324952_722":[
+],"DPN_15324952_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15385710,
@@ -65976,8 +65193,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15386269_722 ":[
+],"DPN_15386269_722 ":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15386269,
@@ -66061,8 +65277,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15386269_722_0,08":[
+],"DPN_15386269_722_0,08":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15386269,
@@ -66146,8 +65361,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35463751_711":[
+],"DPN_35463751_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35463751,
@@ -66231,8 +65445,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35463751_722":[
+],"DPN_35463751_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35463751,
@@ -66316,8 +65529,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10725413_711":[
+],"DPN_10725413_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35463751,
@@ -66401,8 +65613,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10725413_722":[
+],"DPN_10725413_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35463751,
@@ -66486,8 +65697,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10777114_711 ":[
+],"DPN_10777114_711 ":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10777114,
@@ -66571,8 +65781,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10777114_722 ":[
+],"DPN_10777114_722 ":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10777114,
@@ -66656,8 +65865,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10866901_722 ":[
+],"DPN_10866901_722 ":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10866901,
@@ -66741,8 +65949,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_33137788_SLE":[
+],"DPN_33137788_SLE":[
  {
   "c3": " Standard Parameters for DPN:",
   "c6": 35093900,
@@ -66806,8 +66013,7 @@
  {
   "c2": "Other parameters as default."
  }
-],
-"DPN_13946891_722  ":[
+],"DPN_13946891_722  ":[
  {
   "c3": "Aptiv Standard Parameters for DPN:",
   "c6": 13946891,
@@ -66892,8 +66098,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35626074_711":[
+],"DPN_35626074_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35626074,
@@ -66976,8 +66181,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35626074_722":[
+],"DPN_35626074_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35626074,
@@ -67060,8 +66264,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10863984_711":[
+],"DPN_10863984_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10863984,
@@ -67144,8 +66347,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_10863984_722":[
+],"DPN_10863984_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10863984,
@@ -67228,8 +66430,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15470349_CFM5100":[
+],"DPN_15470349_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15470349,
@@ -67386,8 +66587,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_15420522_711":[
+],"DPN_15420522_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15420522,
@@ -67470,8 +66670,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15420522_722":[
+],"DPN_15420522_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15420522,
@@ -67554,8 +66753,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15324627_711":[
+],"DPN_15324627_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324627
@@ -67640,8 +66838,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_15324627_722":[
+],"DPN_15324627_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 15324627
@@ -67726,8 +66923,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_35632163_CFM5100":[
+],"DPN_35632163_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35632163,
@@ -67894,8 +67090,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_10769437_CFM5100":[
+],"DPN_10769437_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 10769437,
@@ -68063,8 +67258,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13854827_CFM5100":[
+],"DPN_13854827_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13854827,
@@ -68232,8 +67426,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13854905_CFM5100":[
+],"DPN_13854905_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13854905,
@@ -68401,8 +67594,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_13882772_CFM5100":[
+],"DPN_13882772_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13882772,
@@ -68569,8 +67761,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_35563138_CFM5100":[
+],"DPN_35563138_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35563138,
@@ -68738,8 +67929,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_35563139_CFM5100":[
+],"DPN_35563139_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35563139,
@@ -68906,8 +68096,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_35563140_CFM5100":[
+],"DPN_35563140_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35563140,
@@ -69074,8 +68263,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_35632164_CFM5100":[
+],"DPN_35632164_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35632164,
@@ -69242,8 +68430,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_35632165_CFM5100":[
+],"DPN_35632165_CFM5100":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35632165,
@@ -69411,8 +68598,7 @@
   "c3": "VR5 %",
   "c8": "90"
  }
-],
-"DPN_35355747_711":[
+],"DPN_35355747_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 35355747
@@ -69494,8 +68680,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13601967_711":[
+],"DPN_13601967_711":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13601967
@@ -69577,8 +68762,7 @@
  {
   "c2": "optimal results."
  }
-],
-"DPN_13601967_722":[
+],"DPN_13601967_722":[
  {
   "c3": "Delphi Standard Parameters for DPN:",
   "c6": 13601967
@@ -69660,8 +68844,7 @@
  {
   "c2": "optimal results."
  }
-],
-"35632160_OES":[
+],"DPN_35632160_OES":[
  {
   "c3": " Standard Parameters for DPN:",
   "c6": 35632160,

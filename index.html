@@ -26,26 +26,40 @@
             xhttp.open("GET", "json.json", true);
             xhttp.send();
         }
+        function loadInfoDoc(callback) {
+            const xhttp = new XMLHttpRequest();
+            xhttp.onload = function () {
+                if (this.status === 200) {
+                    const responseData = JSON.parse(this.responseText);
+                    callback(null, responseData);
+                } else {
+                    const error = new Error(`Error loading data. Status: ${this.status}`);
+                    callback(error, null);
+                }
+            };
+            xhttp.open("GET", "fullData.json", true);
+            xhttp.send();
+        }
         loadDoc(function (error, responseData) {
             if (!error) {
                 let x = 0;
                 var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
                 lastRealDPN = '';
-                while (x < responseData.length / 2) {
+                while (x < responseData.length / 15) {
                     id = responseData[x].id;
                     responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
                     responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
-                    type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg">` : "";
-                    type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg">` : "";
+                    type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
                     avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
                     x++;
                 }
@@ -60,23 +74,23 @@
                     var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
                     lastRealDPN = '';
                     var count = 0;
-                    while (x < responseData.length / 2) {
+                    while (x < responseData.length / 15) {
                         if (DPN == responseData[x].dpn) {
                             count++;
                             id = responseData[x].id;
                             responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
                             responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
-                            type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg">` : "";
-                            type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg">` : "";
+                            type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
                             avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
                         }
                         x++;
@@ -101,21 +115,21 @@
                     let x = 0;
                     var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
                     lastRealDPN = '';
-                    while (x < responseData.length / 2) {
+                    while (x < responseData.length / 15) {
                         id = responseData[x].id;
                         responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
                         responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
-                        type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg">` : "";
-                        type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg">` : "";
+                        type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
                         avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
                         x++;
                     }
@@ -123,7 +137,84 @@
             });
         }
 
+        function getInfo(dpn) {
+            document.getElementById("informationWindow").style.display="block";
+            document.getElementById("infoAboutProduct").innerHTML="";
+            loadInfoDoc(function (error, responseData) {
+                if (!error) {
+                    var matchDPN=[];
+                    dpn1 = "DPN_" + dpn + "_CFM4000";
+                    dpn1 = "DPN_" + dpn + "_CFM4100";
+                    dpn2 = "DPN_" + dpn + "_CFM5100";
+                    dpn3 = "DPN_" + dpn + "_CFA711";
+                    dpn4 = "DPN_" + dpn + "_CFA721";
+                    dpn5 = "DPN_" + dpn + "_CFA722";
+                    dpn6 = "DPN_" + dpn + "_711";
+                    dpn7 = "DPN_" + dpn + "_722";
+                    dpn8 = "DPN_" + dpn + "_CC64";
+                    dpn9 = "DPN_" + dpn + "_CC2";
+                    dpn10 = "DPN_" + dpn + "_CC3";
+                    dpn11 = "DPN_" + dpn + "_MCI711";
+                    dpn12 = "DPN_" + dpn + "_0,13_CFA721";
+                    
+                    matchDPN.push(responseData[dpn1])
+                    matchDPN.push(responseData[dpn2])
+                    matchDPN.push(responseData[dpn3])
+                    matchDPN.push(responseData[dpn4])
+                    matchDPN.push(responseData[dpn5])
+                    matchDPN.push(responseData[dpn6])
+                    matchDPN.push(responseData[dpn7])
+                    matchDPN.push(responseData[dpn8])
+                    matchDPN.push(responseData[dpn9])
+                    matchDPN.push(responseData[dpn10])
+                    matchDPN.push(responseData[dpn11])
+                    matchDPN.push(responseData[dpn12])
+                    matchDPN.forEach(element => {
+                        if(element!=undefined){
+                            element.forEach(subElement => {
+                                keys=Object.keys(subElement)
+                                keys.forEach(selement => {
+                                    document.getElementById("infoAboutProduct").innerHTML+=subElement[selement]+"<br>";
+                                });
+                            });
+                        }
+                    });
+                }
+            });
+        }
+        function hiddeAnfo(){
+            document.getElementById("informationWindow").style.display='none';
+        }
     </script>
+    <style>
+        .informationWindow {
+            width: 96%;
+            min-height: 1000px;
+            height: auto;
+            background-color: #fff;
+            margin-left: 2%;
+            margin-top: 50px;
+            border-radius: 5px;
+            background-color: #e9e9e9;
+            display: none;
+        }
+
+        .backArrowContainer {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: #d3d3d3;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 20px;
+            cursor: pointer;
+        }
+        .infoAboutProduct{
+            padding: 20px;
+        }
+    </style>
+
     <img src="./Img/aptivLogo.jfif" class="aptivLogo">
     <p class="title" id="clientsTableTitle">
         Terminals List of Rechecked Monitoring Parameters
@@ -132,7 +223,16 @@
         <input type="text" placeholder="search by DPN" id="searchBox">
         <button class="searchButton" onclick="filterResult()">search</button>
     </div>
-    <div class="tableContainer" id="clientsTable">
+    <div class="informationWindow" id="informationWindow">
+        <div class="justForSpace" style="height: 20px;">
+
+        </div>
+        <div class="backArrowContainer" onclick="hiddeAnfo()">
+            <img src="./Img/arrowBack.svg">
+        </div>
+        <div class="infoAboutProduct" id="infoAboutProduct"></div>
+    </div>
+    <div class="tableContainer" id="DPNTable">
         <div class="tableHead">
             <div class="cell_1">item</div>
             <div class="cell_2">DPN</div>

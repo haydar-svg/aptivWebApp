@@ -11,7 +11,6 @@ function avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5
                 <div class="checkTable">
                     <div class="imgContainer">
                         ${type_0}
-  
                         </div>
                  <div class="imgContainer">
                        ${type_1}
