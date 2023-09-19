@@ -244,3 +244,85 @@ input {
     margin-left: 10px;
 
 }
+
+/* :::::::::::::::::::::::::::::: */
+.element1 {
+    width: 96%;
+    min-height: 50px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #000;
+    margin-left: 2%;
+    border-radius: 5px;
+    background-color: #00000011;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+
+.element2 {
+    width: 96%;
+    min-height: 50px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #000;
+    margin-left: 2%;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 46%;
+    margin-left: 2%;
+    margin-top: 20px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.element3 {
+    width: 90%;
+    min-height: 50px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #000;
+    margin-left: 8%;
+    border-radius: 5px;
+    background-color: #0000000c;
+    align-items: center;
+    display: flex;
+    padding: 5px;
+}
+
+.element4 {
+    width: 96%;
+    min-height: 50px;
+    height: auto;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #000;
+    margin-left: 2%;
+    border-radius: 5px;
+    background-color: #0000000c;
+    padding: 10px;
+    line-height: 35px;
+}
+
+.element5 {
+    width: 96%;
+    min-height: 50px;
+    height: auto;
+    margin-top: 20px;
+    font-size: 18px;
+    color: red;
+    margin-left: 2%;
+    border-radius: 5px;
+    padding: 10px;
+    line-height: 35px;
+}
