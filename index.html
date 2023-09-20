@@ -37,7 +37,7 @@
                     callback(error, null);
                 }
             };
-            xhttp.open("GET", "fullData.json", true);
+            xhttp.open("GET", "withoutChange.json", true);
             xhttp.send();
         }
         loadDoc(function (error, responseData) {
@@ -45,21 +45,21 @@
                 let x = 0;
                 var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
                 lastRealDPN = '';
-                while (x < responseData.length / 15) {
+                while (x < responseData.length) {
                     id = responseData[x].id;
                     responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
                     responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
-                    type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                    type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                    type_0 = responseData[x].type_0 == 1 ? `<div onclick="getInfo('${dpn}_CFM4000')"></div>` : "";
+                    type_1 = responseData[x].type_1 == 1 ? `<div onclick="getInfo('${dpn}_CFM4100')"></div>` : "";
+                    type_2 = responseData[x].type_2 == 1 ? `<div onclick="getInfo('${dpn}_CFM5100')"></div>` : "";
+                    type_3 = responseData[x].type_3 == 1 ? `<div onclick="getInfo('${dpn}_CFA711')"></div>` : "";
+                    type_4 = responseData[x].type_4 == 1 ? `<div onclick="getInfo('${dpn}_CFA721')"></div>` : "";
+                    type_5 = responseData[x].type_5 == 1 ? `<div onclick="getInfo('${dpn}_CFA722')"></div>` : "";
+                    type_6 = responseData[x].type_6 == 1 ? `<div onclick="getInfo('${dpn}_711')"></div>` : "";
+                    type_7 = responseData[x].type_7 == 1 ? `<div onclick="getInfo('${dpn}_722')"></div>` : "";
+                    type_8 = responseData[x].type_8 == 1 ? `<div onclick="getInfo('${dpn}_CC64')"></div>` : "";
+                    type_9 = responseData[x].type_9 == 1 ? `<div onclick="getInfo('${dpn}_CC2')"></div>` : "";
+                    type_10 = responseData[x].type_10 == 1 ? `<div onclick="getInfo('${dpn}_CC3')"></div>` : "";
                     avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
                     x++;
                 }
@@ -74,36 +74,36 @@
                     var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
                     lastRealDPN = '';
                     var count = 0;
-                    while (x < responseData.length / 15) {
+                    while (x < responseData.length) {
                         if (DPN == responseData[x].dpn) {
                             count++;
                             id = responseData[x].id;
                             responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
                             responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
-                            type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                            type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                            type_0 = responseData[x].type_0 == 1 ? `<div onclick="getInfo('${dpn}_CFM4000')"></div>` : "";
+                            type_1 = responseData[x].type_1 == 1 ? `<div onclick="getInfo('${dpn}_CFM4100')"></div>` : "";
+                            type_2 = responseData[x].type_2 == 1 ? `<div onclick="getInfo('${dpn}_CFM5100')"></div>` : "";
+                            type_3 = responseData[x].type_3 == 1 ? `<div onclick="getInfo('${dpn}_CFA711')"></div>` : "";
+                            type_4 = responseData[x].type_4 == 1 ? `<div onclick="getInfo('${dpn}_CFA721')"></div>` : "";
+                            type_5 = responseData[x].type_5 == 1 ? `<div onclick="getInfo('${dpn}_CFA722')"></div>` : "";
+                            type_6 = responseData[x].type_6 == 1 ? `<div onclick="getInfo('${dpn}_711')"></div>` : "";
+                            type_7 = responseData[x].type_7 == 1 ? `<div onclick="getInfo('${dpn}_722')"></div>` : "";
+                            type_8 = responseData[x].type_8 == 1 ? `<div onclick="getInfo('${dpn}_CC64')"></div>` : "";
+                            type_9 = responseData[x].type_9 == 1 ? `<div onclick="getInfo('${dpn}_CC2')"></div>` : "";
+                            type_10 = responseData[x].type_10 == 1 ? `<div onclick="getInfo('${dpn}_CC3')"></div>` : "";
                             avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
                         }
                         x++;
                     }
                     if (count === 0) {
                         document.getElementById("dataContainer").innerHTML = `
-            <div class="emptyTable">
-            <img src="./Img/folder_off.svg" alt="folder of">
-            <p>
-                 0 item ?
-            </p>
-          </div>
-            `;
+                            <div class="emptyTable">
+                                <img src="./Img/folder_off.svg" alt="folder of">
+                                <p>
+                                    0 item ?
+                                </p>
+                            </div>
+                            `;
                     }
                 }
             });
@@ -115,21 +115,21 @@
                     let x = 0;
                     var id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10, lastRealDPN;
                     lastRealDPN = '';
-                    while (x < responseData.length / 15) {
+                    while (x < responseData.length) {
                         id = responseData[x].id;
                         responseData[x].dpn == null ? lastRealDPN = lastRealDPN : lastRealDPN = responseData[x].dpn;
                         responseData[x].dpn != null ? dpn = responseData[x].dpn : dpn = lastRealDPN;
-                        type_0 = responseData[x].type_0 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_1 = responseData[x].type_1 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_2 = responseData[x].type_2 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_3 = responseData[x].type_3 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_4 = responseData[x].type_4 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_5 = responseData[x].type_5 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_6 = responseData[x].type_6 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_7 = responseData[x].type_7 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_8 = responseData[x].type_8 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_9 = responseData[x].type_9 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
-                        type_10 = responseData[x].type_10 == 1 ? `<img src="./Img/done.svg" onclick="getInfo(${dpn})">` : "";
+                        type_0 = responseData[x].type_0 == 1 ? `<div onclick="getInfo('${dpn}_CFM4000')"></div>` : "";
+                        type_1 = responseData[x].type_1 == 1 ? `<div onclick="getInfo('${dpn}_CFM4100')"></div>` : "";
+                        type_2 = responseData[x].type_2 == 1 ? `<div onclick="getInfo('${dpn}_CFM5100')"></div>` : "";
+                        type_3 = responseData[x].type_3 == 1 ? `<div onclick="getInfo('${dpn}_CFA711')"></div>` : "";
+                        type_4 = responseData[x].type_4 == 1 ? `<div onclick="getInfo('${dpn}_CFA721')"></div>` : "";
+                        type_5 = responseData[x].type_5 == 1 ? `<div onclick="getInfo('${dpn}_CFA722')"></div>` : "";
+                        type_6 = responseData[x].type_6 == 1 ? `<div onclick="getInfo('${dpn}_711')"></div>` : "";
+                        type_7 = responseData[x].type_7 == 1 ? `<div onclick="getInfo('${dpn}_722')"></div>` : "";
+                        type_8 = responseData[x].type_8 == 1 ? `<div onclick="getInfo('${dpn}_CC64')"></div>` : "";
+                        type_9 = responseData[x].type_9 == 1 ? `<div onclick="getInfo('${dpn}_CC2')"></div>` : "";
+                        type_10 = responseData[x].type_10 == 1 ? `<div onclick="getInfo('${dpn}_CC3')"></div>` : "";
                         avoidRepetation(id, dpn, type_0, type_1, type_2, type_3, type_4, type_5, type_6, type_7, type_8, type_9, type_10)
                         x++;
                     }
@@ -143,109 +143,145 @@
             loadInfoDoc(function (error, responseData) {
                 if (!error) {
                     var matchDPN = [];
-                    dpn1 = "DPN_" + dpn + "_CFM4000";
-                    dpn1 = "DPN_" + dpn + "_CFM4100";
-                    dpn2 = "DPN_" + dpn + "_CFM5100";
-
-                    dpn3 = "DPN_" + dpn + "_CFA711";
-                    dpn4 = "DPN_" + dpn + "_CFA721";
-                    dpn5 = "DPN_" + dpn + "_CFA722";
-
-                    dpn6 = "DPN_" + dpn + "_711";
-                    dpn7 = "DPN_" + dpn + "_722";
-
-                    dpn8 = "DPN_" + dpn + "_CC64";
-
-                    dpn9 = "DPN_" + dpn + "_CC2";
-                    dpn10 = "DPN_" + dpn + "_CC3";
-
-                    dpn11 = "DPN_" + dpn + "_MCI711";
-                    dpn12 = "DPN_" + dpn + "_0,13_CFA721";
-
+                    dpn1 = "DPN_" + dpn + "";
                     matchDPN.push(responseData[dpn1])
-                    matchDPN.push(responseData[dpn2])
-                    matchDPN.push(responseData[dpn3])
-                    matchDPN.push(responseData[dpn4])
-                    matchDPN.push(responseData[dpn5])
-                    matchDPN.push(responseData[dpn6])
-                    matchDPN.push(responseData[dpn7])
-                    matchDPN.push(responseData[dpn8])
-                    matchDPN.push(responseData[dpn9])
-                    matchDPN.push(responseData[dpn10])
-                    matchDPN.push(responseData[dpn11])
-                    matchDPN.push(responseData[dpn12])
+                    if (matchDPN.length == 1 && matchDPN[0] == undefined) {
+                        let arr = dpn1.split('_');
+                        if (arr[2] == 'CFM4000') {
+                            dpn2 = arr[0] + '_' + arr[1] + '_CFM4100';
+                            matchDPN.push(responseData[dpn2])
+                        }
+                        else if (arr[2] == 'CFM5100') {
+                            dpn2 = arr[0] + '_' + arr[1] + '_CFM5000';
+                            dpn3 = arr[0] + '_' + arr[1] + '_CPM5000';
+                            dpn4 = arr[0] + '_' + arr[1] + '_CPM5100';
+                            dpn5 = arr[0] + '_' + arr[1] + '_OES';
+                            matchDPN.push(responseData[dpn2])
+                            matchDPN.push(responseData[dpn3])
+                            matchDPN.push(responseData[dpn4])
+                            matchDPN.push(responseData[dpn5])
+                        }
+                        else if (arr[2] == 'CFA711') {
+                            dpn2 = arr[0] + '_' + arr[1] + '_mci711';
+                            dpn3 = arr[0] + '_' + arr[1] + '_MCI711';
+                            dpn4 = arr[0] + '_' + arr[1] + '_mci721-722';
+                            dpn5 = arr[0] + '_' + arr[1] + '_MCI721-722';
+                            dpn6 = arr[0] + '_' + arr[1] + '_CFA711a';
+                            dpn7 = arr[0] + '_' + arr[1] + '_CFA711_0.5';
+                            dpn8 = arr[0] + '_' + arr[1] + '_CFA711_USCAR21';
+                            dpn9 = arr[0] + '_' + arr[1] + '_0.35_CFA711';
+                            dpn10 = arr[0] + '_' + arr[1] + '_CFA711_rev';
+                            dpn11 = arr[0] + '_' + arr[1] + '_CFA711_rev';
+                            dpn12 = arr[0] + '_' + arr[1] + '_mci711_0,13+0,13_2';
+                            dpn12 = arr[0] + '_' + arr[1] + '_CC3';
+                            dpn13 = arr[0] + '_' + arr[1] + '_CFA711_2';
+                            matchDPN.push(responseData[dpn2])
+                            matchDPN.push(responseData[dpn3])
+                            matchDPN.push(responseData[dpn4])
+                            matchDPN.push(responseData[dpn5])
+                            matchDPN.push(responseData[dpn6])
+                            matchDPN.push(responseData[dpn7])
+                            matchDPN.push(responseData[dpn8])
+                            matchDPN.push(responseData[dpn9])
+                            matchDPN.push(responseData[dpn10])
+                            matchDPN.push(responseData[dpn11])
+                            matchDPN.push(responseData[dpn12])
+                            matchDPN.push(responseData[dpn13])
+                        }
+                        else if (arr[2] == 'CFA721') {
+                            dpn2 = arr[0] + '_' + arr[1] + '_mci721';
+                            dpn3 = arr[0] + '_' + arr[1] + '_MCI721';
+                            dpn4 = arr[0] + '_' + arr[1] + '_mci721_Double-x';
+                            dpn4 = arr[0] + '_' + arr[1] + '_MCI721_Double-x';
+                            dpn5 = arr[0] + '_' + arr[1] + '_mci721_Std Crimps';
+                            dpn6 = arr[0] + '_' + arr[1] + '_MCI721_Std Crimps';
+                            dpn7 = arr[0] + '_' + arr[1] + '_mci721-722';
+                            dpn8 = arr[0] + '_' + arr[1] + '_MCI721-722';
+                            dpn9 = arr[0] + '_' + arr[1] + '_CFA 722';
+                            dpn13 = arr[0] + '_' + arr[1] + '_CFA721_2';
+                            matchDPN.push(responseData[dpn2])
+                            matchDPN.push(responseData[dpn3])
+                            matchDPN.push(responseData[dpn4])
+                            matchDPN.push(responseData[dpn5])
+                            matchDPN.push(responseData[dpn6])
+                            matchDPN.push(responseData[dpn7])
+                            matchDPN.push(responseData[dpn8])
+                            matchDPN.push(responseData[dpn13])
+                        }
+                        else if (arr[2] == 'CFA722') {
+                            dpn2 = arr[0] + '_' + arr[1] + '-(PE227633)_CFA722+';
+                            dpn3 = arr[0] + '_' + arr[1] + '-(PE227634)_CFA722+';
+                            dpn4 = arr[0] + '_' + arr[1] + '-(PE230574)_CFA722+';
+                            dpn4 = arr[0] + '_' + arr[1] + '-(PE230575)_CFA722+';
+                            dpn5 = arr[0] + '_' + arr[1] + '-(PE232028)_CFA722+';
+                            dpn6 = arr[0] + '_' + arr[1] + '-(PE230574)_CFA722';
+                            matchDPN.push(responseData[dpn2])
+                            matchDPN.push(responseData[dpn3])
+                            matchDPN.push(responseData[dpn4])
+                            matchDPN.push(responseData[dpn5])
+                            matchDPN.push(responseData[dpn6])
+                        }
+                        else if (arr[2] == '711') {
+                            dpn2 = arr[0] + '_' + arr[1] + '_CFA711';
+                            dpn3 = arr[0] + '_' + arr[1] + '_mci711_0,13+0,13';
+                            dpn4 = arr[0] + '_' + arr[1] + '_mci711_0,13+0,13_2';
+                            matchDPN.push(responseData[dpn2])
+                            matchDPN.push(responseData[dpn3])
+                            matchDPN.push(responseData[dpn4])
+                        }
+                        else if (arr[2] == '722') {
+                            dpn2 = arr[0] + '_' + arr[1] + '_0,13_CFA721';
+                            dpn3 = arr[0] + '_' + arr[1] + '_Dublex_CFA721';
+                            dpn4 = arr[0] + '_' + arr[1] + '_mci721_Double-x';
+                            dpn4 = arr[0] + '_' + arr[1] + '_MCI721_Double-x';
+                            dpn4 = arr[0] + '_' + arr[1] + '_CFA721_Double-x';
+                            dpn5 = arr[0] + '_' + arr[1] + '_Double-x';
+                            dpn6 = arr[0] + '_' + arr[1] + '_CFA721';
+                            dpn7 = arr[0] + '_' + arr[1] + '_Double-x_CFA721';
+                            matchDPN.push(responseData[dpn2])
+                            matchDPN.push(responseData[dpn3])
+                            matchDPN.push(responseData[dpn4])
+                            matchDPN.push(responseData[dpn5])
+                            matchDPN.push(responseData[dpn6])
+                            matchDPN.push(responseData[dpn7])
+                            matchDPN.push(responseData[dpn8])
+                            matchDPN.push(responseData[dpn13])
+                        }
+                    }
                     matchDPN.forEach(element => {
                         if (element != undefined) {
-                            if (element == responseData[dpn3] || element == responseData[dpn4] || element == responseData[dpn5]) {
-                                document.getElementById("infoAboutProduct").innerHTML = `
-                                <div class="element1">
-                                    ${element[0].c3} &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 1000;">  ${element[0].c6}</span> &nbsp; ${element[0].c9}
-                                </div>
-                                <div class="element1"> 
-                                    ${element[1].c2}&nbsp;&nbsp; &nbsp;<span style="font-weight: 1000;"> </span>
-                                </div>
-                                <div class="element2">
-                                    ${element[2].c2}&nbsp;
-                                </div>
-                                <div class="element1">
-                                    ${element[3].c2}&nbsp;
-                                </div>
-                                <table>
-                                    <tr>
-                                        <td>  ${element[4].c3}</td>
-                                        <td>  ${element[4].c5}</td>
-                                    </tr>
-                                    <tr>
-                                        <td>  ${element[5].c3}</td>
-                                        <td>  ${element[5].c5}</td>
-                                    </tr>
-                                    <tr>
-                                        <td>  ${element[6].c3}</td>
-                                        <td>  ${element[6].c5}</td>
-                                    </tr>
-                                    <tr>
-                                        <td>  ${element[7].c3}</td>
-                                        <td>  ${element[7].c5}</td>
-                                    </tr>
-                                </table>
-                                <div class="element1">
-                                    ${element[8].c2}
-                                </div>
-                                <div class="element3">
-                                    ${element[9].c3}
-                                </div>
-                                <div class="element3">
-                                    ${element[10].c3}
-                                </div>
-                                <div class="element4">
-                                    <span style="color: blue; font-size: 25px;">${element[11].c2}</span> ${element[11].c4}<br>
-                                    <span style="color: blue; font-size: 25px;">${element[12].c2}</span> ${element[12].c4}  ${element[13].c4}<br>
-                                    <span style="color: blue; font-size: 25px;">${element[14].c2}</span> ${element[14].c4}<br>
-                                    <span style="color: blue; font-size: 25px;">${element[15].c2}</span> ${element[15].c4}<br>
-                                    <span style="color: blue; font-size: 25px;">${element[16].c2}</span> ${element[16].c4}<br>
-                                </div>
-                                <div class="element5">
-                                    Note:
-                                </div>
-                                <div class="element2">
-                                    Let it be know that for some terminal / wire combinations, these values havo to change for better results.
-                                    The range for BLO should not exceed 80 and not go below 60. Sensitivities should always be between 0,5 and 0,8.
-                                    The bolded parameters ane nominal values to start with to run a wide range of terminals and wire gage of 0,2 up
-                                    to
-                                    6,00mm² (10 to 24 AWG). Individual parameters can be set for specific terminal / wire combinations to achieve
-                                    optimal results.
-                                </div>
-                                `;
-                            }
-                            else {
-                                element.forEach(subElement => {
-                                    keys = Object.keys(subElement)
-                                    keys.forEach(selement => {
-                                        document.getElementById("infoAboutProduct").innerHTML += subElement[selement] + "<br>";
-                                    });
-                                });
-                            }
+                            element.forEach(subElement => {
+                                keys = Object.keys(subElement)
+                                if (keys.length == 1) {
+                                    document.getElementById("infoAboutProduct").innerHTML += `
+                                        <div class="element1">
+                                            ${subElement[keys[0]]} &nbsp;
+                                        </div>
+                                    `
+                                }
+                                else if (keys.length == 2) {
+                                    document.getElementById("infoAboutProduct").innerHTML += `
+                                        <div class="element1">
+                                            ${subElement[keys[0]]} &nbsp; ${subElement[keys[1]]} &nbsp; 
+                                        </div>
+                                    `
+                                }
+                                else if (keys.length == 3) {
+                                    document.getElementById("infoAboutProduct").innerHTML += `
+                                        <div class="element1">
+                                            ${subElement[keys[0]]} &nbsp; ${subElement[keys[1]]} &nbsp; ${subElement[keys[2]]} &nbsp;
+                                        </div>
+                                    `
+                                }
+                                else if (keys.length == 4) {
+                                    document.getElementById("infoAboutProduct").innerHTML += `
+                                        <div class="element1">
+                                            ${subElement[keys[0]]} &nbsp; ${subElement[keys[1]]} &nbsp; ${subElement[keys[2]]} &nbsp;${subElement[keys[3]]} &nbsp;
+                                        </div>
+                                    `
+                                }
 
+                            });
                         }
                     });
                 }
@@ -255,35 +291,6 @@
             document.getElementById("informationWindow").style.display = 'none';
         }
     </script>
-    <style>
-        .informationWindow {
-            width: 96%;
-            min-height: 1000px;
-            height: auto;
-            background-color: #fff;
-            margin-left: 2%;
-            margin-top: 50px;
-            border-radius: 5px;
-            background-color: #e9e9e9;
-            display: none;
-        }
-
-        .backArrowContainer {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background-color: #d3d3d3;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-left: 20px;
-            cursor: pointer;
-        }
-
-        .infoAboutProduct {
-            padding: 20px;
-        }
-    </style>
 
     <img src="./Img/aptivLogo.jfif" class="aptivLogo">
     <p class="title" id="clientsTableTitle">
@@ -367,7 +374,7 @@
         </div>
         <div id="dataContainer">
         </div>
-        <div class="allResult" onclick="allResult()" style="width: 20%; margin-top: 50px ; margin-right: 80;">
+        <div class="allResult" onclick="allResult()" >
             see all
         </div>
     </div>

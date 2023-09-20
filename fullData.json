@@ -32189,10 +32189,7 @@
             {
                   "c2": "Width W2",
                   "c3": "1.0",
-                  "c4": "System and can not be changed. Broadening a zone causes the measurement process"
-            },
-            {
-                  "c4": "to be triggered earlier."
+                  "c4": "System and can not be changed. Broadening a zone causes the measurement process to be triggered earlier."
             },
             {
                   "c1": "Sensitivity S1",
