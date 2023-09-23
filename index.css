@@ -130,6 +130,10 @@ input {
     white-space: nowrap;
 }
 
+.infoLine:last-of-type {
+    border-bottom: 0px #ddd solid;
+}
+
 .cell_1 {
     width: 3%;
     justify-content: flex-start !important;
@@ -188,20 +192,6 @@ input {
 
 .checkTable>div>img {
  
-    cursor: pointer;
-}
-
-.moreInfoButton {
-    width: 80%;
-    height: 40px;
-    border-radius: 5px;
-    background-color: rgba(85, 164, 255, 0.267);
-    border: 0px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-left: 10%;
-    color: #444;
     cursor: pointer;
 }
 
