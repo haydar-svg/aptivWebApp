@@ -403,4 +403,8 @@ input {
         z-index: 99;
         position: relative;
     }
+    .cell_2 {
+        width: 15%;
+        padding-left: 1px;
+    }
 }
